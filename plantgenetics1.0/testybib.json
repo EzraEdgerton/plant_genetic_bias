@@ -1,0 +1,101 @@
+[
+    {
+        "authorsCOO": " Reprint Author CZECH REPUBLIC, CZECH REPUBLIC, DENMARK, ECUADOR, ", 
+        "genetictool": "microsatellite,", 
+        "fundingorganization": "Fond Mobility of Charles University in Prague", 
+        "journal": "ALPINE BOTANY", 
+        "focalspecies": "Lupinus Leguminosae,", 
+        "year": "2016", 
+        "focalspeciesCOO": "COLOMBIA,ECUADOR,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author ECUADOR,  Reprint Author USA,  Reprint Author USA, ECUADOR, USA, USA, USA, ", 
+        "genetictool": "microsatellite,microsatellites,EST,", 
+        "fundingorganization": "National Science Foundation (NSF) {[}DEB 0129179]; Judith Evans Parker\n   Travel Grant; Universidad Tecnologica Indoamerica {[}207 - 2011]", 
+        "journal": "BOTANICAL JOURNAL OF THE LINNEAN SOCIETY", 
+        "focalspecies": "Phaedranassa Amaryllidaceae,", 
+        "year": "2016", 
+        "focalspeciesCOO": "ECUADOR,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author ITALY, ITALY, FRANCE, ITALY, ", 
+        "genetictool": "", 
+        "fundingorganization": "McKnight Foundation {[}09-1100]; CGIAR Research Program on Policies,\n   Institutions and Markets", 
+        "journal": "WORLD DEVELOPMENT", 
+        "focalspecies": "", 
+        "year": "2015", 
+        "focalspeciesCOO": "BOLIVIA,ECUADOR,MEXICO,PERU,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author GERMANY, GERMANY, CZECH REPUBLIC, CANADA, SPAIN, CZECH REPUBLIC, ECUADOR, GERMANY, ", 
+        "genetictool": "AFLP,", 
+        "fundingorganization": "MSMT CzechPolar {[}LM2010009]; JAE-Doc Program; ESF; China Scholarship\n   Council (CSC) {[}2011618106];  {[}GAAV-A601110702]", 
+        "journal": "BIOTROPICA", 
+        "focalspecies": "Polylepis Rosaceae,", 
+        "year": "2015", 
+        "focalspeciesCOO": "ECUADOR,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author CHILE, CHILE, ARGENTINA, CHILE, ", 
+        "genetictool": "", 
+        "fundingorganization": "MARS, Inc. {[}58-6631-6-123]; USDA-ARS-SHRS, Miami, FL, cacao program", 
+        "journal": "CHILEAN JOURNAL OF AGRICULTURAL RESEARCH", 
+        "focalspecies": "Solanum Solanaceae,", 
+        "year": "2014", 
+        "focalspeciesCOO": "CHILE,COLOMBIA,ECUADOR,PERU,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author USA, USA, USA, USA, ECUADOR, ", 
+        "genetictool": "microsatellite,microsatellites,", 
+        "fundingorganization": "National Science Foundation (NSF) {[}DEB 0129179]", 
+        "journal": "BOTANICAL REVIEW", 
+        "focalspecies": "Phaedranassa Amaryllidaceae,Swietenia Meliaceae,", 
+        "year": "2013", 
+        "focalspeciesCOO": "ECUADOR,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author FRANCE, FRANCE, FRANCE, FRANCE, FRANCE, ", 
+        "genetictool": "microsatellites,", 
+        "fundingorganization": "French Ministry of European and Foreign Affairs; SYNTHESYS Project\n   (Synthesis of Systematic Resources); European Community Research\n   Infrastructure Action under the Seventh Framework Program; French\n   Ministry of Higher Education and Research", 
+        "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF\n   AMERICA", 
+        "focalspecies": "Batatas Convolvulaceae,Ipomoea Convolvulaceae,", 
+        "year": "2013", 
+        "focalspeciesCOO": "MEXICO,PERU,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author CHINA, CHINA, CHINA, ", 
+        "genetictool": "microsatellite,AFLP,", 
+        "fundingorganization": "Keygene Inc. {[}58-3K95-8-1253]", 
+        "journal": "OIKOS", 
+        "focalspecies": "Capsicum Solanaceae,Castanopsis Fagaceae,", 
+        "year": "2012", 
+        "focalspeciesCOO": "CHINA,ECUADOR,MEXICO,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author COLOMBIA, COLOMBIA, BELGIUM, SPAIN, KENYA, BOLIVIA, ECUADOR, ECUADOR, PERU, ", 
+        "genetictool": "microsatellite,molecular marker,AFLP,", 
+        "fundingorganization": "Beneficia Foundation; California Academy of Sciences; Cybec Foundation;\n   San Francisco State University (CGLab); Frankfurt Zoological Society;\n   Galapagos Conservation Trust; J.Q. Worthington Foundation Inc.;\n   Keidranen Nature Conservation Fund", 
+        "journal": "PLOS ONE", 
+        "focalspecies": "Annona Annonaceae,", 
+        "year": "2012", 
+        "focalspeciesCOO": "BOLIVIA,ECUADOR,NEW ZEALAND,PERU,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author GERMANY, GERMANY, GERMANY, USA, GERMANY, USA, AUSTRIA, USA, ", 
+        "genetictool": "", 
+        "fundingorganization": "German Science Foundation {[}DFG FOR 402, NE 887/1-3]; NSF\n   {[}DEB-0531557]", 
+        "journal": "TAXON", 
+        "focalspecies": "Aneura Aneuraceae,Cryptothallus Aneuraceae,Lobatiriccardia Aneuraceae,Mirabilis Nyctaginaceae,Riccardia Aneuraceae,Side Malvaceae,Verdoornia Makinoaceae,", 
+        "year": "2010", 
+        "focalspeciesCOO": "ECUADOR,"
+    }, 
+    {
+        "authorsCOO": " Reprint Author SPAIN, SPAIN, PERU, ECUADOR, ", 
+        "genetictool": "microsatellite,microsatellites,", 
+        "fundingorganization": "BBVA", 
+        "journal": "GENETIC RESOURCES AND CROP EVOLUTION", 
+        "focalspecies": "Lycopersicon Solanaceae,Solanum Solanaceae,", 
+        "year": "2009", 
+        "focalspeciesCOO": "ECUADOR,"
+    }
+]

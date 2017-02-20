@@ -1,0 +1,8 @@
+This script is for creating a dictionary of species and country of occurence from a gbif occurence.txt file generated from the Darwin Core Archive rich format in gbif.
+
+Each species is assigned as a unique key and for each new occurence of that species in a country, the new country code is appended as a value.
+
+TO USE:
+	1.) Navigate in terminal to directory where occurence.txt and species_countrycode.py files are located
+
+	2.) run: $ python species_countrycode.py [occurence_filename.txt] [output_filename.json]

@@ -1,0 +1,586 @@
+{
+    "nodes": [
+        {
+            "index": 0, 
+            "score": 0, 
+            "data": [], 
+            "name": "", 
+            "group": 1
+        }, 
+        {
+            "index": 1, 
+            "score": 22, 
+            "data": [
+                {
+                    "authorsCOO": "Reprint Author GERMANY, GERMANY, CZECH REPUBLIC, CANADA, SPAIN, CZECH REPUBLIC, ECUADOR, GERMANY,", 
+                    "genetictool": "AFLP,", 
+                    "fundingorganization": "msmt czechpolar  [ lm2010009]; jae-doc program; esf; china scholarship    council (csc)  [ 2011618106];   [ gaav-a601110702]", 
+                    "journal": "biotropica", 
+                    "focalspecies": "Polylepis Rosaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2015", 
+                    "focalspeciesCOO": "ECUADOR,"
+                }, 
+                {
+                    "authorsCOO": "Reprint Author CHINA, CHINA, CHINA,", 
+                    "genetictool": "microsatellite,", 
+                    "fundingorganization": "chinese academy of sciences  [ kscx2-ew-z, kscx2-ew-j-28]; foreign    exchange program national founder  [ 31061160188]; national key    technology rd program  [ 2008bac39b02]; national natural science    foundation of china  [ 31170352, 31100312]; chinese forest biodiversity    monitoring network", 
+                    "journal": "oikos", 
+                    "focalspecies": "Castanopsis Fagaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2012", 
+                    "focalspeciesCOO": "CHINA,ECUADOR,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "863 project  [ 2014aa021502]; national natural science foundation of    china (nsfc)  [ 21276079]", 
+                    "journal": "applied and environmental microbiology", 
+                    "focalspecies": "Erythraea Gentianaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "natural science foundation of china  [ 31201629]; science and technology    department of zhejiang province  [ 2016c32102]; science and technology    department of ningbo city; zhejiang academy of agricultural sciences", 
+                    "journal": "canadian journal of plant science", 
+                    "focalspecies": "Brassica Brassicaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "quantitative trait loci,DNA,", 
+                    "fundingorganization": "state administration of forestry of china  [ 201404102]; `one-thousand    person plan' award; `twelfth five-year' national science and technology    support program  [ 2012bad01b03]; national basic research program of    china  [ 2009cb119100]; china postdoctoral science foundation     [ 2014t70530]", 
+                    "journal": "plant biotechnology journal", 
+                    "focalspecies": "Pinus Pinaceae,Populus Salicaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "RNA,", 
+                    "fundingorganization": "ministry of science and technology of the people's republic of china     [ 2012cb113900]; national science foundation of china  [ 31301777];    chinese academy of sciences  [ kscx2-ew-j-12]", 
+                    "journal": "plant biotechnology journal", 
+                    "focalspecies": "Arabidopsis Brassicaceae,Lycopersicon Solanaceae,Solanum Solanaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national natural science foundation of china  [ 31470685, 31270720,    31100498]; natural science foundation of guangdong province     [ s2012010009025]; guangdong science and technology project     [ 2015b020231008]", 
+                    "journal": "trees-structure and function", 
+                    "focalspecies": "Santalum Santalaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "RNA,", 
+                    "fundingorganization": "national natural science foundation of china  [ 41471038, 31200500,    j1210063]; program for excellent young academic backbones - northwest    university, changjiang scholars and innovative research team in    university  [ irt1174]", 
+                    "journal": "conservation genetics resources", 
+                    "focalspecies": "Carya Juglandaceae,Juglans Juglandaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "DNA,", 
+                    "fundingorganization": "national natural science foundation of china  [ 31401456]; china    postdoctoral science foundation  [ 2015m572248]; national key technology    rd program  [ 2015bad05b02]; natural science foundation of hunan    province  [ 2016jj3052]; science and technology developmental program of    hunan province  [ 2015nk3030]; foundation of hunan province department    of education  [ 15c0410]; state key laboratory of hybrid rice (hunan    hybrid rice research center)  [ 2014kf04]; natural science foundation of    hunan university of technology  [ 2014hzx02]", 
+                    "journal": "journal of nanoscience and nanotechnology", 
+                    "focalspecies": "", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "simple sequence repeat,quantitative trait loci,SSR,DNA,", 
+                    "fundingorganization": "national natural science foundation of china  [ 31401456]; china    postdoctoral science foundation  [ 2015m572248]; national key technology    rd program  [ 2015bad05b02]; natural science foundation of hunan    province  [ 2016jj3052]; science and technology developmental program of    hunan province  [ 2015nk3030]; foundation of hunan province department    of education  [ 15c0410]; open research fund of state key laboratory of    hybrid rice (hunan hybrid rice research center)  [ 2014kf04]; natural    science foundation of hunan university of technology  [ 2014hzx02]", 
+                    "journal": "journal of nanoscience and nanotechnology", 
+                    "focalspecies": "Oryza Poaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "sequence specific amplification polymorphism,", 
+                    "fundingorganization": "national science foundation of china  [ 31170308, 91231117, 31301010];    science foundation for outstanding young teachers in higher education of    guangdong  [ yq2013005]; fundamental research funds for the central    universities  [ 16lgjc75]; chang hungta science foundation of sun    yat-sen university", 
+                    "journal": "molecular genetics and genomics", 
+                    "focalspecies": "Hibiscus Malvaceae,Kandelia Rhizophoraceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "CHINA,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national natural science foundation of china  [ 31101519]; earmarked    fund for china agriculture research system  [ cars-29-14]", 
+                    "journal": "plant molecular biology reporter", 
+                    "focalspecies": "Pyrus Rosaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "ministry of agriculture of the people's republic of china     [ 2009zx08001-005b]", 
+                    "journal": "plant molecular biology reporter", 
+                    "focalspecies": "Arabidopsis Brassicaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "SSR,DNA,", 
+                    "fundingorganization": "national basic research program of china  [ 2014cb138704]", 
+                    "journal": "new zealand journal of agricultural research", 
+                    "focalspecies": "Vicia Leguminosae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national high technology research and development program of china     [ 2013aa103007]; special fund for agro-scientific research in the    public interest  [ 201303022]; national natural science foundation of    china  [ 31570434, 3161101174]; jiangsu collaborative innovation center    for modern crop production; science and technology department of    zhejiang province  [ 2012c12902-1]; china postdoctoral science    foundation  [ 2016m592004]", 
+                    "journal": "environmental and experimental botany", 
+                    "focalspecies": "Brassica Brassicaceae,Holcus Poaceae,Oryza Poaceae,Pteris Pteridaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "chinese agriculture research system  [ cars-3-1-9]; public-benefit    project of the ministry of agriculture in china  [ 201203033]", 
+                    "journal": "field crops research", 
+                    "focalspecies": "Triticum Poaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "CHINA,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "QTL,", 
+                    "fundingorganization": "national natural science foundation of china  [ 31425022, 31272196]", 
+                    "journal": "planta", 
+                    "focalspecies": "Chrysanthemum Compositae,Hordeum Poaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national natural science foundation of china  [ 31172132]", 
+                    "journal": "molecular phylogenetics and evolution", 
+                    "focalspecies": "", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national program on key basic research project of china (973program)     [ 2014cb147300]; technology pillar program of liaoning province, china     [ 2015103001]; phd research startup foundation of liaoning province     [ 201501063]; postdoctoral science foundation of china  [ 2014 m561097]", 
+                    "journal": "bmc genomics", 
+                    "focalspecies": "Zea Poaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "microarray,", 
+                    "fundingorganization": "national natural science foundation of china  [ 31370595, 31300568];    natural science foundation of yunnan province  [ 2014fb186]; cas 135    program  [ xtbg-t02]", 
+                    "journal": "scientific reports", 
+                    "focalspecies": "Arabidopsis Brassicaceae,Jatropha Euphorbiaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national basic research program of china  [ 2013cb127100]; national    natural science foundation of china  [ 31672206]; fundamental research    funds for the central universities  [ 106112015cdjxy290003]", 
+                    "journal": "frontiers in plant science", 
+                    "focalspecies": "Arabidopsis Brassicaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national natural science foundation of china  [ 31570249]; hainan    university  [ kyqd1531]", 
+                    "journal": "scientific reports", 
+                    "focalspecies": "Capsicum Solanaceae,Musa Musaceae,", 
+                    "fundingCOO": "CHINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "CHINA", 
+            "group": 1
+        }, 
+        {
+            "index": 2, 
+            "score": 3, 
+            "data": [
+                {
+                    "authorsCOO": "Reprint Author COLOMBIA, COLOMBIA, BELGIUM, SPAIN, KENYA, BOLIVIA, ECUADOR, ECUADOR, PERU,", 
+                    "genetictool": "microsatellite,molecular marker,", 
+                    "fundingorganization": "european commission  [ 015100]; spanish ministry of education     [ agl2010-15140]; instituto nacional de investigacion y tecnologia    agraria y alimentaria (inia) from spain  [ rf2009-00010]; junta de    andalucia  [ feder agr2742]; inia-spain", 
+                    "journal": "plos one", 
+                    "focalspecies": "Annona Annonaceae,", 
+                    "fundingCOO": "SPAIN,", 
+                    "year": "2012", 
+                    "focalspeciesCOO": "BOLIVIA,ECUADOR,PERU,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "microsatellite,DNA,", 
+                    "fundingorganization": "seed grant - british herpetological society; mohamed bin zayed species    conservation fund  [ 140510038, 152511965]; consejo superior de    investigaciones cientificas of spain (csic); european social fund (esf)    (jae-pre phd fellowship); project ``biodiversity, ecology and global    change '' ; north portugal regional operational programme (on. 2 - o    novo norte), under the national strategic reference framework (nsrf),    through the european regional development fund (erdf); spanish severo    ochoa program  [ sev-2012-0262]", 
+                    "journal": "conservation genetics", 
+                    "focalspecies": "", 
+                    "fundingCOO": "PORTUGAL,SPAIN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "ALGERIA,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "french ministry of agriculture  [ 149-action 13-sous action 32]; spanish    ministry of economy and competitiveness  [ mtm2013-42323-p]; generalitat    valenciana (spain)  [ acomp/2015/202]", 
+                    "journal": "phytopathology", 
+                    "focalspecies": "Fraxinus Oleaceae,", 
+                    "fundingCOO": "SPAIN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "SPAIN", 
+            "group": 1
+        }, 
+        {
+            "index": 3, 
+            "score": 3, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "department of science and technology, government of india  [ if10493]", 
+                    "journal": "industrial crops and products", 
+                    "focalspecies": "Capsicum Solanaceae,", 
+                    "fundingCOO": "INDIA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "department of biotechnology, govt. of india  [ bt/agr/wheat    bioforti/ph-ii/2010]; council for scientific and industrial research", 
+                    "journal": "plant molecular biology reporter", 
+                    "focalspecies": "Aegilops Poaceae,Triticum Poaceae,", 
+                    "fundingCOO": "INDIA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "council of scientific and industrial research (csir), department of    biotechnology (dbt), department of science and technology (dst), india;    japan society for the promotion of science  [ 25440149]; csir", 
+                    "journal": "critical reviews in biotechnology", 
+                    "focalspecies": "Arabidopsis Brassicaceae,", 
+                    "fundingCOO": "INDIA,JAPAN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "INDIA", 
+            "group": 1
+        }, 
+        {
+            "index": 4, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "arc of south africa; ud 40 of the swedish university of agricultural    sciences", 
+                    "journal": "cereal research communications", 
+                    "focalspecies": "Sorghum Poaceae,", 
+                    "fundingCOO": "SOUTH AFRICA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "SOUTH AFRICA,"
+                }
+            ], 
+            "name": "SOUTH AFRICA", 
+            "group": 1
+        }, 
+        {
+            "index": 5, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "DNA,", 
+                    "fundingorganization": "natural science and engineering research council of canada; canada    research chair program; canadian foundation for innovation", 
+                    "journal": "heredity", 
+                    "focalspecies": "Arabidopsis Brassicaceae,Brassica Brassicaceae,Sinapis Brassicaceae,", 
+                    "fundingCOO": "CANADA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "CANADA", 
+            "group": 1
+        }, 
+        {
+            "index": 6, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "microsatellite,", 
+                    "fundingorganization": "singapore ministry of education  [ r-154-000-400-133]; lee hiok kwee    endowment  [ r-154-000-480-720]", 
+                    "journal": "heredity", 
+                    "focalspecies": "Koompassia Leguminosae,", 
+                    "fundingCOO": "SINGAPORE,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "SINGAPORE,"
+                }
+            ], 
+            "name": "SINGAPORE", 
+            "group": 1
+        }, 
+        {
+            "index": 7, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "microsatellite,AFLP,ISSR,RAPD,RFLP,SCAR,SSR,SNP,", 
+                    "fundingorganization": "research management center (rmc) of universiti putra malaysia     [ gp-ips/2013/9391500]", 
+                    "journal": "molecular biology reports", 
+                    "focalspecies": "Boesenbergia Zingiberaceae,Curcuma Zingiberaceae,India Orchidaceae,Zingiber Zingiberaceae,", 
+                    "fundingCOO": "MALAYSIA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "INDIA,"
+                }
+            ], 
+            "name": "MALAYSIA", 
+            "group": 1
+        }, 
+        {
+            "index": 8, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "australian research council  [ lp120200224]; university of western    australia; department of agriculture and food western australia (dafwa)", 
+                    "journal": "plant disease", 
+                    "focalspecies": "Pisum Leguminosae,", 
+                    "fundingCOO": "AUSTRALIA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "AUSTRALIA,"
+                }
+            ], 
+            "name": "AUSTRALIA", 
+            "group": 1
+        }, 
+        {
+            "index": 9, 
+            "score": 2, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "chloroplast DNA,DNA,", 
+                    "fundingorganization": "national research foundation of korea (nrf) - korea government (mest)     [ nrf-2015r1d1a1a01059886]", 
+                    "journal": "plant systematics and evolution", 
+                    "focalspecies": "Kalopanax Araliaceae,Leontopodium Compositae,Neolitsea Lauraceae,Platycrater Hydrangeaceae,", 
+                    "fundingCOO": "KOREA,KOREA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "CHINA,JAPAN,KOREA,KOREA,"
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "chloroplast DNA,DNA,", 
+                    "fundingorganization": "national research foundation of korea (nrf) - korea government (mest)     [ nrf-2015r1d1a1a01059886]", 
+                    "journal": "plant systematics and evolution", 
+                    "focalspecies": "Kalopanax Araliaceae,Leontopodium Compositae,Neolitsea Lauraceae,Platycrater Hydrangeaceae,", 
+                    "fundingCOO": "KOREA,KOREA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "CHINA,JAPAN,KOREA,KOREA,"
+                }
+            ], 
+            "name": "KOREA", 
+            "group": 1
+        }, 
+        {
+            "index": 10, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "microsatellite,DNA,", 
+                    "fundingorganization": "seed grant - british herpetological society; mohamed bin zayed species    conservation fund  [ 140510038, 152511965]; consejo superior de    investigaciones cientificas of spain (csic); european social fund (esf)    (jae-pre phd fellowship); project ``biodiversity, ecology and global    change '' ; north portugal regional operational programme (on. 2 - o    novo norte), under the national strategic reference framework (nsrf),    through the european regional development fund (erdf); spanish severo    ochoa program  [ sev-2012-0262]", 
+                    "journal": "conservation genetics", 
+                    "focalspecies": "", 
+                    "fundingCOO": "PORTUGAL,SPAIN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "ALGERIA,"
+                }
+            ], 
+            "name": "PORTUGAL", 
+            "group": 1
+        }, 
+        {
+            "index": 11, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "bundesministerium fur wirtschaftliche zusammenarbeit und entwicklung    (bmz) via german agency for international cooperation (giz), germany     [ 09.7860.1-001.00]; international center for research in dryland    agriculture (icarda); icarda under russian federation", 
+                    "journal": "journal of agronomy and crop science", 
+                    "focalspecies": "", 
+                    "fundingCOO": "GERMANY,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "GERMANY", 
+            "group": 1
+        }, 
+        {
+            "index": 12, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "comision nacional de investigacion cientifica y tecnologica (conicyt),    chile  [ fondecyt 1130541, fondecyt 3140623, fondecyt 1120890]", 
+                    "journal": "applied soil ecology", 
+                    "focalspecies": "Andropogon Poaceae,Triticum Poaceae,", 
+                    "fundingCOO": "CHILE,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "CHILE,"
+                }
+            ], 
+            "name": "CHILE", 
+            "group": 1
+        }, 
+        {
+            "index": 13, 
+            "score": 2, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "council of scientific and industrial research (csir), department of    biotechnology (dbt), department of science and technology (dst), india;    japan society for the promotion of science  [ 25440149]; csir", 
+                    "journal": "critical reviews in biotechnology", 
+                    "focalspecies": "Arabidopsis Brassicaceae,", 
+                    "fundingCOO": "INDIA,JAPAN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }, 
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "national science foundation (nsf) water and environmental technology    (wet) center; water resources research center (wrrc), the university of    arizona; japan society for the promotion of science (jsps); fulbright    master of science and technology scholarship", 
+                    "journal": "archives of virology", 
+                    "focalspecies": "", 
+                    "fundingCOO": "JAPAN,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": "JAPAN,UNITED STATES,"
+                }
+            ], 
+            "name": "JAPAN", 
+            "group": 1
+        }, 
+        {
+            "index": 14, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "earth and life sciences foundation (alw); netherlands organization for    scientific research (nwo)  [ 821006]", 
+                    "journal": "chemoecology", 
+                    "focalspecies": "Brassica Brassicaceae,", 
+                    "fundingCOO": "NETHERLANDS,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "NETHERLANDS", 
+            "group": 1
+        }, 
+        {
+            "index": 15, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "laboratoire d'ecology, systematique et evolution (ese, cnrs-umr 8079,    orsay, france)", 
+                    "journal": "isotopes in environmental and health studies", 
+                    "focalspecies": "Carthamus Compositae,", 
+                    "fundingCOO": "FRANCE,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "FRANCE", 
+            "group": 1
+        }, 
+        {
+            "index": 16, 
+            "score": 1, 
+            "data": [
+                {
+                    "authorsCOO": "", 
+                    "genetictool": "", 
+                    "fundingorganization": "agencia nacional de promocion cientifica y tecnologica (argentina);    focem-mercosur  [ cof 03/11]; fwo-vlaanderen  [ g018013n]; deutsche    forschungsgemeinschaft  [ sfb 1149 trauma inst 40/492-1, priority    program osteoimmunology tu 220/6-2, dfg-anr tu 220/13-1]; iwt-vlaanderen", 
+                    "journal": "scientific reports", 
+                    "focalspecies": "", 
+                    "fundingCOO": "ARGENTINA,", 
+                    "year": "2016", 
+                    "focalspeciesCOO": ""
+                }
+            ], 
+            "name": "ARGENTINA", 
+            "group": 1
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 13, 
+            "value": 1
+        }
+    ]
+}
