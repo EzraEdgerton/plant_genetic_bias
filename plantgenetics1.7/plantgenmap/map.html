@@ -3,6 +3,12 @@
 <meta charset="utf-8">
 <title>PlantGen World Map</title>
 <style>
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-opacity: .3; 
+}
 body { 
   color: #666; 
   background: #f3f3f3; 
@@ -78,15 +84,15 @@ var path = d3.geo.path()
 $scope.field = 'testauthors'
 $scope.fields = ['testauthors', 'firstauthor', 'lastauthor', 'speciesCOO']
 
-function redraw() {
-   //r svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + Math.max(d3.event.scale, .63) + ")"});
-}
+
 
 d3.select("#map")
   .attr("height", height)
   .attr("width", width)
 var tooltip = d3.select("#map").append("div")
     .attr("class", "tooltip");
+
+
 
 $scope.drawmap = function(field){
   d3.select('#map').empty();
@@ -98,6 +104,19 @@ $scope.drawmap = function(field){
     .on("zoom", redraw))
     .append("g");
 
+  svg.append("svg:defs").selectAll("marker")
+    .data(["end"])      // Different link/path types can be defined here
+  .enter().append("svg:marker")    // This section adds in the arrows
+    .attr("id", String)
+    .attr("viewBox", "0 -5 10 10")
+    .attr("refX", 15)
+    .attr("refY", -1.5)
+    .attr("markerWidth", 6)
+    .attr("markerHeight", 6)
+    .attr("orient", "auto")
+  .append("svg:path")
+    .attr("d", "M0,-5L10,0L0,5");
+
   svg.append('text')
     .attr('x', width/2 - 30)
     .attr('y', 20)
@@ -105,19 +124,18 @@ $scope.drawmap = function(field){
     .text(field)
 
     function redraw() {
-  //  svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + Math.max(d3.event.scale, .63) + ")"});
+    svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + Math.max(d3.event.scale, .63) + ")"});
 }
 
 
 queue()
     .defer(d3.json, "data/world-50m.json")
     .defer(d3.tsv, "data/world-country-names.tsv")
-    .defer(d3.json, field +".json")
+    .defer(d3.json, "smallmaptest.json")
     .await(ready);
 
 function ready(error, world, names, points) {
 
-  console.log(points)
 
   var countries = topojson.object(world, world.objects.countries).geometries,
       neighbors = topojson.neighbors(world, countries),
@@ -164,36 +182,32 @@ var country = svg.selectAll(".country").data(countries);
 
 
 
-  //render the points
-/*var point1x = projection(points.cities[0].geometry.coordinates)[0]
-var point1y = projection(points.cities[0].geometry.coordinates)[1]
-var point2x = projection(points.cities[10].geometry.coordinates)[0]
-var point2y = projection(points.cities[10].geometry.coordinates)[1]
-
-var links = [{'source': 0, 'target': 10}, {'source': 1, 'target': 8}, {'source': 3, 'target': 14}];
-var testdata = [[point1x, point1y], [point2x, point2y]]
-
-var diagonal = d3.svg.diagonal()
-                .projection(function(d) {projection(d.geometry.coordinates)
-
-var line =  d3.svg.line()
 
 
-svg
-  .append("path")
-  .attr('d', line(testdata))*/
+console.log(points[1].links)
 
- /* svg.append("line")
-        .attr("x1", point1x)
-        .attr("x2", point2x)
-        .attr("y1", point1y)
-        .attr("y2", point2y)
-        .style("stroke", "black")
-        .style("stroke-width", 5)*/
-/*svg.append("path")
-  .attr('d', )*/
+var links = points[1].links
 
-points.cities.forEach(function(d) { 
+links.forEach(function(link){
+  link.source = points[0].cities[link.source];
+  link.target = points[0].cities[link.target]
+
+})
+
+var path2 = svg.append("svg:g").selectAll("path")
+    .data(links)
+  .enter().append("svg:path")
+//    .attr("class", function(d) { return "link " + d.type; })
+    .attr("class", "link")
+    .attr('stroke-width', function(d){
+      return .3//d.value / 3
+    })
+   // .attr("marker-end", "url(#end)");
+
+
+console.log(links)
+
+points[0].cities.forEach(function(d) { 
       var x = projection(d.geometry.coordinates)[0];
       var y = projection(d.geometry.coordinates)[1];
       var r = d.score
@@ -202,7 +216,7 @@ points.cities.forEach(function(d) {
           .attr("class","point")
           .attr("cx", x)
           .attr("cy", y)
-          .attr("r",  Math.sqrt(r/Math.PI) * 3)
+          .attr("r",  Math.sqrt(r/Math.PI) * 10)
           .style("fill", "green")
           .style("fill-opacity", .8)
 
@@ -212,7 +226,7 @@ points.cities.forEach(function(d) {
        svg.append("svg:text")
           .attr("x", x+4)
           .attr("y", y+1)
-          .text(r);
+          .text();
 
         circles.on("mousemove", function(d,i) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -220,22 +234,49 @@ points.cities.forEach(function(d) {
         tooltip
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px")
-          .html(name)
+          .html(name + ' ' + r)
       })
       .on("mouseout",  function(d,i) {
         tooltip.classed("hidden", true)
       });
 
-      svg.append("svg:circle")
+  /*    svg.append("svg:circle")
         .attr("class", "centerpoint")
         .attr("cx", x)
         .attr("cy", y)
         .attr("r", 1)
-        .style("fill", "red")
+        .style("fill", "red")*/
 
 
 
   });
+
+path2.attr("d", function(d) {
+        var source = projection(d.source.geometry.coordinates)
+        var target = projection(d.target.geometry.coordinates)
+        var dx = target[0]- source[0],
+            dy = target[1] - source[1],
+            dr = Math.sqrt(dx * dx + dy * dy);
+        return "M" + 
+            source[0] + "," + 
+            source[1]+ "A" + 
+            dr + "," + dr + " 0 0,1 " + 
+            target[0] + "," + 
+            target[1];
+    })
+
+path2.on("mousemove", function(d,i) {
+        var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
+
+        tooltip
+          .classed("hidden", false)
+          .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px")
+          .html(d.source.properties.name + ' <=> ' + d.target.properties.name + '\n' + d.value)
+      })
+      .on("mouseout",  function(d,i) {
+        tooltip.classed("hidden", true)
+      });
+
 
 
 }

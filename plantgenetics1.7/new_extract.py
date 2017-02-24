@@ -200,7 +200,18 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 			funding_coo = country_inner_term_extractor(funding_coo)
 
-			
+			for co in range(0, len(authors_coo)):
+				if authors_coo[co] == 'USA':
+					authors_coo[co] = 'UNITED STATES'
+				#we can assume this, right?	
+				if authors_coo[co] == 'KOREA':
+					authors_coo[co] = 'SOUTH KOREA'
+			for co in range(0, len(funding_coo)):
+				if funding_coo[co] == 'USA':
+					funding_coo[co] = 'UNITED STATES'
+				if funding_coo[co] == 'KOREA':
+					funding_coo[co] = 'SOUTH KOREA'
+			print year_text
 			data.append({ 
 				'focalspecies' : focal_species, #focal_species.encode('utf-8').strip(),
 				'focalspeciesCOO' : countries,#countries.encode('utf-8').strip(), 
@@ -218,6 +229,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 		for file in readfiles:
 			readfile = open(file)
 			text =  readfile.read()
+			print text[0: 15]
 			text = text.lower()
 
 			index_start = text.find('@article')
