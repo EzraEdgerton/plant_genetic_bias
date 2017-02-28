@@ -50,8 +50,14 @@ div.tooltip {
 <div ng-controller="twitterselect">
 
 <br><br>
-<!--<h4>Change Field</h4>
-          <select ng-model="field" ng-options="m for m in fields" ng-change="drawmap()"></select>-->
+<h4>Filter Fields</h4>
+<span id="option" ng-repeat="m in fields">
+
+    <input name="updateButton" 
+           type="button" 
+           value="{{m[0]}}" 
+           ng-click="updateData(m)" />
+</span>
 <div id="map" style="height:100; width:960"></div>
 </div>
 <script src="js/d3.v3.min.js"></script>
@@ -81,10 +87,10 @@ var path = d3.geo.path()
 
 
 
-$scope.field = 'testauthors'
-$scope.fields = ['testauthors', 'firstauthor', 'lastauthor', 'speciesCOO']
+//$scope.field = 'testauthors'
+//$scope.fields = ['authors', 'firstauthor', 'lastauthor', 'speciesCOO', 'funding']
 
-
+$scope.fields = [['authors', true, 0], ['firstauthor', true, 1], ['lastauthor', true, 2], ['focalspecies', true, 3], ['funding', true, 4]]
 
 d3.select("#map")
   .attr("height", height)
@@ -94,7 +100,7 @@ var tooltip = d3.select("#map").append("div")
 
 
 
-$scope.drawmap = function(field){
+
   d3.select('#map').empty();
   var svg = d3.select("#map").append("svg")
     .attr("width", width)
@@ -111,30 +117,37 @@ $scope.drawmap = function(field){
     .attr("viewBox", "0 -5 10 10")
     .attr("refX", 15)
     .attr("refY", -1.5)
-    .attr("markerWidth", 6)
-    .attr("markerHeight", 6)
+    .attr("markerWidth", 1)
+    .attr("markerHeight", 1)
     .attr("orient", "auto")
   .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5");
+    .attr("d", "M0,-5L10,0L0,5")
+    .style('fill', 'orange');
 
-  svg.append('text')
+ /* svg.append('text')
     .attr('x', width/2 - 30)
     .attr('y', 20)
     .style('font-size', '20px')
-    .text(field)
+    .text(field)*/
 
     function redraw() {
-    svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + Math.max(d3.event.scale, .63) + ")"});
+    svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")"});
 }
-
+ /*   function redraw() {
+    svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + Math.max(d3.event.scale, .63) + ")"});
+}*/
 
 queue()
     .defer(d3.json, "data/world-50m.json")
     .defer(d3.tsv, "data/world-country-names.tsv")
-    .defer(d3.json, "smallmaptest.json")
+    .defer(d3.json, "focalspecies.json")
+    .defer(d3.json, "authors.json")
+    .defer(d3.json, "lastauthor.json")
+    .defer(d3.json, "funding.json")
+    .defer(d3.json, "firstauthor.json")
     .await(ready);
 
-function ready(error, world, names, points) {
+function ready(error, world, names, focalspecies,authors, lastauthor, funding, firstauthor) {
 
 
   var countries = topojson.object(world, world.objects.countries).geometries,
@@ -184,13 +197,24 @@ var country = svg.selectAll(".country").data(countries);
 
 
 
-console.log(points[1].links)
+//console.log(points[1].links)
+var fieldstrings = ['focalspecies', 'authors', 'firstauthor', 'lastauthor', 'funding']
+ var fields = [focalspecies, authors, firstauthor, lastauthor, funding];
+ //var fields = [lastauthor, firstauthor];
+ var colors = [ 'grey', 'green', 'red', 'blue', 'white']
+for (var i = 0; i < fields.length; i++){
 
-var links = points[1].links
+field = fields[i]
+color = colors[i]
+var links = field[1].links
 
 links.forEach(function(link){
-  link.source = points[0].cities[link.source];
-  link.target = points[0].cities[link.target]
+  if (link.source == -1 || link.target == -1){
+    link.source = 1;
+    link.target = 1;
+  }
+  link.source = field[0].cities[link.source];
+  link.target = field[0].cities[link.target]
 
 })
 
@@ -198,27 +222,38 @@ var path2 = svg.append("svg:g").selectAll("path")
     .data(links)
   .enter().append("svg:path")
 //    .attr("class", function(d) { return "link " + d.type; })
-    .attr("class", "link")
+    .attr("class", "link " + fieldstrings[i])
     .attr('stroke-width', function(d){
-      return .3//d.value / 3
+      if (i == 0){
+        return .1
+      }
+      return d.value / 6
     })
+    .attr('stroke', color)
+   // .attr('class', field)
    // .attr("marker-end", "url(#end)");
 
 
-console.log(links)
+//console.log(links)
 
-points[0].cities.forEach(function(d) { 
+field[0].cities.forEach(function(d) { 
       var x = projection(d.geometry.coordinates)[0];
       var y = projection(d.geometry.coordinates)[1];
       var r = d.score
 
       var circles = svg.append("svg:circle")
-          .attr("class","point")
+          .attr("class", 'point ' + fieldstrings[i])
           .attr("cx", x)
           .attr("cy", y)
-          .attr("r",  Math.sqrt(r/Math.PI) * 10)
-          .style("fill", "green")
+          .attr("r",  function(d) {
+            if ( i == 0){
+              return Math.sqrt(r/Math.PI) / 3
+            }
+            return Math.sqrt(r/Math.PI) 
+           })
+          .style("fill", color)
           .style("fill-opacity", .8)
+
 
 
       var name = d.properties.name;
@@ -260,10 +295,13 @@ path2.attr("d", function(d) {
         return "M" + 
             source[0] + "," + 
             source[1]+ "A" + 
-            dr + "," + dr + " 0 0,1 " + 
+            dr / (1 + (i/10)) + "," + dr + " 0 0,1 " + 
             target[0] + "," + 
             target[1];
     })
+    .style('stroke', color)
+    .style('stroke-opacity', .2)
+
 
 path2.on("mousemove", function(d,i) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -271,18 +309,45 @@ path2.on("mousemove", function(d,i) {
         tooltip
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px")
-          .html(d.source.properties.name + ' <=> ' + d.target.properties.name + '\n' + d.value)
+          .html(d.source.properties.name + ' => ' + d.target.properties.name + '\n' + d.value)
       })
       .on("mouseout",  function(d,i) {
         tooltip.classed("hidden", true)
       });
 
+}
+
+
+$scope.updateData = function(thing){
+  console.log($scope.fields[thing[2]])
+  if (thing[1]){
+    thing[1] = false
+    $scope.fields[thing[2]][1] = false
+  }
+  else {
+    thing[1] = true
+    $scope.fields[thing[2]][1] = true
+  }
+  var change = svg.selectAll("." + thing[0]).transition()
+  //var change = svg.selectAll('#map1').transition()
+
+  change
+      .duration(750)
+      .attr('display', function(d){
+      if (thing[1]){
+        return ''
+      }
+      else {
+        return 'none'
+      }
+    });
+}
+
 
 
 }
-}
+
 //$scope.fields.forEach(function(d){
-  $scope.drawmap($scope.fields[0])
 //})
 
 }])

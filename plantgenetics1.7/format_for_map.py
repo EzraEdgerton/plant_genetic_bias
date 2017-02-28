@@ -12,7 +12,6 @@ def search(values, searchFor):
 			return k["index"]
 		if k['properties']['nameofficial'].lower() == searchFor:
 			return k["index"]
-
 	return -1
 
 def separate(string, field):
@@ -24,13 +23,12 @@ def separate(string, field):
 
 	
 	split_vals = string
-	"""for i in range(0, len(split_vals)):
-		if split_vals[i][0:8] == " Reprint":
-			split_vals[i] = ' ' + split_vals[i].split(' ', 3)[3]
-		elif split_vals[i][0:9] == "  Reprint":
-			split_vals[i] = ' ' + split_vals[i].split(' ', 4)[4]"""
 	try:
 		split_vals.remove(" ")
+	except ValueError:
+		return split_vals
+	try:
+		split_vals.remove("")
 	except ValueError:
 		return split_vals
 	return split_vals
@@ -52,7 +50,14 @@ def search_links(links, val_1, val_2):
 			return l
 	return -1
 
-def format_country_location(country_info, id_num):
+def search_links_directed(links, val_1, val_2):
+	for l in range(0, len(links)):
+		if links[l]['source'] == val_1 and links[l]['target'] == val_2:
+			return l
+	return -1
+
+def format_country_location(country_info, id_num, dummy=1):
+
 	return {
 		"type": "Feature",
 		"id": id_num,
@@ -65,14 +70,15 @@ def format_country_location(country_info, id_num):
 			"name": country_info["name"],
 			"nameofficial": country_info['name_official']
 			},
-		"score": 1}
+		"score": dummy}
 
 readfilename = sys.argv[1]
 
-writefilename = sys.argv[2]
+#writefilename = sys.argv[2]
 
 
-field = sys.argv[3]
+field = sys.argv[2]
+writefilename = 'plantgenmap/' + field + '.json'
 
 order = -1
 
@@ -90,11 +96,12 @@ if field == 'focalspecies':
 if field == 'funding':
 	field = 'fundingCOO'
 
+
+
 json_data = open(readfilename, 'r')
 plant_data = json.load(json_data)
 
 writefile = open(writefilename, 'w')
-
 
 
 
@@ -107,11 +114,13 @@ def format_cities(data, field_of_interest, order):
 						}
 	pre_links = []
 	id_number = 0
-	print country_data["cities"]
+
 	for d in data:
 		field_separated = separate(d[field_of_interest], field_of_interest)
-		#field_separated = field_separated[0:len(field_separated) -1 ]
 		print field_separated
+		other_fields = []
+		for val in field_separated:
+			other_fields.append(val)
 
 		if len(field_separated) > 0:
 			if field_of_interest == "authorsCOO":
@@ -123,8 +132,6 @@ def format_cities(data, field_of_interest, order):
 				field_separated = separate(d[field_of_interest], field_of_interest)
 		#remove trailing and heading whitespace
 		for val in field_separated:
-
-			#print val
 			if len(val) > 0:
 				if val[0] == " ":
 					val = val[1: len(val)]
@@ -141,17 +148,28 @@ def format_cities(data, field_of_interest, order):
 						location_data = format_country_location(country_location, id_number)
 						id_number = id_number + 1
 						country_data['cities'].append(location_data)
-		other_fields = field_separated
-		#print 
-		#print other_fields
-		for val in other_fields:
-			print val
+		
+		for val in field_separated:
+			#print other_fields
+			#print val
 			val =  val.strip()
 			other_fields.remove(val)
 			index = search(country_data['cities'], val)
+
 			for other in other_fields:
 				index2 = search(country_data['cities'], other)
-				link_index =  search_links(pre_links, index, index2)
+		
+				if index2 == -1:
+					for country_location in country_locations_json:
+							if country_location['name'].lower() == other.lower() or country_location['name_official'].lower() == other.lower():
+								location_data = format_country_location(country_location, id_number, 0)
+								index2 = id_number
+								id_number = id_number + 1
+								country_data['cities'].append(location_data)
+				if order != -1:
+					link_index =  search_links_directed(pre_links, index, index2)
+				else:
+					link_index =  search_links(pre_links, index, index2)
 				if link_index != -1:
 					pre_links[link_index]["value"] = pre_links[link_index]["value"] + 1
 				else:

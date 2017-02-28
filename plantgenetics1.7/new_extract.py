@@ -139,7 +139,8 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 					'\nkeywords', 
 					'\nkeywords-plus', 
 					'\nfunding-acknowledgement', 
-					'\nauthor_keywords']
+					'\nauthor_keywords', 
+					'\nfunding_details']
 
 			title_text = ''
 			journal_text = ''
@@ -150,6 +151,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 			keywords_plus_text = ''
 			funding_text = ''
 			author_keywords = ''
+			funding_details = ''
 			results = [
 					title_text, 
 					journal_text, 
@@ -159,7 +161,8 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 					keywords_text, 
 					keywords_plus_text, 
 					funding_text, 
-					author_keywords]
+					author_keywords,
+					funding_details]
 			for i in range(0, len(fields)):
 				field_index = entry_text.find(fields[i])
 				if field_index != -1:
@@ -182,7 +185,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 			year_text = results[2]
 			journal_text = results[1]
-			funding_text = results[7]
+			funding_text = results[7] + results[9]
 			abstract_text = results[3]
 
 			#remove ugly characters
