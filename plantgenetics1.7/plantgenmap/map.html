@@ -790,7 +790,8 @@ side_graph.remove()
     if (sel_field == 'firstauthor' || sel_field == 'lastauthor'){
       linkpath.attr("marker-mid", "url(#middle)");
     }
-
+     linkpath.append("title")
+      .text(function(d) { return  d.value });
 
 
 
@@ -804,6 +805,10 @@ side_graph.remove()
       .style("stroke", 'black')
       .call(force.drag);
 
+      node.append("title")
+      .text(function(d) { return  d.score });
+
+
 var text = side_graph.selectAll('.text')
     .data(force_graph_data.nodes)
     .enter().append('text')
@@ -813,6 +818,9 @@ var text = side_graph.selectAll('.text')
     .style('font-size', '9px')
     .style('font-weight', 'bold')
     .text((d) => d.properties.name);
+
+       text.append("title")
+      .text(function(d) { return  d.score });
 
     force.on("tick", function() {
 

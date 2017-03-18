@@ -56,7 +56,7 @@ def search_links_directed(links, val_1, val_2):
 			return l
 	return -1
 
-def format_country_location(country_info, id_num, dummy=1):
+def format_country_location(country_info, id_num, data, dummy=1):
 
 	return {
 		"type": "Feature",
@@ -70,7 +70,9 @@ def format_country_location(country_info, id_num, dummy=1):
 			"name": country_info["name"],
 			"nameofficial": country_info['name_official']
 			},
-		"score": dummy}
+		"score": dummy#,
+		#"data": data
+		}
 
 readfilename = sys.argv[1]
 
@@ -145,7 +147,7 @@ def format_cities(data, field_of_interest, order):
 				val_lower = val.lower()
 				for country_location in country_locations_json:
 					if country_location['name'].lower() == val.lower() or country_location['name_official'].lower() == val.lower():
-						location_data = format_country_location(country_location, id_number)
+						location_data = format_country_location(country_location, id_number, d)
 						id_number = id_number + 1
 						country_data['cities'].append(location_data)
 		
@@ -162,7 +164,7 @@ def format_cities(data, field_of_interest, order):
 				if index2 == -1:
 					for country_location in country_locations_json:
 							if country_location['name'].lower() == other.lower() or country_location['name_official'].lower() == other.lower():
-								location_data = format_country_location(country_location, id_number, 0)
+								location_data = format_country_location(country_location, id_number, d, 0)
 								index2 = id_number
 								id_number = id_number + 1
 								country_data['cities'].append(location_data)
