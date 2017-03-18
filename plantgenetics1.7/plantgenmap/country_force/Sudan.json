@@ -1,0 +1,269 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 63, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.37145459, 
+                    15.96646839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 63, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "SUDAN", 
+                    "SUDAN", 
+                    "SUDAN"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "knowledge of genetic diversity is important for successful conservation and domestication of species. in order to determine genetic diversity within and among sclerocarya birrea (a. rich.) htochst. subsp. birrea populations in sudan, random amplified polymorphic dna (rapd) markers were used. leaf materials from 75 seedlings from five populations (rashad, alfaid, alkhwi, aldamazin and baw) of this species were used to compare the genetic diversity. a total of 37 bands were generated using four primers. genetic variation within the populations as estimated by shannon information index ranged from 0.343 to 0.272 with an overall diversity of 0.306. analysis of molecular variance revealed that 46% of the variation was attributed to differences among the populations and 54% within the populations (p < 0.001). the gene flow among population was small (nm = 0.297). upgma cluster and principal coordinate analyses (pca) indicated alfaid as the most distinct population. since genetic variation was found to occur among and within the populations of s. birrea (a. rich.) hochst. subsp. birrea, conservation of these populations would help in the maintenance of the species. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sudan", 
+                "nameofficial": "Republic of the Sudan"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 63, 
+            "target": 63, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 63, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.37145459, 
+                    15.96646839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 63, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "SUDAN", 
+                    "SUDAN", 
+                    "SUDAN"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "knowledge of genetic diversity is important for successful conservation and domestication of species. in order to determine genetic diversity within and among sclerocarya birrea (a. rich.) htochst. subsp. birrea populations in sudan, random amplified polymorphic dna (rapd) markers were used. leaf materials from 75 seedlings from five populations (rashad, alfaid, alkhwi, aldamazin and baw) of this species were used to compare the genetic diversity. a total of 37 bands were generated using four primers. genetic variation within the populations as estimated by shannon information index ranged from 0.343 to 0.272 with an overall diversity of 0.306. analysis of molecular variance revealed that 46% of the variation was attributed to differences among the populations and 54% within the populations (p < 0.001). the gene flow among population was small (nm = 0.297). upgma cluster and principal coordinate analyses (pca) indicated alfaid as the most distinct population. since genetic variation was found to occur among and within the populations of s. birrea (a. rich.) hochst. subsp. birrea, conservation of these populations would help in the maintenance of the species. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sudan", 
+                "nameofficial": "Republic of the Sudan"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 63, 
+            "target": 63, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 63, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.37145459, 
+                    15.96646839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 63, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "SUDAN", 
+                    "SUDAN", 
+                    "SUDAN"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "knowledge of genetic diversity is important for successful conservation and domestication of species. in order to determine genetic diversity within and among sclerocarya birrea (a. rich.) htochst. subsp. birrea populations in sudan, random amplified polymorphic dna (rapd) markers were used. leaf materials from 75 seedlings from five populations (rashad, alfaid, alkhwi, aldamazin and baw) of this species were used to compare the genetic diversity. a total of 37 bands were generated using four primers. genetic variation within the populations as estimated by shannon information index ranged from 0.343 to 0.272 with an overall diversity of 0.306. analysis of molecular variance revealed that 46% of the variation was attributed to differences among the populations and 54% within the populations (p < 0.001). the gene flow among population was small (nm = 0.297). upgma cluster and principal coordinate analyses (pca) indicated alfaid as the most distinct population. since genetic variation was found to occur among and within the populations of s. birrea (a. rich.) hochst. subsp. birrea, conservation of these populations would help in the maintenance of the species. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sudan", 
+                "nameofficial": "Republic of the Sudan"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 63, 
+            "target": 63, 
+            "value": 2
+        }
+    ]
+}
+]

@@ -1,0 +1,116 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 50, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 50, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "AZERBAIJAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "this paper highlights work on the mobilization and conservation of plant genetic resources of azerbaijan. it gives a summary of the activities of the national genebank at the genetic resources institute of the national academy of sciences of azerbaijan, establishment of the information center, and development of a unified information system with a centralized database for the plant genetic resources of azerbaijan. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 50, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 50, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "AZERBAIJAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "this paper highlights work on the mobilization and conservation of plant genetic resources of azerbaijan. it gives a summary of the activities of the national genebank at the genetic resources institute of the national academy of sciences of azerbaijan, establishment of the information center, and development of a unified information system with a centralized database for the plant genetic resources of azerbaijan. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 50, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 50, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "AZERBAIJAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "this paper highlights work on the mobilization and conservation of plant genetic resources of azerbaijan. it gives a summary of the activities of the national genebank at the genetic resources institute of the national academy of sciences of azerbaijan, establishment of the information center, and development of a unified information system with a centralized database for the plant genetic resources of azerbaijan. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }
+    ], 
+    "links": []
+}
+]

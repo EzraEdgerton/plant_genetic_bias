@@ -1,0 +1,423 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    102.41837137, 
+                    57.96812298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 14, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Russia", 
+                "nameofficial": "Russian Federation"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 186, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 10, 
+            "target": 11, 
+            "value": 4
+        }, 
+        {
+            "source": 5, 
+            "target": 11, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 11, 
+            "value": 6
+        }, 
+        {
+            "source": 11, 
+            "target": 3, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    102.41837137, 
+                    57.96812298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Russia", 
+                "nameofficial": "Russian Federation"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 10, 
+            "target": 11, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 11, 
+            "value": 5
+        }, 
+        {
+            "source": 3, 
+            "target": 11, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    102.41837137, 
+                    57.96812298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Russia", 
+                "nameofficial": "Russian Federation"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "target": 11, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 11, 
+            "value": 5
+        }, 
+        {
+            "source": 11, 
+            "target": 3, 
+            "value": 1
+        }
+    ]
+}
+]

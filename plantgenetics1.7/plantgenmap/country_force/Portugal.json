@@ -1,0 +1,1119 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.03768042, 
+                    39.44879136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 8, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "seed grant - british herpetological society; mohamed bin zayed species    conservation fund  [ 140510038, 152511965]; consejo superior de    investigaciones cientificas of spain (csic); european social fund (esf)    (jae-pre phd fellowship); project ``biodiversity, ecology and global    change '' ; north portugal regional operational programme (on. 2 - o    novo norte), under the national strategic reference framework (nsrf),    through the european regional development fund (erdf); spanish severo    ochoa program  [ sev-2012-0262]", 
+                "journal": "conservation genetics", 
+                "focalspecies": [], 
+                "fundingCOO": [
+                    "PORTUGAL", 
+                    "SPAIN"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{short-range endemics are high-priority conservation targets, and\n   valuable information for their management can be obtained from\n   assessments of genetic diversity and structure, including potential\n   hybridization with related species, and the investigation of factors\n   shaping their patterns of occurrence. the edough ribbed newt,\n   pleurodeles poireti, is restricted to the edough peninsula in algeria,\n   and listed as endangered in iucn's red list. its range is completely\n   surrounded by the more widespread, closely related, algerian ribbed\n   newt, pleurodeles nebulosus. here we examined patterns of genetic\n   diversity and structure in p. poireti using mtdna sequences of the nd4\n   gene and a suite of 12 polymorphic microsatellites in a sample of 193\n   individuals from 46 populations covering the whole range of p. poireti\n   and neighboring populations of p. nebulosus. we also investigated the\n   influence of environmental variables (climate, topography, soil texture\n   and plant cover) on the patterns of occurrence of both species. genetic\n   data allow fine scale delineation of the ranges of the two species and\n   provide evidence for hybridization in several localities in a broad area\n   of overlap. niche analyses indicate that p. nebulosus and p. poireti\n   tend to occupy similar niches and that the hybrid zone is not associated\n   to an ecotone. this suggests that the range boundaries of the two\n   species may be constrained by reciprocal exclusion, although in the case\n   of p. poireti there are additional environmental constraints. these\n   distributional patterns could be explained by high occupation of\n   habitats by p. poireti, hindering the penetration of p. nebulosus by a\n   `density blocking' effect.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Portugal", 
+                "nameofficial": "Portuguese Republic"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "seed grant - british herpetological society; mohamed bin zayed species    conservation fund  [ 140510038, 152511965]; consejo superior de    investigaciones cientificas of spain (csic); european social fund (esf)    (jae-pre phd fellowship); project ``biodiversity, ecology and global    change '' ; north portugal regional operational programme (on. 2 - o    novo norte), under the national strategic reference framework (nsrf),    through the european regional development fund (erdf); spanish severo    ochoa program  [ sev-2012-0262]", 
+                "journal": "conservation genetics", 
+                "focalspecies": [], 
+                "fundingCOO": [
+                    "PORTUGAL", 
+                    "SPAIN"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{short-range endemics are high-priority conservation targets, and\n   valuable information for their management can be obtained from\n   assessments of genetic diversity and structure, including potential\n   hybridization with related species, and the investigation of factors\n   shaping their patterns of occurrence. the edough ribbed newt,\n   pleurodeles poireti, is restricted to the edough peninsula in algeria,\n   and listed as endangered in iucn's red list. its range is completely\n   surrounded by the more widespread, closely related, algerian ribbed\n   newt, pleurodeles nebulosus. here we examined patterns of genetic\n   diversity and structure in p. poireti using mtdna sequences of the nd4\n   gene and a suite of 12 polymorphic microsatellites in a sample of 193\n   individuals from 46 populations covering the whole range of p. poireti\n   and neighboring populations of p. nebulosus. we also investigated the\n   influence of environmental variables (climate, topography, soil texture\n   and plant cover) on the patterns of occurrence of both species. genetic\n   data allow fine scale delineation of the ranges of the two species and\n   provide evidence for hybridization in several localities in a broad area\n   of overlap. niche analyses indicate that p. nebulosus and p. poireti\n   tend to occupy similar niches and that the hybrid zone is not associated\n   to an ecotone. this suggests that the range boundaries of the two\n   species may be constrained by reciprocal exclusion, although in the case\n   of p. poireti there are additional environmental constraints. these\n   distributional patterns could be explained by high occupation of\n   habitats by p. poireti, hindering the penetration of p. nebulosus by a\n   `density blocking' effect.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 8, 
+            "target": 9, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 33, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.03768042, 
+                    39.44879136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 33, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "PORTUGAL", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of ecology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "dispersal ecology is a broad topical discipline that tackles important conceptual and applied issues, such as the study of the ability of plants to transmit their propagules across fragmented and managed landscapes. the relevance of dispersal for plant populations is threefold because: (i) dispersal processes scale from genes and individuals that disperse (or produce propagules to be dispersed) to population dynamics and both local and regional distribution patterns; (ii) by dispersing propagules or individuals and the genes they carry, dispersal inherently links demographic and genetic dynamics across the landscape; and (iii) dispersal elicits key ecological and evolutionary processes that sustain biodiversity, such as species assembly in species-rich communities. the steady improvement of tracking devices and molecular tools that trace the movement or infer provenance of organisms and the pressing need to address conservation issues have expanded the disciplinary boundaries of dispersal ecology. the discussion on the main advances on and challenges for dispersal ecology was the main motivation for the organization of a thematic topic session entitled dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world at the annual meeting of the british ecological society (2015, edinburgh). this session brought together researchers with different types of expertise and interests on dispersal processes and their contributions are now included in this special feature together with a few additional articles. synthesis. overall, this special feature illustrates that dispersal ecology spans a broad range of research topics by integrating eight contributions that cover key aspects of this discipline: from conceptual and methodological advances to the study of the ecological and evolutionary outcomes. \u00a9 2016 the authors. journal of ecology \u00a9 2016 british ecological society", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Portugal", 
+                "nameofficial": "Portuguese Republic"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 33, 
+            "target": 12, 
+            "value": 1
+        }, 
+        {
+            "source": 33, 
+            "target": 24, 
+            "value": 1
+        }, 
+        {
+            "source": 33, 
+            "target": 33, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 33, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 33, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.03768042, 
+                    39.44879136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 33, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "PORTUGAL", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of ecology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "dispersal ecology is a broad topical discipline that tackles important conceptual and applied issues, such as the study of the ability of plants to transmit their propagules across fragmented and managed landscapes. the relevance of dispersal for plant populations is threefold because: (i) dispersal processes scale from genes and individuals that disperse (or produce propagules to be dispersed) to population dynamics and both local and regional distribution patterns; (ii) by dispersing propagules or individuals and the genes they carry, dispersal inherently links demographic and genetic dynamics across the landscape; and (iii) dispersal elicits key ecological and evolutionary processes that sustain biodiversity, such as species assembly in species-rich communities. the steady improvement of tracking devices and molecular tools that trace the movement or infer provenance of organisms and the pressing need to address conservation issues have expanded the disciplinary boundaries of dispersal ecology. the discussion on the main advances on and challenges for dispersal ecology was the main motivation for the organization of a thematic topic session entitled dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world at the annual meeting of the british ecological society (2015, edinburgh). this session brought together researchers with different types of expertise and interests on dispersal processes and their contributions are now included in this special feature together with a few additional articles. synthesis. overall, this special feature illustrates that dispersal ecology spans a broad range of research topics by integrating eight contributions that cover key aspects of this discipline: from conceptual and methodological advances to the study of the ecological and evolutionary outcomes. \u00a9 2016 the authors. journal of ecology \u00a9 2016 british ecological society", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Portugal", 
+                "nameofficial": "Portuguese Republic"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 32, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 28, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 33, 
+            "target": 12, 
+            "value": 1
+        }, 
+        {
+            "source": 33, 
+            "target": 24, 
+            "value": 1
+        }, 
+        {
+            "source": 33, 
+            "target": 33, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 33, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 33, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.03768042, 
+                    39.44879136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 33, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "PORTUGAL", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of ecology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "dispersal ecology is a broad topical discipline that tackles important conceptual and applied issues, such as the study of the ability of plants to transmit their propagules across fragmented and managed landscapes. the relevance of dispersal for plant populations is threefold because: (i) dispersal processes scale from genes and individuals that disperse (or produce propagules to be dispersed) to population dynamics and both local and regional distribution patterns; (ii) by dispersing propagules or individuals and the genes they carry, dispersal inherently links demographic and genetic dynamics across the landscape; and (iii) dispersal elicits key ecological and evolutionary processes that sustain biodiversity, such as species assembly in species-rich communities. the steady improvement of tracking devices and molecular tools that trace the movement or infer provenance of organisms and the pressing need to address conservation issues have expanded the disciplinary boundaries of dispersal ecology. the discussion on the main advances on and challenges for dispersal ecology was the main motivation for the organization of a thematic topic session entitled dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world at the annual meeting of the british ecological society (2015, edinburgh). this session brought together researchers with different types of expertise and interests on dispersal processes and their contributions are now included in this special feature together with a few additional articles. synthesis. overall, this special feature illustrates that dispersal ecology spans a broad range of research topics by integrating eight contributions that cover key aspects of this discipline: from conceptual and methodological advances to the study of the ecological and evolutionary outcomes. \u00a9 2016 the authors. journal of ecology \u00a9 2016 british ecological society", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Portugal", 
+                "nameofficial": "Portuguese Republic"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 24, 
+            "target": 33, 
+            "value": 1
+        }, 
+        {
+            "source": 33, 
+            "target": 33, 
+            "value": 2
+        }, 
+        {
+            "source": 33, 
+            "target": 7, 
+            "value": 2
+        }
+    ]
+}
+]

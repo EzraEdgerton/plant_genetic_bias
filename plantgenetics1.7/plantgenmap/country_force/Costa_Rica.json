@@ -1,0 +1,599 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.09949534, 
+                    9.98427463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Costa Rica", 
+                "nameofficial": "Republic of Costa Rica"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.590151, 
+                    18.21963053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Puerto Rico", 
+                "nameofficial": "Commonwealth of Puerto Rico"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 73, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "source": 73, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 73, 
+            "target": 74, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 73, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.09949534, 
+                    9.98427463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Costa Rica", 
+                "nameofficial": "Republic of Costa Rica"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.590151, 
+                    18.21963053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Puerto Rico", 
+                "nameofficial": "Commonwealth of Puerto Rico"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 73, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "source": 73, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 73, 
+            "target": 74, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 73, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.09949534, 
+                    9.98427463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Costa Rica", 
+                "nameofficial": "Republic of Costa Rica"
+            }
+        }, 
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.590151, 
+                    18.21963053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Puerto Rico", 
+                "nameofficial": "Commonwealth of Puerto Rico"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 73, 
+            "target": 74, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 74, 
+            "value": 1
+        }
+    ]
+}
+]

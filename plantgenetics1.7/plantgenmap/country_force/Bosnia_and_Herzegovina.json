@@ -1,0 +1,563 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 75, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 75, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BOSNIA AND HERZEGOVINA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "periodicum biologorum", 
+                "focalspecies": [
+                    "Abies alba"
+                ], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "background and purpose: the largest cover of silver fir (abies alba mill.) forests in croatia is in regions of gorski katar and lika, with the total of 200 000 ha. for a decades, those forest have been exposed to deteriorating air pollution and in recent years to draught which resulted in increased dieback (in some stands up to 80% trees are significantly damaged). for that reason it is necessary to study genetic structure of silver fir populations in the region and to take urgent conservation efforts. genetic structure and variation of the silver fir (abies alba mill.) from the area of gorski kotar (croatia) by analysis of nine isoenzyme systems are presented in this paper. materials and methods: in each of four populations from the gorski kotar region winter buds from 50 selected trees were taken. sampled trees had to be at least 50 m apart in order to avoid closely related individuals. nine enzyme systems with the total of 16 gene loci, and 32 alleles were analysed. the processes of winter buds maceration, gel mixing, electrophoresis, and gel dying were adjusted to the applied enzyme systems. the analyses of the zimogram was conducted and alleles for each gene locus were identified. data were analysed and genetic parameters were assesed using sas (statistical analysis system). intrapopulation genetic variability (observed average heterozygosity, expected heterozygosity, genetic diversity, differentiation within the population) and genetic variability between populations (genetic distance, genetic differentiation between populations) were calculated according to usual formulae. results: average number of alleles ranged from 2.1 in the gerovo population to 2.3 in the fu\u017eine population. analysed 16 isoenzyme gene loci showed statistically significant differences between studied populations. average expected heterozygosity (he) ranged from 0.1390 (fu\u017eine population) to 0,1869 (skrad population), and multilocus diversity (vgen) from 21.13 to 42,39, respectively. alleles of gene loci pgi-a, pgi-b, pgm-a, sdh-a, and got-a, which are common in populations originated from the balkans refuge, are not typical for the silver fir from the area of gorski. kotar. also, alleles of gene locus fest-a, common in populations originated from southern italian refuge and central european populations, are not common in studied area. the greatest differences between populations were caused by the gene loci 6-pgdh-a i b, because allel a1 and b1 appeared only in the fu\u017eine population. that could be used for discrimination of this population from others in the area. the presence of high polymorphism, as well as heterozygosity of the gene locus 6-pgdh shows increased variability in the populations, compared to western ones, which indicate that studied populations are probably more resistant to deterioration. conclusions: the analysis of 16 isoenzyme gene loci with the total of 32 alleles showed differences among studied populations. greater heterozygosity of the studied populations, when compared to silver fir populations in western europe, indicate hybridization processes within studied area of silver fir originated from the apennine and the balkans refuge. also, those populations retained much of its genetic adaptation potential.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "PANAMA", 
+                        "GERMANY", 
+                        "LUXEMBOURG", 
+                        "POLAND", 
+                        "ALGERIA", 
+                        "GUERNSEY", 
+                        "CZECH REPUBLIC", 
+                        "SWITZERLAND", 
+                        "HUNGARY", 
+                        "AUSTRIA", 
+                        "ANDORRA", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SERBIA", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "UNITED KINGDOM", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "ITALY", 
+                        "PORTUGAL", 
+                        "BRAZIL", 
+                        "IRELAND", 
+                        "SLOVAKIA", 
+                        "UKRAINE", 
+                        "ALBANIA", 
+                        "CANADA", 
+                        "BELGIUM", 
+                        "ESTONIA", 
+                        "MONTENEGRO", 
+                        "JAPAN", 
+                        "NEPAL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 75, 
+            "target": 59, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 75, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 75, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BOSNIA AND HERZEGOVINA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "periodicum biologorum", 
+                "focalspecies": [
+                    "Abies alba"
+                ], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "background and purpose: the largest cover of silver fir (abies alba mill.) forests in croatia is in regions of gorski katar and lika, with the total of 200 000 ha. for a decades, those forest have been exposed to deteriorating air pollution and in recent years to draught which resulted in increased dieback (in some stands up to 80% trees are significantly damaged). for that reason it is necessary to study genetic structure of silver fir populations in the region and to take urgent conservation efforts. genetic structure and variation of the silver fir (abies alba mill.) from the area of gorski kotar (croatia) by analysis of nine isoenzyme systems are presented in this paper. materials and methods: in each of four populations from the gorski kotar region winter buds from 50 selected trees were taken. sampled trees had to be at least 50 m apart in order to avoid closely related individuals. nine enzyme systems with the total of 16 gene loci, and 32 alleles were analysed. the processes of winter buds maceration, gel mixing, electrophoresis, and gel dying were adjusted to the applied enzyme systems. the analyses of the zimogram was conducted and alleles for each gene locus were identified. data were analysed and genetic parameters were assesed using sas (statistical analysis system). intrapopulation genetic variability (observed average heterozygosity, expected heterozygosity, genetic diversity, differentiation within the population) and genetic variability between populations (genetic distance, genetic differentiation between populations) were calculated according to usual formulae. results: average number of alleles ranged from 2.1 in the gerovo population to 2.3 in the fu\u017eine population. analysed 16 isoenzyme gene loci showed statistically significant differences between studied populations. average expected heterozygosity (he) ranged from 0.1390 (fu\u017eine population) to 0,1869 (skrad population), and multilocus diversity (vgen) from 21.13 to 42,39, respectively. alleles of gene loci pgi-a, pgi-b, pgm-a, sdh-a, and got-a, which are common in populations originated from the balkans refuge, are not typical for the silver fir from the area of gorski. kotar. also, alleles of gene locus fest-a, common in populations originated from southern italian refuge and central european populations, are not common in studied area. the greatest differences between populations were caused by the gene loci 6-pgdh-a i b, because allel a1 and b1 appeared only in the fu\u017eine population. that could be used for discrimination of this population from others in the area. the presence of high polymorphism, as well as heterozygosity of the gene locus 6-pgdh shows increased variability in the populations, compared to western ones, which indicate that studied populations are probably more resistant to deterioration. conclusions: the analysis of 16 isoenzyme gene loci with the total of 32 alleles showed differences among studied populations. greater heterozygosity of the studied populations, when compared to silver fir populations in western europe, indicate hybridization processes within studied area of silver fir originated from the apennine and the balkans refuge. also, those populations retained much of its genetic adaptation potential.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "PANAMA", 
+                        "GERMANY", 
+                        "LUXEMBOURG", 
+                        "POLAND", 
+                        "ALGERIA", 
+                        "GUERNSEY", 
+                        "CZECH REPUBLIC", 
+                        "SWITZERLAND", 
+                        "HUNGARY", 
+                        "AUSTRIA", 
+                        "ANDORRA", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SERBIA", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "UNITED KINGDOM", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "ITALY", 
+                        "PORTUGAL", 
+                        "BRAZIL", 
+                        "IRELAND", 
+                        "SLOVAKIA", 
+                        "UKRAINE", 
+                        "ALBANIA", 
+                        "CANADA", 
+                        "BELGIUM", 
+                        "ESTONIA", 
+                        "MONTENEGRO", 
+                        "JAPAN", 
+                        "NEPAL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 75, 
+            "target": 59, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 75, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 75, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "BOSNIA AND HERZEGOVINA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "periodicum biologorum", 
+                "focalspecies": [
+                    "Abies alba"
+                ], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "background and purpose: the largest cover of silver fir (abies alba mill.) forests in croatia is in regions of gorski katar and lika, with the total of 200 000 ha. for a decades, those forest have been exposed to deteriorating air pollution and in recent years to draught which resulted in increased dieback (in some stands up to 80% trees are significantly damaged). for that reason it is necessary to study genetic structure of silver fir populations in the region and to take urgent conservation efforts. genetic structure and variation of the silver fir (abies alba mill.) from the area of gorski kotar (croatia) by analysis of nine isoenzyme systems are presented in this paper. materials and methods: in each of four populations from the gorski kotar region winter buds from 50 selected trees were taken. sampled trees had to be at least 50 m apart in order to avoid closely related individuals. nine enzyme systems with the total of 16 gene loci, and 32 alleles were analysed. the processes of winter buds maceration, gel mixing, electrophoresis, and gel dying were adjusted to the applied enzyme systems. the analyses of the zimogram was conducted and alleles for each gene locus were identified. data were analysed and genetic parameters were assesed using sas (statistical analysis system). intrapopulation genetic variability (observed average heterozygosity, expected heterozygosity, genetic diversity, differentiation within the population) and genetic variability between populations (genetic distance, genetic differentiation between populations) were calculated according to usual formulae. results: average number of alleles ranged from 2.1 in the gerovo population to 2.3 in the fu\u017eine population. analysed 16 isoenzyme gene loci showed statistically significant differences between studied populations. average expected heterozygosity (he) ranged from 0.1390 (fu\u017eine population) to 0,1869 (skrad population), and multilocus diversity (vgen) from 21.13 to 42,39, respectively. alleles of gene loci pgi-a, pgi-b, pgm-a, sdh-a, and got-a, which are common in populations originated from the balkans refuge, are not typical for the silver fir from the area of gorski. kotar. also, alleles of gene locus fest-a, common in populations originated from southern italian refuge and central european populations, are not common in studied area. the greatest differences between populations were caused by the gene loci 6-pgdh-a i b, because allel a1 and b1 appeared only in the fu\u017eine population. that could be used for discrimination of this population from others in the area. the presence of high polymorphism, as well as heterozygosity of the gene locus 6-pgdh shows increased variability in the populations, compared to western ones, which indicate that studied populations are probably more resistant to deterioration. conclusions: the analysis of 16 isoenzyme gene loci with the total of 32 alleles showed differences among studied populations. greater heterozygosity of the studied populations, when compared to silver fir populations in western europe, indicate hybridization processes within studied area of silver fir originated from the apennine and the balkans refuge. also, those populations retained much of its genetic adaptation potential.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "PANAMA", 
+                        "GERMANY", 
+                        "LUXEMBOURG", 
+                        "POLAND", 
+                        "ALGERIA", 
+                        "GUERNSEY", 
+                        "CZECH REPUBLIC", 
+                        "SWITZERLAND", 
+                        "HUNGARY", 
+                        "AUSTRIA", 
+                        "ANDORRA", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SERBIA", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "UNITED KINGDOM", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "ITALY", 
+                        "PORTUGAL", 
+                        "BRAZIL", 
+                        "IRELAND", 
+                        "SLOVAKIA", 
+                        "UKRAINE", 
+                        "ALBANIA", 
+                        "CANADA", 
+                        "BELGIUM", 
+                        "ESTONIA", 
+                        "MONTENEGRO", 
+                        "JAPAN", 
+                        "NEPAL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 59, 
+            "target": 75, 
+            "value": 1
+        }
+    ]
+}
+]

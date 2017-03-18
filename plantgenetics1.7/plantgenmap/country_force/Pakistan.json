@@ -1,0 +1,1061 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 36, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 36, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "PAKISTAN", 
+                    "IRAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "saudi journal of biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.33190957, 
+                    52.10117636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 8, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "POLAND", 
+                    "POLAND", 
+                    "POLAND"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "chloroplast DNA", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "tree genetics and genomes", 
+                "focalspecies": [
+                    "Salix myrsinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED KINGDOM", 
+                        "SWEDEN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "DENMARK", 
+                        "NETHERLANDS", 
+                        "FINLAND", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "ICELAND", 
+                        "POLAND", 
+                        "LITHUANIA", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "\u00c5LAND ISLANDS", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "ANDORRA", 
+                        "BELARUS", 
+                        "LATVIA", 
+                        "UKRAINE", 
+                        "AUSTRALIA", 
+                        "AFGHANISTAN", 
+                        "CANADA", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Poland", 
+                "nameofficial": "Republic of Poland"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 60, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 13, 
+            "value": 3
+        }, 
+        {
+            "source": 36, 
+            "target": 36, 
+            "value": 6
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 36, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 36, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "PAKISTAN", 
+                    "IRAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "saudi journal of biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.33190957, 
+                    52.10117636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 8, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "POLAND", 
+                    "POLAND", 
+                    "POLAND"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "chloroplast DNA", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "tree genetics and genomes", 
+                "focalspecies": [
+                    "Salix myrsinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED KINGDOM", 
+                        "SWEDEN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "DENMARK", 
+                        "NETHERLANDS", 
+                        "FINLAND", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "ICELAND", 
+                        "POLAND", 
+                        "LITHUANIA", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "\u00c5LAND ISLANDS", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "ANDORRA", 
+                        "BELARUS", 
+                        "LATVIA", 
+                        "UKRAINE", 
+                        "AUSTRALIA", 
+                        "AFGHANISTAN", 
+                        "CANADA", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Poland", 
+                "nameofficial": "Republic of Poland"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 13, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 36, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 36, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 36, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "PAKISTAN", 
+                    "IRAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "saudi journal of biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }, 
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 21, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 13, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 36, 
+            "value": 4
+        }
+    ]
+}
+]

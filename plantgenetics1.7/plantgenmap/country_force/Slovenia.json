@@ -1,0 +1,614 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 59, 
+            "target": 60, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 59, 
+            "target": 60, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 59, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 59, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "CROATIA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [
+                    "Salvia officinalis", 
+                    "Salvia brachyodon"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "nine new microsatellite markers (ssr) were isolated from salvia officinalis l. a total of 125 alleles, with 8 to 21 alleles per locus, were detected in a natural population from the east adriatic coast. the observed heterozygosity, expected heterozygosity, and polymorphic information content ranged from 0.46 to 0.83, 0.73 to 0.93 and 0.70 to 0.92, respectively. new microsatellite markers, as well as previously published markers, were tested for cross-amplification in salvia brachyodon vandas, a narrow endemic species known to be present in only two localities on the balkan peninsula. out of 30 microsatellite markers tested on the natural s. brachyodon population, 15 were successfully amplified. to obtain evidence of recent bottleneck events in the populations of both species, observed genetic diversity (h<inf>e</inf>) was compared to the expected genetic diversity at mutation-drift equilibrium (h<inf>eq</inf>) and calculated from the observed number of alleles using a two-phased mutation model (tpm). recent bottleneck events were detected only in the s. brachyodon population. this result suggests the need to reconsider the current threat category of this endemic species. \u00a9 2012 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ], 
+                    [
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CROATIA", 
+                        "MONTENEGRO"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 59, 
+            "target": 60, 
+            "value": 1
+        }
+    ]
+}
+]

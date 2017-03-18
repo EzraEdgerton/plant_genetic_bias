@@ -1,0 +1,164 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -55.765833, 
+                    -32.49342987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 28, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "URUGUAY", 
+                    "URUGUAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "grass and forage science", 
+                "focalspecies": [
+                    "Bromus auleticus"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "bromus auleticus trinius (ex nees) is a perennial allogamous c3 grass native to the campos grasslands. it has potential to play a key role in restoration of both abandoned agricultural and overgrazed lands. we aim to reveal the existence of local adaptation and to assess whether phenotypes could be differentiated in relation to their ecogeographic region of origin. previous reports estimated significant levels of variability among and within populations, but as yet there is no evidence of local adaptation and phenotypic relations with ecogeographic regions for this species. indeed, there is a lack of knowledge about the spatial distribution of diversity, which limits the possibilities of using b. auleticus in ecological restoration and plant breeding. a comprehensive collection of 82 accessions of b. auleticus from eight ecogeographic regions within uruguay was used to characterize diversity by measuring phenologic, morphologic, productive and reproductive traits. we found high diversity among b. auleticus accessions, and the spatial distribution of this diversity follows a pattern accounted by ecogeographic regions to a large extent. our results also indicate large genotype \u00d7 environment interaction, confirming local adaptation. phenotypic values permitted, with a 3.7% error rate, discrimination of accessions according to their ecogeographic region of origin, suggesting the existence of differentiated ecotypes. we consider that the diversity observed should be conserved and used for breeding cultivars of this species and for the restoration of degraded grasslands by considering ecogeographic regions when selecting seed sources. \u00a9 2017 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "URUGUAY", 
+                        "AUSTRALIA", 
+                        "CHILE", 
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Uruguay", 
+                "nameofficial": "Eastern Republic of Uruguay"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 28, 
+            "target": 28, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -55.765833, 
+                    -32.49342987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 28, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "URUGUAY", 
+                    "URUGUAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "grass and forage science", 
+                "focalspecies": [
+                    "Bromus auleticus"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "bromus auleticus trinius (ex nees) is a perennial allogamous c3 grass native to the campos grasslands. it has potential to play a key role in restoration of both abandoned agricultural and overgrazed lands. we aim to reveal the existence of local adaptation and to assess whether phenotypes could be differentiated in relation to their ecogeographic region of origin. previous reports estimated significant levels of variability among and within populations, but as yet there is no evidence of local adaptation and phenotypic relations with ecogeographic regions for this species. indeed, there is a lack of knowledge about the spatial distribution of diversity, which limits the possibilities of using b. auleticus in ecological restoration and plant breeding. a comprehensive collection of 82 accessions of b. auleticus from eight ecogeographic regions within uruguay was used to characterize diversity by measuring phenologic, morphologic, productive and reproductive traits. we found high diversity among b. auleticus accessions, and the spatial distribution of this diversity follows a pattern accounted by ecogeographic regions to a large extent. our results also indicate large genotype \u00d7 environment interaction, confirming local adaptation. phenotypic values permitted, with a 3.7% error rate, discrimination of accessions according to their ecogeographic region of origin, suggesting the existence of differentiated ecotypes. we consider that the diversity observed should be conserved and used for breeding cultivars of this species and for the restoration of degraded grasslands by considering ecogeographic regions when selecting seed sources. \u00a9 2017 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "URUGUAY", 
+                        "AUSTRALIA", 
+                        "CHILE", 
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Uruguay", 
+                "nameofficial": "Eastern Republic of Uruguay"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 28, 
+            "target": 28, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -55.765833, 
+                    -32.49342987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 28, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "URUGUAY", 
+                    "URUGUAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "grass and forage science", 
+                "focalspecies": [
+                    "Bromus auleticus"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "bromus auleticus trinius (ex nees) is a perennial allogamous c3 grass native to the campos grasslands. it has potential to play a key role in restoration of both abandoned agricultural and overgrazed lands. we aim to reveal the existence of local adaptation and to assess whether phenotypes could be differentiated in relation to their ecogeographic region of origin. previous reports estimated significant levels of variability among and within populations, but as yet there is no evidence of local adaptation and phenotypic relations with ecogeographic regions for this species. indeed, there is a lack of knowledge about the spatial distribution of diversity, which limits the possibilities of using b. auleticus in ecological restoration and plant breeding. a comprehensive collection of 82 accessions of b. auleticus from eight ecogeographic regions within uruguay was used to characterize diversity by measuring phenologic, morphologic, productive and reproductive traits. we found high diversity among b. auleticus accessions, and the spatial distribution of this diversity follows a pattern accounted by ecogeographic regions to a large extent. our results also indicate large genotype \u00d7 environment interaction, confirming local adaptation. phenotypic values permitted, with a 3.7% error rate, discrimination of accessions according to their ecogeographic region of origin, suggesting the existence of differentiated ecotypes. we consider that the diversity observed should be conserved and used for breeding cultivars of this species and for the restoration of degraded grasslands by considering ecogeographic regions when selecting seed sources. \u00a9 2017 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "URUGUAY", 
+                        "AUSTRALIA", 
+                        "CHILE", 
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Uruguay", 
+                "nameofficial": "Eastern Republic of Uruguay"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 28, 
+            "target": 28, 
+            "value": 1
+        }
+    ]
+}
+]

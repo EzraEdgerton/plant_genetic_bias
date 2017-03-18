@@ -1,0 +1,266 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 72, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    90.49915527, 
+                    24.08273251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 72, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "BANGLADESH", 
+                    "ITALY", 
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of food composition and analysis", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "dietary diversity is a fundamental tenet of nutrition in order to ensure adequate nutrient intakes, yet few studies in developing countries have attempted to quantify patterns of consumption using indicators of plant genetic diversity. similarly, only limited efforts have been made to identify and define available sources of dietary diversity within edible plant species, even though it is well recognized that different cultivars have different nutrient composition. in order to better document and quantify consumption of existing plant genetic diversity, two indicators of plant genetic diversity were field tested in 313 households in rural bangladesh using the 24-h recall method. the two indicators of plant genetic diversity tested were (i) cultivar diversity, defined in terms of the number of cultivars available within a given species and (ii) germplasm type by degree of modification defined as modern, locally improved, traditional or unknown germplasm types. overall, the indicators performed well, providing a new dimension to dietary consumption data and impetus to focus food composition research on intra-species variability. over 80% of households were able to identify rice by cultivar and 38 different cultivars were named. consumption of modern rice cultivars was six times greater than that of traditional cultivars. application of these indicators in future studies has potential utility within the fields of agro-biodiversity conservation and nutrition. \u00a9 2004 elsevier inc. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bangladesh", 
+                "nameofficial": "People\u2019s Republic of Bangladesh"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 50, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 72, 
+            "value": 5
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 72, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    90.49915527, 
+                    24.08273251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 72, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "BANGLADESH", 
+                    "ITALY", 
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of food composition and analysis", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "dietary diversity is a fundamental tenet of nutrition in order to ensure adequate nutrient intakes, yet few studies in developing countries have attempted to quantify patterns of consumption using indicators of plant genetic diversity. similarly, only limited efforts have been made to identify and define available sources of dietary diversity within edible plant species, even though it is well recognized that different cultivars have different nutrient composition. in order to better document and quantify consumption of existing plant genetic diversity, two indicators of plant genetic diversity were field tested in 313 households in rural bangladesh using the 24-h recall method. the two indicators of plant genetic diversity tested were (i) cultivar diversity, defined in terms of the number of cultivars available within a given species and (ii) germplasm type by degree of modification defined as modern, locally improved, traditional or unknown germplasm types. overall, the indicators performed well, providing a new dimension to dietary consumption data and impetus to focus food composition research on intra-species variability. over 80% of households were able to identify rice by cultivar and 38 different cultivars were named. consumption of modern rice cultivars was six times greater than that of traditional cultivars. application of these indicators in future studies has potential utility within the fields of agro-biodiversity conservation and nutrition. \u00a9 2004 elsevier inc. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bangladesh", 
+                "nameofficial": "People\u2019s Republic of Bangladesh"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 72, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 72, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    90.49915527, 
+                    24.08273251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 72, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "BANGLADESH", 
+                    "ITALY", 
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of food composition and analysis", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "dietary diversity is a fundamental tenet of nutrition in order to ensure adequate nutrient intakes, yet few studies in developing countries have attempted to quantify patterns of consumption using indicators of plant genetic diversity. similarly, only limited efforts have been made to identify and define available sources of dietary diversity within edible plant species, even though it is well recognized that different cultivars have different nutrient composition. in order to better document and quantify consumption of existing plant genetic diversity, two indicators of plant genetic diversity were field tested in 313 households in rural bangladesh using the 24-h recall method. the two indicators of plant genetic diversity tested were (i) cultivar diversity, defined in terms of the number of cultivars available within a given species and (ii) germplasm type by degree of modification defined as modern, locally improved, traditional or unknown germplasm types. overall, the indicators performed well, providing a new dimension to dietary consumption data and impetus to focus food composition research on intra-species variability. over 80% of households were able to identify rice by cultivar and 38 different cultivars were named. consumption of modern rice cultivars was six times greater than that of traditional cultivars. application of these indicators in future studies has potential utility within the fields of agro-biodiversity conservation and nutrition. \u00a9 2004 elsevier inc. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bangladesh", 
+                "nameofficial": "People\u2019s Republic of Bangladesh"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 72, 
+            "value": 1
+        }
+    ]
+}
+]

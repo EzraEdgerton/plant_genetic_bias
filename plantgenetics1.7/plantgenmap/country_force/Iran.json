@@ -1,0 +1,1371 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 50, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 186, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 36, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 36, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "PAKISTAN", 
+                    "IRAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "saudi journal of biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 21, 
+            "target": 1, 
+            "value": 2
+        }, 
+        {
+            "source": 21, 
+            "target": 21, 
+            "value": 14
+        }, 
+        {
+            "source": 24, 
+            "target": 21, 
+            "value": 2
+        }, 
+        {
+            "source": 5, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 25, 
+            "value": 3
+        }, 
+        {
+            "source": 21, 
+            "target": 12, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 36, 
+            "target": 21, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 28, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 19, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 21, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 21, 
+            "value": 10
+        }, 
+        {
+            "source": 24, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 25, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 36, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 36, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "PAKISTAN", 
+                    "IRAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "saudi journal of biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 23, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 21, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 21, 
+            "value": 9
+        }, 
+        {
+            "source": 24, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 36, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 21, 
+            "value": 2
+        }
+    ]
+}
+]

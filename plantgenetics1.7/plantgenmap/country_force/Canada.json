@@ -1,0 +1,2849 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "natural science and engineering research council of canada; canada    research chair program; canadian foundation for innovation", 
+                "journal": "heredity", 
+                "focalspecies": [
+                    "Sinapis arvensis", 
+                    "Brassica napus"
+                ], 
+                "fundingCOO": [
+                    "CANADA"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{unreduced gametes, sperm or egg cells with the somatic chromosome\n   number, are an important mechanism of polyploid formation and gene flow\n   between heteroploid plants. the meiotic processes leading to unreduced\n   gamete formation are well documented, but the relative influence of\n   environmental and genetic factors on the frequency of unreduced gametes\n   remain largely untested. furthermore, direct estimates of unreduced\n   gametes based on dna content are technically challenging and, hence,\n   uncommon. here, we use flow cytometry to measure the contribution of\n   genetic (hybridization) and environmental (nutrient limitation,\n   wounding) changes to unreduced male gamete production in brassica napus,\n   sinapis arvensis and two hybrid lines. treatments were applied to\n   greenhouse grown plants in a random factorial design, with pollen\n   sampled at two time intervals. overall, the frequency of unreduced\n   gametes averaged 0.59\\% (range 0.06-2.17\\%), plus a single outlier with\n   27\\%. backcrossed hybrids had 39 to 75\\% higher unreduced gamete\n   production than parental genotypes, averaged across all treatments,\n   although the statistical significance of these differences depended on\n   sampling period and wounding treatment. unreduced gamete frequencies\n   were higher for the second sampling period than the first. there were no\n   direct effects of wounding or nutrient regime. our results indicate that\n   both genetic and environmental factors can induce increased unreduced\n   gametes, highlighting the potential importance of environmental\n   heterogeneity and genetic composition of populations in driving\n   polyploid evolution.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "INDIA", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "SPAIN", 
+                        "UNITED KINGDOM", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PORTUGAL", 
+                        "NORWAY", 
+                        "CZECH REPUBLIC", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CHINA", 
+                        "RUSSIAN FEDERATION", 
+                        "ISRAEL", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "GREECE", 
+                        "ARGENTINA", 
+                        "EGYPT", 
+                        "MOROCCO", 
+                        "SWITZERLAND", 
+                        "LEBANON", 
+                        "KYRGYZSTAN", 
+                        "POLAND", 
+                        "JAPAN", 
+                        "MEXICO", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "NEPAL", 
+                        "CANADA", 
+                        "TUNISIA", 
+                        "IRELAND", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "BHUTAN", 
+                        "SAUDI ARABIA", 
+                        "IRAQ", 
+                        "CYPRUS", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BRAZIL", 
+                        "HUNGARY", 
+                        "ESTONIA", 
+                        "FINLAND", 
+                        "UKRAINE", 
+                        "MACAO", 
+                        "ROMANIA", 
+                        "BULGARIA", 
+                        "NEW ZEALAND", 
+                        "SLOVAKIA", 
+                        "ALBANIA", 
+                        "AZERBAIJAN", 
+                        "CUBA", 
+                        "PUERTO RICO", 
+                        "JAMAICA", 
+                        "UNITED ARAB EMIRATES", 
+                        "LIBYA", 
+                        "COLOMBIA", 
+                        "ANDORRA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "\u00c5LAND ISLANDS", 
+                        "SVALBARD AND JAN MAYEN", 
+                        "BELARUS", 
+                        "GUATEMALA", 
+                        "INDONESIA", 
+                        "CROATIA", 
+                        "TURKMENISTAN", 
+                        "PANAMA", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "HONDURAS", 
+                        "CHILE", 
+                        "PARAGUAY", 
+                        "QATAR", 
+                        "SLOVENIA", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "KAZAKHSTAN", 
+                        "BERMUDA", 
+                        "LIECHTENSTEIN", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "AUSTRALIA", 
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "CANADA", 
+                        "GERMANY", 
+                        "HUNGARY", 
+                        "POLAND", 
+                        "ZIMBABWE", 
+                        "NEW ZEALAND", 
+                        "IRELAND", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "UKRAINE", 
+                        "RUSSIAN FEDERATION", 
+                        "PORTUGAL", 
+                        "SRI LANKA", 
+                        "ICELAND", 
+                        "ESTONIA", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "MEXICO", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "DENMARK", 
+                        "MONGOLIA", 
+                        "SLOVENIA", 
+                        "ITALY", 
+                        "ARGENTINA", 
+                        "VIETNAM", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "NEPAL", 
+                        "SAUDI ARABIA", 
+                        "TURKEY", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "TUNISIA", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "ETHIOPIA", 
+                        "ALGERIA", 
+                        "SERBIA", 
+                        "BANGLADESH", 
+                        "NORWAY", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "BRAZIL", 
+                        "FINLAND", 
+                        "BOTSWANA", 
+                        "PERU", 
+                        "LATVIA", 
+                        "CHILE", 
+                        "MOROCCO", 
+                        "TURKMENISTAN", 
+                        "EGYPT", 
+                        "KENYA", 
+                        "COSTA RICA", 
+                        "COLOMBIA", 
+                        "GREECE", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "GUATEMALA", 
+                        "LITHUANIA", 
+                        "SWITZERLAND", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "URUGUAY", 
+                        "LIBYA", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "CUBA", 
+                        "BULGARIA", 
+                        "JERSEY", 
+                        "INDONESIA", 
+                        "MOZAMBIQUE", 
+                        "BELARUS", 
+                        "PHILIPPINES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 186, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 104, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "methods in molecular biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taking transposable elements into consideration in surveys of genetic and epigenetic variation remains challenging in species lacking a high-quality reference genome. here, molecular techniques reducing genome complexity and specifically targeting restructuring and methylation changes in te genome fractions are described. in particular, methyl-sensitive transposon display (mstd) uses isoschizomers and pcr amplifications to assess the methylation environment of te insertions. mstd offers reliable insights into genome-wide epigenetic changes associated with tes, especially when used together with similar techniques tracking random sequences. \u00a9 springer science+business media new york 2017.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 53, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.91753797, 
+                    30.85883075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 53, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "CHINA", 
+                    "ISRAEL", 
+                    "CHINA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "expressed sequence tag", 
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "evaluation of genetic diversity and genetic structure in crops has important implications for plant breeding programs and the conservation of genetic resources. newly developed single nucleotide polymorphism (snp) markers are effective in detecting genetic diversity. in the present study, a worldwide durum wheat collection consisting of 150 accessions was used. genetic diversity and genetic structure were investigated using 946 polymorphic snp markers covering the whole genome of tetraploid wheat. genetic structure was greatly impacted by multiple factors, such as environmental conditions, breeding methods reflected by release periods of varieties, and gene flows via human activities. a loss of genetic diversity was observed from landraces and old cultivars to the modern cultivars released during periods of the early green revolution, but an increase in cultivars released during the post green revolution. furthermore, a comparative analysis of genetic diversity among the 10 mega ecogeographical regions indicated that south america, north america, and europe possessed the richest genetic variability, while the middle east showed moderate levels of genetic diversity. \u00a9 2013 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Israel", 
+                "nameofficial": "State of Israel"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 60, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 26, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 26, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Plantago asiatica", 
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "one of the important antiviral genetic strategies used in crop breeding is recessive resistance. two eukaryotic translation initiation factor 4e family genes, eif4e and eifiso4e, are the most common recessive resistance genes whose absence inhibits infection by plant viruses in potyviridae, carmovirus, and cucumovirus. here, we show that another eif4e family gene, ncbp, acts as a novel recessive resistance gene in arabidopsis thaliana toward plant viruses in alpha- and betaflexiviridae. we found that infection by plantago asiatica mosaic virus (plamv), a potexvirus, was delayed in ncbp mutants of a. thaliana. virus replication efficiency did not differ between an ncbp mutant and a wild type plant in single cells, but viral cell-to-cell movement was significantly delayed in the ncbp mutant. furthermore, the accumulation of triple-gene-block protein 2 (tgb2) and tgb3, the movement proteins of potexviruses, decreased in the ncbp mutant. inoculation experiments with several viruses showed that the accumulation of viruses encoding tgbs in their genomes decreased in the ncbp mutant. these results indicate that ncbp is a novel member of the eif4e family recessive resistance genes whose loss impairs viral cell-to-cell movement by inhibiting the efficient accumulation of tgb2 and tgb3. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHINA", 
+                        "MYANMAR", 
+                        "NEPAL", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "INDONESIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "RUSSIAN FEDERATION", 
+                        "SOUTH AFRICA", 
+                        "UNITED STATES", 
+                        "SRI LANKA", 
+                        "ESTONIA", 
+                        "VIETNAM", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 24, 
+            "target": 25, 
+            "value": 2
+        }, 
+        {
+            "source": 5, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 25, 
+            "value": 3
+        }, 
+        {
+            "source": 25, 
+            "target": 12, 
+            "value": 2
+        }, 
+        {
+            "source": 2, 
+            "target": 25, 
+            "value": 13
+        }, 
+        {
+            "source": 25, 
+            "target": 25, 
+            "value": 23
+        }, 
+        {
+            "source": 4, 
+            "target": 25, 
+            "value": 2
+        }, 
+        {
+            "source": 25, 
+            "target": 3, 
+            "value": 10
+        }, 
+        {
+            "source": 0, 
+            "target": 25, 
+            "value": 8
+        }, 
+        {
+            "source": 32, 
+            "target": 25, 
+            "value": 2
+        }, 
+        {
+            "source": 25, 
+            "target": 53, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 25, 
+            "value": 9
+        }, 
+        {
+            "source": 25, 
+            "target": 13, 
+            "value": 3
+        }, 
+        {
+            "source": 25, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 19, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 28, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 26, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 26, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Plantago asiatica", 
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "one of the important antiviral genetic strategies used in crop breeding is recessive resistance. two eukaryotic translation initiation factor 4e family genes, eif4e and eifiso4e, are the most common recessive resistance genes whose absence inhibits infection by plant viruses in potyviridae, carmovirus, and cucumovirus. here, we show that another eif4e family gene, ncbp, acts as a novel recessive resistance gene in arabidopsis thaliana toward plant viruses in alpha- and betaflexiviridae. we found that infection by plantago asiatica mosaic virus (plamv), a potexvirus, was delayed in ncbp mutants of a. thaliana. virus replication efficiency did not differ between an ncbp mutant and a wild type plant in single cells, but viral cell-to-cell movement was significantly delayed in the ncbp mutant. furthermore, the accumulation of triple-gene-block protein 2 (tgb2) and tgb3, the movement proteins of potexviruses, decreased in the ncbp mutant. inoculation experiments with several viruses showed that the accumulation of viruses encoding tgbs in their genomes decreased in the ncbp mutant. these results indicate that ncbp is a novel member of the eif4e family recessive resistance genes whose loss impairs viral cell-to-cell movement by inhibiting the efficient accumulation of tgb2 and tgb3. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHINA", 
+                        "MYANMAR", 
+                        "NEPAL", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "INDONESIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "RUSSIAN FEDERATION", 
+                        "SOUTH AFRICA", 
+                        "UNITED STATES", 
+                        "SRI LANKA", 
+                        "ESTONIA", 
+                        "VIETNAM", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 24, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 25, 
+            "value": 7
+        }, 
+        {
+            "source": 25, 
+            "target": 25, 
+            "value": 13
+        }, 
+        {
+            "source": 21, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 3, 
+            "value": 3
+        }, 
+        {
+            "source": 0, 
+            "target": 25, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 25, 
+            "value": 4
+        }, 
+        {
+            "source": 25, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 7, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 23, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 21, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.28204814, 
+                    31.40240324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 21, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "IRAN", 
+                    "ITALY", 
+                    "IRAN"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "european journal of plant pathology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Iran", 
+                "nameofficial": "Islamic Republic of Iran"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "methods in molecular biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taking transposable elements into consideration in surveys of genetic and epigenetic variation remains challenging in species lacking a high-quality reference genome. here, molecular techniques reducing genome complexity and specifically targeting restructuring and methylation changes in te genome fractions are described. in particular, methyl-sensitive transposon display (mstd) uses isoschizomers and pcr amplifications to assess the methylation environment of te insertions. mstd offers reliable insights into genome-wide epigenetic changes associated with tes, especially when used together with similar techniques tracking random sequences. \u00a9 springer science+business media new york 2017.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 24, 
+            "target": 25, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 2, 
+            "value": 6
+        }, 
+        {
+            "source": 25, 
+            "target": 25, 
+            "value": 14
+        }, 
+        {
+            "source": 25, 
+            "target": 21, 
+            "value": 2
+        }, 
+        {
+            "source": 25, 
+            "target": 4, 
+            "value": 2
+        }, 
+        {
+            "source": 3, 
+            "target": 25, 
+            "value": 6
+        }, 
+        {
+            "source": 25, 
+            "target": 0, 
+            "value": 4
+        }, 
+        {
+            "source": 25, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 25, 
+            "value": 3
+        }, 
+        {
+            "source": 13, 
+            "target": 25, 
+            "value": 2
+        }, 
+        {
+            "source": 25, 
+            "target": 7, 
+            "value": 2
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 1
+        }
+    ]
+}
+]

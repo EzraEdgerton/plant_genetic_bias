@@ -1,0 +1,328 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 70, 
+            "value": 5
+        }, 
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 70, 
+            "value": 2
+        }, 
+        {
+            "source": 70, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 70, 
+            "target": 9, 
+            "value": 4
+        }, 
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 1
+        }
+    ]
+}
+]

@@ -1,0 +1,850 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 26, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 26, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Plantago asiatica", 
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "one of the important antiviral genetic strategies used in crop breeding is recessive resistance. two eukaryotic translation initiation factor 4e family genes, eif4e and eifiso4e, are the most common recessive resistance genes whose absence inhibits infection by plant viruses in potyviridae, carmovirus, and cucumovirus. here, we show that another eif4e family gene, ncbp, acts as a novel recessive resistance gene in arabidopsis thaliana toward plant viruses in alpha- and betaflexiviridae. we found that infection by plantago asiatica mosaic virus (plamv), a potexvirus, was delayed in ncbp mutants of a. thaliana. virus replication efficiency did not differ between an ncbp mutant and a wild type plant in single cells, but viral cell-to-cell movement was significantly delayed in the ncbp mutant. furthermore, the accumulation of triple-gene-block protein 2 (tgb2) and tgb3, the movement proteins of potexviruses, decreased in the ncbp mutant. inoculation experiments with several viruses showed that the accumulation of viruses encoding tgbs in their genomes decreased in the ncbp mutant. these results indicate that ncbp is a novel member of the eif4e family recessive resistance genes whose loss impairs viral cell-to-cell movement by inhibiting the efficient accumulation of tgb2 and tgb3. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHINA", 
+                        "MYANMAR", 
+                        "NEPAL", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "INDONESIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "RUSSIAN FEDERATION", 
+                        "SOUTH AFRICA", 
+                        "UNITED STATES", 
+                        "SRI LANKA", 
+                        "ESTONIA", 
+                        "VIETNAM", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 40, 
+            "value": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 40, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 40, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 40, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 26, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 26, 
+            "score": 41, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Plantago asiatica", 
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "one of the important antiviral genetic strategies used in crop breeding is recessive resistance. two eukaryotic translation initiation factor 4e family genes, eif4e and eifiso4e, are the most common recessive resistance genes whose absence inhibits infection by plant viruses in potyviridae, carmovirus, and cucumovirus. here, we show that another eif4e family gene, ncbp, acts as a novel recessive resistance gene in arabidopsis thaliana toward plant viruses in alpha- and betaflexiviridae. we found that infection by plantago asiatica mosaic virus (plamv), a potexvirus, was delayed in ncbp mutants of a. thaliana. virus replication efficiency did not differ between an ncbp mutant and a wild type plant in single cells, but viral cell-to-cell movement was significantly delayed in the ncbp mutant. furthermore, the accumulation of triple-gene-block protein 2 (tgb2) and tgb3, the movement proteins of potexviruses, decreased in the ncbp mutant. inoculation experiments with several viruses showed that the accumulation of viruses encoding tgbs in their genomes decreased in the ncbp mutant. these results indicate that ncbp is a novel member of the eif4e family recessive resistance genes whose loss impairs viral cell-to-cell movement by inhibiting the efficient accumulation of tgb2 and tgb3. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHINA", 
+                        "MYANMAR", 
+                        "NEPAL", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "INDONESIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "RUSSIAN FEDERATION", 
+                        "SOUTH AFRICA", 
+                        "UNITED STATES", 
+                        "SRI LANKA", 
+                        "ESTONIA", 
+                        "VIETNAM", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 40, 
+            "target": 2, 
+            "value": 2
+        }, 
+        {
+            "source": 26, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 40, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 1
+        }
+    ]
+}
+]

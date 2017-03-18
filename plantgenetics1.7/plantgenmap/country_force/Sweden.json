@@ -1,0 +1,2314 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 34, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.33190957, 
+                    52.10117636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 8, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "POLAND", 
+                    "POLAND", 
+                    "POLAND"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "chloroplast DNA", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "tree genetics and genomes", 
+                "focalspecies": [
+                    "Salix myrsinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED KINGDOM", 
+                        "SWEDEN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "DENMARK", 
+                        "NETHERLANDS", 
+                        "FINLAND", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "ICELAND", 
+                        "POLAND", 
+                        "LITHUANIA", 
+                        "SPAIN", 
+                        "UNITED STATES", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "\u00c5LAND ISLANDS", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "ANDORRA", 
+                        "BELARUS", 
+                        "LATVIA", 
+                        "UKRAINE", 
+                        "AUSTRALIA", 
+                        "AFGHANISTAN", 
+                        "CANADA", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Poland", 
+                "nameofficial": "Republic of Poland"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 50, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 30, 
+            "score": 16, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "aquatic botany", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "unidirectional hydrochory, reproduction mode and mating system have different impacts on the ecology of stream plants, and variation in the combination of these processes shapes unique genetic patterns which can have different consequences for the fitness of stream populations. we studied the genetic structure inferred by aflps, its snps and matk sequences of three populations of the common clonal macrophyte ranunculus baudotii in river aarhus in order to understand the role of vegetative and sexual reproduction in the stream and how genetic variation is distributed along the stream. we also explored the genetic relationships of the r. baudotii population in river aarhus with other species of sect. batrachium, because hybrids have been identified in the stream and they might affect the structure of the populations. the three studied populations were genetically distinct despite low genetic diversity and plant fragmentation is likely the main form of reproduction in the river system. the establishment of a few seeds, sexual recombination, the occurrence of putative hybrids and genetic drift in the establishment of fragments and seeds dramatically changed the genetic diversity of the populations along the stream and led to differentiation among populations. further research is needed to understand the conditions favoring sexual reproduction and gene flow distances. \u00a9 2016", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 52, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 52, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "NEW ZEALAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Arenaria grandiflora"
+                ], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "populations of the large-flowered sandwort (arenaria grandiflora l.) in the fontainebleau forest (france) have declined rapidly during the last century. despite the initiation of a protection program in 1991, less than twenty individuals remained by the late 1990s. the low fitness of these last plants, which is likely associated with genetic disorders and inbreeding depression, highlighted the need for the introduction of non-local genetic material to increase genetic diversity and thus restore fontainebleau populations. consequently, a. grandiflora was introduced at three distant sites in the fontainebleau forest in 1999. each of these populations was composed of an identical mix of individuals of both local and non-local origin that were obtained through in vitro multiplication. after establishment, the population status (number of individuals, diameter of the plants, and number of flowers) of the introduced populations was monitored. at present, two populations (one of which is much larger than the other) persist, while the third one became extinct in 2004. analyses of the ecological parameters of the introduction sites indicated that differences in soil ph and moisture might have contributed to the differences in population dynamics. this introduction plan and its outcome attracted interest of local community, with those who supported the plan and regarded its 10-year result as a biological success (i.e., persistent populations were created), but also those who expressed reservations or disapproval of the plan and its outcome. to understand this controversy, a sociological study involving 27 semi-structured interviews was carried out. from these interviews emerged three areas of controversy: alteration of the identity of the plant, alteration of the identity of its territory, and the biological and ethical consequences of the techniques used for the experimental conservation. \u00a9 2013 maurice et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "ALGERIA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "MONTENEGRO", 
+                        "MOROCCO", 
+                        "CZECH REPUBLIC", 
+                        "HUNGARY", 
+                        "RUSSIAN FEDERATION", 
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 9, 
+            "value": 3
+        }, 
+        {
+            "source": 3, 
+            "target": 9, 
+            "value": 7
+        }, 
+        {
+            "source": 9, 
+            "target": 24, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 9, 
+            "value": 3
+        }, 
+        {
+            "source": 17, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 8, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 1, 
+            "value": 5
+        }, 
+        {
+            "source": 9, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 34, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 70, 
+            "value": 5
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 4
+        }, 
+        {
+            "source": 9, 
+            "target": 52, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 19, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 52, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 52, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "NEW ZEALAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Arenaria grandiflora"
+                ], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "populations of the large-flowered sandwort (arenaria grandiflora l.) in the fontainebleau forest (france) have declined rapidly during the last century. despite the initiation of a protection program in 1991, less than twenty individuals remained by the late 1990s. the low fitness of these last plants, which is likely associated with genetic disorders and inbreeding depression, highlighted the need for the introduction of non-local genetic material to increase genetic diversity and thus restore fontainebleau populations. consequently, a. grandiflora was introduced at three distant sites in the fontainebleau forest in 1999. each of these populations was composed of an identical mix of individuals of both local and non-local origin that were obtained through in vitro multiplication. after establishment, the population status (number of individuals, diameter of the plants, and number of flowers) of the introduced populations was monitored. at present, two populations (one of which is much larger than the other) persist, while the third one became extinct in 2004. analyses of the ecological parameters of the introduction sites indicated that differences in soil ph and moisture might have contributed to the differences in population dynamics. this introduction plan and its outcome attracted interest of local community, with those who supported the plan and regarded its 10-year result as a biological success (i.e., persistent populations were created), but also those who expressed reservations or disapproval of the plan and its outcome. to understand this controversy, a sociological study involving 27 semi-structured interviews was carried out. from these interviews emerged three areas of controversy: alteration of the identity of the plant, alteration of the identity of its territory, and the biological and ethical consequences of the techniques used for the experimental conservation. \u00a9 2013 maurice et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "ALGERIA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "MONTENEGRO", 
+                        "MOROCCO", 
+                        "CZECH REPUBLIC", 
+                        "HUNGARY", 
+                        "RUSSIAN FEDERATION", 
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 9, 
+            "value": 2
+        }, 
+        {
+            "source": 3, 
+            "target": 9, 
+            "value": 3
+        }, 
+        {
+            "source": 4, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 9, 
+            "value": 2
+        }, 
+        {
+            "source": 34, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 4, 
+            "value": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 3, 
+            "value": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 70, 
+            "value": 2
+        }, 
+        {
+            "source": 70, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 52, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 30, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "aquatic botany", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "unidirectional hydrochory, reproduction mode and mating system have different impacts on the ecology of stream plants, and variation in the combination of these processes shapes unique genetic patterns which can have different consequences for the fitness of stream populations. we studied the genetic structure inferred by aflps, its snps and matk sequences of three populations of the common clonal macrophyte ranunculus baudotii in river aarhus in order to understand the role of vegetative and sexual reproduction in the stream and how genetic variation is distributed along the stream. we also explored the genetic relationships of the r. baudotii population in river aarhus with other species of sect. batrachium, because hybrids have been identified in the stream and they might affect the structure of the populations. the three studied populations were genetically distinct despite low genetic diversity and plant fragmentation is likely the main form of reproduction in the river system. the establishment of a few seeds, sexual recombination, the occurrence of putative hybrids and genetic drift in the establishment of fragments and seeds dramatically changed the genetic diversity of the populations along the stream and led to differentiation among populations. further research is needed to understand the conditions favoring sexual reproduction and gene flow distances. \u00a9 2016", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN", 
+                    "ETHIOPIA"
+                ], 
+                "genetictool": [
+                    "amplified fragment length polymorphism", 
+                    "random amplified polymorphic DNA", 
+                    "restriction fragment length polymorphism", 
+                    "genetic marker", 
+                    "AFLP", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "hereditas", 
+                "focalspecies": [
+                    "Guizotia zavattarii", 
+                    "Guizotia arborescens"
+                ], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "amplified fragment length polymorphism (aflp) and random amplified polymorphic dna (rapd) markers were used to provide estimates of the comparative genetic variation within and among populations of various guizotia taxa with the goal of conserving and utilizing their genetic diversity. the percentage of polymorphic loci (ps) ranged from 28.5%-90% (aflp) and 85.6%-99.6% (rapd). the overall gene diversity estimate (ht) has shown slight variation among taxa ranging from 0.32-0.37 (aflp) and from 0.22 to 0.28 (rapd). the within population diversity of \"chelelu\" and \"ketcha\" was found to be unexpectedly high. both parameters used to estimate population differentiation (gst and fst) revealed the highest population differentiation in g. zavattarii followed by g. arborescens. genetic variation among populations within a taxon was highly significant for all the five taxa as revealed by amova (p&lt;0.0001). the need for immediate conservation activities for g. arborescens and g. zavattarii, and factors that contribute to the existing genetic variability and population genetic structures are discussed.", 
+                "focalspeciesCOO": [
+                    [
+                        "ETHIOPIA", 
+                        "KENYA"
+                    ], 
+                    [
+                        "ETHIOPIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 23, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 9, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 30, 
+            "target": 9, 
+            "value": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 34, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 9, 
+            "value": 3
+        }, 
+        {
+            "source": 70, 
+            "target": 9, 
+            "value": 4
+        }, 
+        {
+            "source": 25, 
+            "target": 9, 
+            "value": 1
+        }
+    ]
+}
+]

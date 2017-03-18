@@ -1,0 +1,619 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 53, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.91753797, 
+                    30.85883075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 53, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "CHINA", 
+                    "ISRAEL", 
+                    "CHINA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "expressed sequence tag", 
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "evaluation of genetic diversity and genetic structure in crops has important implications for plant breeding programs and the conservation of genetic resources. newly developed single nucleotide polymorphism (snp) markers are effective in detecting genetic diversity. in the present study, a worldwide durum wheat collection consisting of 150 accessions was used. genetic diversity and genetic structure were investigated using 946 polymorphic snp markers covering the whole genome of tetraploid wheat. genetic structure was greatly impacted by multiple factors, such as environmental conditions, breeding methods reflected by release periods of varieties, and gene flows via human activities. a loss of genetic diversity was observed from landraces and old cultivars to the modern cultivars released during periods of the early green revolution, but an increase in cultivars released during the post green revolution. furthermore, a comparative analysis of genetic diversity among the 10 mega ecogeographical regions indicated that south america, north america, and europe possessed the richest genetic variability, while the middle east showed moderate levels of genetic diversity. \u00a9 2013 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Israel", 
+                "nameofficial": "State of Israel"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 53, 
+            "value": 4
+        }, 
+        {
+            "source": 3, 
+            "target": 53, 
+            "value": 3
+        }, 
+        {
+            "source": 25, 
+            "target": 53, 
+            "value": 1
+        }, 
+        {
+            "source": 53, 
+            "target": 53, 
+            "value": 4
+        }, 
+        {
+            "source": 53, 
+            "target": 54, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 53, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.91753797, 
+                    30.85883075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 53, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "CHINA", 
+                    "ISRAEL", 
+                    "CHINA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "expressed sequence tag", 
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "evaluation of genetic diversity and genetic structure in crops has important implications for plant breeding programs and the conservation of genetic resources. newly developed single nucleotide polymorphism (snp) markers are effective in detecting genetic diversity. in the present study, a worldwide durum wheat collection consisting of 150 accessions was used. genetic diversity and genetic structure were investigated using 946 polymorphic snp markers covering the whole genome of tetraploid wheat. genetic structure was greatly impacted by multiple factors, such as environmental conditions, breeding methods reflected by release periods of varieties, and gene flows via human activities. a loss of genetic diversity was observed from landraces and old cultivars to the modern cultivars released during periods of the early green revolution, but an increase in cultivars released during the post green revolution. furthermore, a comparative analysis of genetic diversity among the 10 mega ecogeographical regions indicated that south america, north america, and europe possessed the richest genetic variability, while the middle east showed moderate levels of genetic diversity. \u00a9 2013 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Israel", 
+                "nameofficial": "State of Israel"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 53, 
+            "value": 1
+        }, 
+        {
+            "source": 53, 
+            "target": 53, 
+            "value": 3
+        }, 
+        {
+            "source": 53, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 53, 
+            "target": 54, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 53, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.91753797, 
+                    30.85883075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 53, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "CHINA", 
+                    "ISRAEL", 
+                    "CHINA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "expressed sequence tag", 
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "evaluation of genetic diversity and genetic structure in crops has important implications for plant breeding programs and the conservation of genetic resources. newly developed single nucleotide polymorphism (snp) markers are effective in detecting genetic diversity. in the present study, a worldwide durum wheat collection consisting of 150 accessions was used. genetic diversity and genetic structure were investigated using 946 polymorphic snp markers covering the whole genome of tetraploid wheat. genetic structure was greatly impacted by multiple factors, such as environmental conditions, breeding methods reflected by release periods of varieties, and gene flows via human activities. a loss of genetic diversity was observed from landraces and old cultivars to the modern cultivars released during periods of the early green revolution, but an increase in cultivars released during the post green revolution. furthermore, a comparative analysis of genetic diversity among the 10 mega ecogeographical regions indicated that south america, north america, and europe possessed the richest genetic variability, while the middle east showed moderate levels of genetic diversity. \u00a9 2013 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Israel", 
+                "nameofficial": "State of Israel"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "target": 53, 
+            "value": 1
+        }, 
+        {
+            "source": 53, 
+            "target": 53, 
+            "value": 3
+        }, 
+        {
+            "source": 54, 
+            "target": 53, 
+            "value": 1
+        }
+    ]
+}
+]

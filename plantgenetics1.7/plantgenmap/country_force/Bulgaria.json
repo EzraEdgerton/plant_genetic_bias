@@ -1,0 +1,333 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 65, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 65, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "BULGARIA", 
+                    "NETHERLANDS"
+                ], 
+                "genetictool": [
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "euphytica", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2009, 
+                "abstracttext": "recognizing the danger due to a permanent risk of loss of the genetic variability of cultivated plants and their wild relatives in response to changing environmental conditions and cultural practices, plant ex situ genebank collections were created since the beginning of the last century. world-wide more than 6 million accessions have been accumulated of which more than 90% are stored as seeds. research on seed longevity was performed in barley maintained for up to 34 years in the seed store of the german ex situ genebank of the leibniz-institute of plant genetics and crop plant research in gatersleben. a high intraspecific variation was detected in those natural aged accessions. in addition three doubled haploid barley mapping populations being artificial aged were investigated to study the inheritance of seed longevity. quantitative trait locus (qtl) mapping was based on a transcript map. major qtls were identified on chromosomes 2h, 5h (two) and 7h explaining a phenotypic variation of up to 54%. a sequence homology search was performed to derive the putative function of the genes linked to the qtls. \u00a9 springer science+business media b.v. 2009.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "target": 65, 
+            "value": 1
+        }, 
+        {
+            "source": 65, 
+            "target": 20, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 65, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 65, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "BULGARIA", 
+                    "NETHERLANDS"
+                ], 
+                "genetictool": [
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "euphytica", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2009, 
+                "abstracttext": "recognizing the danger due to a permanent risk of loss of the genetic variability of cultivated plants and their wild relatives in response to changing environmental conditions and cultural practices, plant ex situ genebank collections were created since the beginning of the last century. world-wide more than 6 million accessions have been accumulated of which more than 90% are stored as seeds. research on seed longevity was performed in barley maintained for up to 34 years in the seed store of the german ex situ genebank of the leibniz-institute of plant genetics and crop plant research in gatersleben. a high intraspecific variation was detected in those natural aged accessions. in addition three doubled haploid barley mapping populations being artificial aged were investigated to study the inheritance of seed longevity. quantitative trait locus (qtl) mapping was based on a transcript map. major qtls were identified on chromosomes 2h, 5h (two) and 7h explaining a phenotypic variation of up to 54%. a sequence homology search was performed to derive the putative function of the genes linked to the qtls. \u00a9 springer science+business media b.v. 2009.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "target": 65, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 65, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 65, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "BULGARIA", 
+                    "NETHERLANDS"
+                ], 
+                "genetictool": [
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "euphytica", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2009, 
+                "abstracttext": "recognizing the danger due to a permanent risk of loss of the genetic variability of cultivated plants and their wild relatives in response to changing environmental conditions and cultural practices, plant ex situ genebank collections were created since the beginning of the last century. world-wide more than 6 million accessions have been accumulated of which more than 90% are stored as seeds. research on seed longevity was performed in barley maintained for up to 34 years in the seed store of the german ex situ genebank of the leibniz-institute of plant genetics and crop plant research in gatersleben. a high intraspecific variation was detected in those natural aged accessions. in addition three doubled haploid barley mapping populations being artificial aged were investigated to study the inheritance of seed longevity. quantitative trait locus (qtl) mapping was based on a transcript map. major qtls were identified on chromosomes 2h, 5h (two) and 7h explaining a phenotypic variation of up to 54%. a sequence homology search was performed to derive the putative function of the genes linked to the qtls. \u00a9 springer science+business media b.v. 2009.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 20, 
+            "target": 65, 
+            "value": 1
+        }
+    ]
+}
+]

@@ -1,0 +1,860 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.14657786, 
+                    22.33728531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hong Kong", 
+                "nameofficial": "Hong Kong Special Administrative Region of the People's Republic"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 16, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 38, 
+            "target": 39, 
+            "value": 3
+        }, 
+        {
+            "source": 39, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.14657786, 
+                    22.33728531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hong Kong", 
+                "nameofficial": "Hong Kong Special Administrative Region of the People's Republic"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 38, 
+            "target": 39, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.14657786, 
+                    22.33728531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hong Kong", 
+                "nameofficial": "Hong Kong Special Administrative Region of the People's Republic"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "HONG KONG", 
+                    "TAIWAN", 
+                    "TAIWAN"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant physiology", 
+                "focalspecies": [
+                    "Arabidopsis thaliana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "most eukaryotic cells target ubiquitinated plasma membrane (pm) proteins for vacuolar degradation in response to environmental and developmental cues. this process involves endosomal sorting complexes required for transport (escrt). however, little is known about the cellular mechanisms of escrts in plants. here, we studied the function of one escrt-ii component, vps36, which shows ubiquitin-binding activity and may form a putative escrt-ii with vps22 and vps25 in arabidopsis (arabidopsis thaliana). recessive mutation of the ubiquitously expressed vps36 causes multiple defects, including delayed embryogenesis, defective root elongation, and limited expansion of cotyledons, and these effects can be complemented by its genomic dna. abnormal intracellular compartments containing several membrane transporters, including members of the pin-formeds, auxin resistant 1, and pip1 families, were found in vps36-1 plants. employing a genetic approach to cross vps36-1/+ with transgenic plants harboring various fluorescent protein-tagged organelle markers, as well as fluorescent probe and ultrastructural approaches, revealed pm proteins in microsomal fractions from vps36-1 seedlings and demonstrated that vps36 is critical for forming multivesicular bodies and vacuolar biogenesis for protein degradation. our study shows that functional vps36 is essential for a proper endosomal sorting pathway and for vacuolar biogenesis in arabidopsis. \u00a9 2017 american society of plant biologists. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "\u00c5LAND ISLANDS", 
+                        "FINLAND", 
+                        "DENMARK", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "GUERNSEY", 
+                        "JERSEY", 
+                        "AUSTRIA", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "ISLE OF MAN", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "UZBEKISTAN", 
+                        "GERMANY", 
+                        "RUSSIAN FEDERATION", 
+                        "TAJIKISTAN", 
+                        "UKRAINE", 
+                        "INDIA", 
+                        "POLAND", 
+                        "CAPE VERDE", 
+                        "NEPAL", 
+                        "GREECE", 
+                        "BULGARIA", 
+                        "CHINA", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "SERBIA", 
+                        "ARMENIA", 
+                        "GEORGIA", 
+                        "AZERBAIJAN", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "BELARUS", 
+                        "LITHUANIA", 
+                        "LIBYA", 
+                        "MOROCCO", 
+                        "ESTONIA", 
+                        "LUXEMBOURG", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ETHIOPIA", 
+                        "URUGUAY", 
+                        "TUNISIA", 
+                        "SAUDI ARABIA", 
+                        "CYPRUS", 
+                        "ROMANIA", 
+                        "ARGENTINA", 
+                        "KENYA", 
+                        "NEW ZEALAND", 
+                        "ALGERIA", 
+                        "ICELAND", 
+                        "ALBANIA", 
+                        "ANDORRA", 
+                        "SOUTH AFRICA", 
+                        "CHILE", 
+                        "GUYANA", 
+                        "INDONESIA", 
+                        "MONTENEGRO", 
+                        "BRAZIL", 
+                        "SLOVENIA", 
+                        "ISRAEL", 
+                        "HUNGARY", 
+                        "SLOVAKIA", 
+                        "THAILAND", 
+                        "LEBANON", 
+                        "IRAQ"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 38, 
+            "target": 39, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 39, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 1
+        }
+    ]
+}
+]

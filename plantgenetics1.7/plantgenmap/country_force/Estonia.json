@@ -1,0 +1,110 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.38165099, 
+                    58.74041141
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ESTONIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "the estonian government has responded to the global efforts for conservation and sustainable use of biological diversity ratifying international agreements and initiating the national programme on plant genetic resources for food and agriculture. collection, identification and conservation of plant genetic material of estonian origin as well establishing the network were the essential activities of the national programme. since plant genetic resources form the core of initial material for plant breeders and scientists systematic investigations to improve utilisation of plant genetic resources are conducted. an overview of activities on preservation of plant genetic resources for food and agriculture in estonia is presented. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Estonia", 
+                "nameofficial": "Republic of Estonia"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.38165099, 
+                    58.74041141
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ESTONIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "the estonian government has responded to the global efforts for conservation and sustainable use of biological diversity ratifying international agreements and initiating the national programme on plant genetic resources for food and agriculture. collection, identification and conservation of plant genetic material of estonian origin as well establishing the network were the essential activities of the national programme. since plant genetic resources form the core of initial material for plant breeders and scientists systematic investigations to improve utilisation of plant genetic resources are conducted. an overview of activities on preservation of plant genetic resources for food and agriculture in estonia is presented. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Estonia", 
+                "nameofficial": "Republic of Estonia"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.38165099, 
+                    58.74041141
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ESTONIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "russian journal of genetics: applied research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2013, 
+                "abstracttext": "the estonian government has responded to the global efforts for conservation and sustainable use of biological diversity ratifying international agreements and initiating the national programme on plant genetic resources for food and agriculture. collection, identification and conservation of plant genetic material of estonian origin as well establishing the network were the essential activities of the national programme. since plant genetic resources form the core of initial material for plant breeders and scientists systematic investigations to improve utilisation of plant genetic resources are conducted. an overview of activities on preservation of plant genetic resources for food and agriculture in estonia is presented. \u00a9 2013 pleiades publishing, ltd.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Estonia", 
+                "nameofficial": "Republic of Estonia"
+            }
+        }
+    ], 
+    "links": []
+}
+]

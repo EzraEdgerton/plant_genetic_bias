@@ -1,0 +1,858 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.40014474, 
+                    -38.0176079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [], 
+                "fundingorganization": "comision nacional de investigacion cientifica y tecnologica (conicyt),    chile  [ fondecyt 1130541, fondecyt 3140623, fondecyt 1120890]", 
+                "journal": "applied soil ecology", 
+                "focalspecies": [
+                    "Triticum aestivum", 
+                    "Andropogon virginicus"
+                ], 
+                "fundingCOO": [
+                    "CHILE"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{wheat (triticum aestivum l.) cultivars vary extensively in their\n   response to acidic soils. in southern chile, wheat genotypes have been\n   selected for growth on acidic andisols where high concentrations of\n   phytotoxic aluminum (al) limit plant growth. previous work indicates\n   that arbuscular mycorrhizal (am) fungi play an important role protecting\n   plant roots against the deleterious effects of al. to understand\n   interactions between am fungi and cultivar al phytotoxicity, six locally\n   used wheat cultivars ('bakan', `crac', `invento', `maxi', `otto', and\n   `porfiado') were cultivated in a non-limed and limed andisol (74 and 5\\%\n   al saturation, respectively). plant harvests were carried out at two\n   phonological stages: tillering (60 days after sowing, das) and\n   physiological maturity (150 das). plant growth was limited on non-limed\n   soil, but varied by cultivar. among the cultivars, `porfiado' and `crac'\n   exhibited growth traits consistently associated with acidic soil\n   resistance, including greater biomass and root length and higher p/al\n   and ca/al ratios in plants grown in non-limed soil. wheat growth was\n   positively correlated with am colonized root length and al bound to\n   glomalin related soil protein (al-grsp). in addition, root al\n   concentration was negatively correlated with colonized root length and\n   al-grsp across all wheat cultivars grown under high al saturation. the\n   significantly better performance of wheat cultivars and their\n   association with am fungal traits on non-limed soils indicates that\n   indigenous am fungal populations in acidic soils may contribute to al\n   tolerance of some wheat cultivars when growing at high al levels. (c)\n   2016 elsevier b.v. all rights reserved.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ], 
+                    [
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "JAMAICA", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "HAITI", 
+                        "JAPAN", 
+                        "BELIZE", 
+                        "BRAZIL", 
+                        "BAHAMAS", 
+                        "NICARAGUA", 
+                        "NEW ZEALAND", 
+                        "PUERTO RICO", 
+                        "BERMUDA", 
+                        "CANADA", 
+                        "MAURITIUS", 
+                        "HONDURAS", 
+                        "GUATEMALA", 
+                        "PANAMA", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "PARAGUAY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Chile", 
+                "nameofficial": "Republic of Chile"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.40014474, 
+                    -38.0176079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "BOLIVIA", 
+                    "CHILE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "electronic journal of biotechnology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2006, 
+                "abstracttext": "the bolivia study is part of an ongoing multiple case study organized by the fao's regional office for latin america and the caribbean as part of the activities of the technical cooperation network on agricultural biotechnology (redbio/fao). the basic information was obtained through a survey and/or direct interview to a significant number of experts from bolivian institutions involving management, regulation, research, innovation, application and education of agricultural biotechnology. at national level, the most relevant applied agri-biotechnologies are presently in vitro plant culture, genomics, molecular genetics, assisted reproduction techniques in animals, and techniques supporting plant and animal disease diagnosis. they have been developed and appropriated to support the agricultural sector including genetically modified crops. over the past ten years, the public research and academic institutions have allocated resources to implement laboratories and others have widened and updated their facilities. nonetheless, a different situation is observed in the private sector where some laboratories have been forced to close down and to reduce production due to the economic crisis of the country. in view of the country's specific needs and opportunities regarding conservation and utilization of genetic resources, biotechnology can constitute a valuable tool for the sustainable development of the country. \u00a9 2006 by pontificia universidad cat\u00f3lica de valpara\u00edso.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Chile", 
+                "nameofficial": "Republic of Chile"
+            }
+        }, 
+        {
+            "index": 56, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -65.19265691, 
+                    -16.74518128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 56, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bolivia", 
+                "nameofficial": "Plurinational State of Bolivia"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 56, 
+            "target": 71, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 71, 
+            "value": 4
+        }, 
+        {
+            "source": 71, 
+            "target": 54, 
+            "value": 5
+        }, 
+        {
+            "source": 71, 
+            "target": 71, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.40014474, 
+                    -38.0176079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BOLIVIA", 
+                    "CHILE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "electronic journal of biotechnology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2006, 
+                "abstracttext": "the bolivia study is part of an ongoing multiple case study organized by the fao's regional office for latin america and the caribbean as part of the activities of the technical cooperation network on agricultural biotechnology (redbio/fao). the basic information was obtained through a survey and/or direct interview to a significant number of experts from bolivian institutions involving management, regulation, research, innovation, application and education of agricultural biotechnology. at national level, the most relevant applied agri-biotechnologies are presently in vitro plant culture, genomics, molecular genetics, assisted reproduction techniques in animals, and techniques supporting plant and animal disease diagnosis. they have been developed and appropriated to support the agricultural sector including genetically modified crops. over the past ten years, the public research and academic institutions have allocated resources to implement laboratories and others have widened and updated their facilities. nonetheless, a different situation is observed in the private sector where some laboratories have been forced to close down and to reduce production due to the economic crisis of the country. in view of the country's specific needs and opportunities regarding conservation and utilization of genetic resources, biotechnology can constitute a valuable tool for the sustainable development of the country. \u00a9 2006 by pontificia universidad cat\u00f3lica de valpara\u00edso.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Chile", 
+                "nameofficial": "Republic of Chile"
+            }
+        }, 
+        {
+            "index": 56, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -65.19265691, 
+                    -16.74518128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 56, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bolivia", 
+                "nameofficial": "Plurinational State of Bolivia"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 56, 
+            "target": 71, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 71, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 71, 
+            "target": 54, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.40014474, 
+                    -38.0176079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "BOLIVIA", 
+                    "CHILE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "electronic journal of biotechnology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2006, 
+                "abstracttext": "the bolivia study is part of an ongoing multiple case study organized by the fao's regional office for latin america and the caribbean as part of the activities of the technical cooperation network on agricultural biotechnology (redbio/fao). the basic information was obtained through a survey and/or direct interview to a significant number of experts from bolivian institutions involving management, regulation, research, innovation, application and education of agricultural biotechnology. at national level, the most relevant applied agri-biotechnologies are presently in vitro plant culture, genomics, molecular genetics, assisted reproduction techniques in animals, and techniques supporting plant and animal disease diagnosis. they have been developed and appropriated to support the agricultural sector including genetically modified crops. over the past ten years, the public research and academic institutions have allocated resources to implement laboratories and others have widened and updated their facilities. nonetheless, a different situation is observed in the private sector where some laboratories have been forced to close down and to reduce production due to the economic crisis of the country. in view of the country's specific needs and opportunities regarding conservation and utilization of genetic resources, biotechnology can constitute a valuable tool for the sustainable development of the country. \u00a9 2006 by pontificia universidad cat\u00f3lica de valpara\u00edso.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Chile", 
+                "nameofficial": "Republic of Chile"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -65.19265691, 
+                    -16.74518128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bolivia", 
+                "nameofficial": "Plurinational State of Bolivia"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 54, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 54, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA", 
+                    "ARGENTINA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite", 
+                    "molecular marker", 
+                    "SSR", 
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Nothofagus alpina"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: nothofagus nervosa is one of the most emblematic native tree species of patagonian temperate forests. here, the shotgun rna-sequencing (rna-seq) of the transcriptome of n. nervosa, including de novo assembly, functional annotation, and in silico discovery of potential molecular markers to support population and associations genetic studies, are described.results: pyrosequencing of a young leaf cdna library generated a total of 111,814 high quality reads, with an average length of 447 bp. de novo assembly using newbler resulted into 3,005 tentative isotigs (including alternative transcripts). the non-assembled sequences (singletons) were clustered with cd-hit-454 to identify natural and artificial duplicates from pyrosequencing reads, leading to 21,881 unique singletons. 15,497 out of 24,886 non-redundant sequences or unigenes, were successfully annotated against a plant protein database. a substantial number of simple sequence repeat markers (ssrs) were discovered in the assembled and annotated sequences. more than 40% of the ssr sequences were inside orf sequences. to confirm the validity of these predicted markers, a subset of 73 ssrs selected through functional annotation evidences were successfully amplified from six seedlings dna samples, being 14 polymorphic.conclusions: this paper is the first report that shows a highly precise representation of the mrnas diversity present in young leaves of a native south american tree, n. nervosa, as well as its in silico deduced putative functionality. the reported nothofagus transcriptome sequences represent a unique resource for genetic studies and provide a tool to discover genes of interest and genetic markers that will greatly aid questions involving evolution, ecology, and conservation using genetic and genomic approaches in the genus. \u00a9 2012 torales et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "CHILE", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "NEW ZEALAND", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 71, 
+            "target": 57, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 71, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 71, 
+            "target": 54, 
+            "value": 1
+        }
+    ]
+}
+]

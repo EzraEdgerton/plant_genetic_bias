@@ -1,0 +1,1788 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [], 
+                "fundingorganization": "earth and life sciences foundation (alw); netherlands organization for    scientific research (nwo)  [ 821006]", 
+                "journal": "chemoecology", 
+                "focalspecies": [
+                    "Brassica oleracea"
+                ], 
+                "fundingCOO": [
+                    "NETHERLANDS"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{insects feeding on aboveground and belowground tissues can influence\n   each other through their shared plant and this is often mediated by\n   changes in plant chemistry. we examined the effects of belowground root\n   fly (delia radicum) herbivory on the performance of an aboveground\n   herbivore (plutella xylostella) and its endoparasitoid wasp (cotesia\n   vestalis). insects were reared on three populations of wild cabbage\n   (brassica oleracea) plants, exhibiting qualitative and quantitative\n   differences in root and shoot defense chemistry, that had or had not\n   been exposed to root herbivory. in addition, we measured primary (amino\n   acids and sugars) and secondary {[}glucosinolate (gs)] chemistry in\n   plants exposed to the various plant population-treatment combinations to\n   determine to what extent plant chemistry could explain variation in\n   insect performance variables using multivariate statistics. in general,\n   insect performance was more strongly affected by plant population than\n   by herbivory in the opposite compartment, suggesting that\n   population-related differences in plant quality are larger than those\n   induced by herbivory. sugar profiles were similar in the three\n   populations and concentrations only changed in damaged tissues. in\n   addition to population-related differences, amino acid concentrations\n   primarily changed locally in response to herbivory. whether gs\n   concentrations changed in response to herbivory (indole gs) or whether\n   there were only population-related differences (aliphatic gs) depended\n   on gs class. poor correlations between performance and chemical\n   attributes made biological interpretation of these results difficult.\n   moreover, trade-offs between life history traits suggest that factors\n   other than food nutritional quality contribute to the expression of life\n   history traits.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "BRAZIL", 
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "MOROCCO", 
+                        "PORTUGAL", 
+                        "NEW ZEALAND", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "GREECE", 
+                        "DENMARK", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "ALBANIA", 
+                        "LATVIA", 
+                        "HUNGARY", 
+                        "ZIMBABWE", 
+                        "CROATIA", 
+                        "MONTENEGRO", 
+                        "SOUTH AFRICA", 
+                        "SLOVENIA", 
+                        "TURKEY", 
+                        "THAILAND", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NORWAY", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "HONG KONG", 
+                        "EGYPT", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "BHUTAN", 
+                        "CZECH REPUBLIC", 
+                        "AUSTRIA", 
+                        "CANADA", 
+                        "BULGARIA", 
+                        "NEW CALEDONIA", 
+                        "BELGIUM", 
+                        "ETHIOPIA", 
+                        "CAMEROON", 
+                        "ICELAND", 
+                        "KENYA", 
+                        "ARMENIA", 
+                        "KAZAKHSTAN", 
+                        "AFGHANISTAN", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "YEMEN", 
+                        "ANDORRA", 
+                        "COLOMBIA", 
+                        "BENIN", 
+                        "FINLAND", 
+                        "RWANDA", 
+                        "MONGOLIA", 
+                        "TURKMENISTAN", 
+                        "AZERBAIJAN", 
+                        "LIBYA", 
+                        "ARGENTINA", 
+                        "KYRGYZSTAN", 
+                        "IRAQ", 
+                        "CHILE", 
+                        "ESTONIA", 
+                        "UZBEKISTAN", 
+                        "LITHUANIA", 
+                        "TAJIKISTAN", 
+                        "ALGERIA", 
+                        "DOMINICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "PUERTO RICO", 
+                        "PHILIPPINES", 
+                        "FIJI", 
+                        "NORFOLK ISLAND", 
+                        "ZAMBIA", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "NICARAGUA", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "PAKISTAN", 
+                        "NEPAL", 
+                        "TUNISIA", 
+                        "MAURITIUS", 
+                        "VIETNAM", 
+                        "ECUADOR", 
+                        "GUATEMALA", 
+                        "LUXEMBOURG", 
+                        "JAMAICA", 
+                        "SERBIA", 
+                        "R\u00c9UNION", 
+                        "PAPUA NEW GUINEA", 
+                        "BELARUS", 
+                        "HAITI", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 34, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.72825915, 
+                    7.38622543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Cameroon", 
+                "nameofficial": "Republic of Cameroon"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "methods in molecular biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taking transposable elements into consideration in surveys of genetic and epigenetic variation remains challenging in species lacking a high-quality reference genome. here, molecular techniques reducing genome complexity and specifically targeting restructuring and methylation changes in te genome fractions are described. in particular, methyl-sensitive transposon display (mstd) uses isoschizomers and pcr amplifications to assess the methylation environment of te insertions. mstd offers reliable insights into genome-wide epigenetic changes associated with tes, especially when used together with similar techniques tracking random sequences. \u00a9 springer science+business media new york 2017.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 186, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 65, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 65, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "BULGARIA", 
+                    "NETHERLANDS"
+                ], 
+                "genetictool": [
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "euphytica", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2009, 
+                "abstracttext": "recognizing the danger due to a permanent risk of loss of the genetic variability of cultivated plants and their wild relatives in response to changing environmental conditions and cultural practices, plant ex situ genebank collections were created since the beginning of the last century. world-wide more than 6 million accessions have been accumulated of which more than 90% are stored as seeds. research on seed longevity was performed in barley maintained for up to 34 years in the seed store of the german ex situ genebank of the leibniz-institute of plant genetics and crop plant research in gatersleben. a high intraspecific variation was detected in those natural aged accessions. in addition three doubled haploid barley mapping populations being artificial aged were investigated to study the inheritance of seed longevity. quantitative trait locus (qtl) mapping was based on a transcript map. major qtls were identified on chromosomes 2h, 5h (two) and 7h explaining a phenotypic variation of up to 54%. a sequence homology search was performed to derive the putative function of the genes linked to the qtls. \u00a9 springer science+business media b.v. 2009.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 69, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 69, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "nucleic acids research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "enod40 is a plant gene that participates in the regulation of symbiotic interaction between leguminous plants and bacteria or fungi. furthermore, it has been suggested to play a general role in nonsymbiotic plant development. although enod40 seems to have multiple functions, being present in many land plants, the molecular mechanisms of its activity are unclear; they may be determined though, by short peptides and/or rna structures encoded in the enod40 genes. we utilized conserved rna structures in enod40 sequences to search nucleotide sequence databases and identified a number of new enod40 homologues in plant species that belong to known, but also, to yet unknown enod40-containing plant families. rna secondary structure predictions and comparative sequence analysis of enod40 rnas allowed us to determine the most conserved structural features, present in all known enod40 genes. remarkably, the topology and evolution of one of the conserved structural domains are similar to those of the expansion segments found in structural rnas such as rrnas, rnase p and srp rnas. surprisingly, the enod40 rna structural elements are much more stronger conserved than the encoded peptides. this finding suggests that some general functions of enod40 gene could be determined by the encoded rna structure, whereas short peptides may be responsible for more diverse functions found only in certain plant families. \u00a9 2007 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 50, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 20, 
+            "value": 7
+        }, 
+        {
+            "source": 18, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 20, 
+            "value": 3
+        }, 
+        {
+            "source": 19, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 20, 
+            "value": 9
+        }, 
+        {
+            "source": 32, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 5, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 20, 
+            "value": 5
+        }, 
+        {
+            "source": 65, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 69, 
+            "value": 2
+        }, 
+        {
+            "source": 1, 
+            "target": 20, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "methods in molecular biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taking transposable elements into consideration in surveys of genetic and epigenetic variation remains challenging in species lacking a high-quality reference genome. here, molecular techniques reducing genome complexity and specifically targeting restructuring and methylation changes in te genome fractions are described. in particular, methyl-sensitive transposon display (mstd) uses isoschizomers and pcr amplifications to assess the methylation environment of te insertions. mstd offers reliable insights into genome-wide epigenetic changes associated with tes, especially when used together with similar techniques tracking random sequences. \u00a9 springer science+business media new york 2017.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 69, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 69, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "nucleic acids research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "enod40 is a plant gene that participates in the regulation of symbiotic interaction between leguminous plants and bacteria or fungi. furthermore, it has been suggested to play a general role in nonsymbiotic plant development. although enod40 seems to have multiple functions, being present in many land plants, the molecular mechanisms of its activity are unclear; they may be determined though, by short peptides and/or rna structures encoded in the enod40 genes. we utilized conserved rna structures in enod40 sequences to search nucleotide sequence databases and identified a number of new enod40 homologues in plant species that belong to known, but also, to yet unknown enod40-containing plant families. rna secondary structure predictions and comparative sequence analysis of enod40 rnas allowed us to determine the most conserved structural features, present in all known enod40 genes. remarkably, the topology and evolution of one of the conserved structural domains are similar to those of the expansion segments found in structural rnas such as rrnas, rnase p and srp rnas. surprisingly, the enod40 rna structural elements are much more stronger conserved than the encoded peptides. this finding suggests that some general functions of enod40 gene could be determined by the encoded rna structure, whereas short peptides may be responsible for more diverse functions found only in certain plant families. \u00a9 2007 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 20, 
+            "value": 6
+        }, 
+        {
+            "source": 32, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 17, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 20, 
+            "value": 5
+        }, 
+        {
+            "source": 20, 
+            "target": 69, 
+            "value": 2
+        }, 
+        {
+            "source": 1, 
+            "target": 20, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 65, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 65, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "BULGARIA", 
+                    "NETHERLANDS"
+                ], 
+                "genetictool": [
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "euphytica", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2009, 
+                "abstracttext": "recognizing the danger due to a permanent risk of loss of the genetic variability of cultivated plants and their wild relatives in response to changing environmental conditions and cultural practices, plant ex situ genebank collections were created since the beginning of the last century. world-wide more than 6 million accessions have been accumulated of which more than 90% are stored as seeds. research on seed longevity was performed in barley maintained for up to 34 years in the seed store of the german ex situ genebank of the leibniz-institute of plant genetics and crop plant research in gatersleben. a high intraspecific variation was detected in those natural aged accessions. in addition three doubled haploid barley mapping populations being artificial aged were investigated to study the inheritance of seed longevity. quantitative trait locus (qtl) mapping was based on a transcript map. major qtls were identified on chromosomes 2h, 5h (two) and 7h explaining a phenotypic variation of up to 54%. a sequence homology search was performed to derive the putative function of the genes linked to the qtls. \u00a9 springer science+business media b.v. 2009.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 69, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 69, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "nucleic acids research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2007, 
+                "abstracttext": "enod40 is a plant gene that participates in the regulation of symbiotic interaction between leguminous plants and bacteria or fungi. furthermore, it has been suggested to play a general role in nonsymbiotic plant development. although enod40 seems to have multiple functions, being present in many land plants, the molecular mechanisms of its activity are unclear; they may be determined though, by short peptides and/or rna structures encoded in the enod40 genes. we utilized conserved rna structures in enod40 sequences to search nucleotide sequence databases and identified a number of new enod40 homologues in plant species that belong to known, but also, to yet unknown enod40-containing plant families. rna secondary structure predictions and comparative sequence analysis of enod40 rnas allowed us to determine the most conserved structural features, present in all known enod40 genes. remarkably, the topology and evolution of one of the conserved structural domains are similar to those of the expansion segments found in structural rnas such as rrnas, rnase p and srp rnas. surprisingly, the enod40 rna structural elements are much more stronger conserved than the encoded peptides. this finding suggests that some general functions of enod40 gene could be determined by the encoded rna structure, whereas short peptides may be responsible for more diverse functions found only in certain plant families. \u00a9 2007 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 30, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 20, 
+            "value": 2
+        }, 
+        {
+            "source": 20, 
+            "target": 20, 
+            "value": 6
+        }, 
+        {
+            "source": 5, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 4, 
+            "value": 3
+        }, 
+        {
+            "source": 20, 
+            "target": 65, 
+            "value": 1
+        }, 
+        {
+            "source": 69, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 20, 
+            "value": 2
+        }, 
+        {
+            "source": 1, 
+            "target": 20, 
+            "value": 1
+        }
+    ]
+}
+]

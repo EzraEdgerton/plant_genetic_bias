@@ -1,0 +1,673 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 34, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.72825915, 
+                    7.38622543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Cameroon", 
+                "nameofficial": "Republic of Cameroon"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 101, 
+            "data": {
+                "authorsCOO": [
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE", 
+                    "FRANCE"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Daucus carota", 
+                    "Petroselinum crispum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "a collection of 102 diaporthe isolates was compiled from lesions on carrot, parsley and wild apiaceae species in france from 2010 to 2014. molecular typing based on its rdna sequences resulted in the identification of 85 d.\u00a0angelicae and 17 d.\u00a0eres isolates. based on sequences of the 3\u2032 part of the igs rdna, intraspecific variability was analysed for 17 d.\u00a0angelicae and 13 d.\u00a0eres isolates from diverse plant species, locations in france, and plant tissues. the genetic diversity was greater for d.\u00a0angelicae isolates than d.\u00a0eres isolates. in vitro sensitivity of five d.\u00a0angelicae and four d.\u00a0eres isolates to each of nine fungicides was similar for isolates of both species, with a marked variation in fungicide sensitivity depending on the active ingredient. to assess the pathogenicity of d.\u00a0angelicae and d.\u00a0eres isolates on carrot, one isolate of each species was inoculated onto umbels in a controlled environment. typical lesions were observed for both isolates. carrot crop debris collected from a seed production field in france and placed in controlled conditions produced perithecia and ascospores typical of diaporthe, that were further characterized molecularly as belonging to d.\u00a0angelicae. detection of diaporthe species on seed lots from three carrot production fields in france was investigated. both species were detected on seeds by conventional pcr assay, with a greater frequency for d.\u00a0angelicae than d.\u00a0eres (67% vs 33%, respectively). overall, the results highlighted that umbel browning in carrot seed crops in france was mainly caused by d.\u00a0angelicae. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "ALGERIA", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "AZERBAIJAN", 
+                        "NETHERLANDS", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "GREECE", 
+                        "SOUTH AFRICA", 
+                        "HAITI", 
+                        "GUADELOUPE", 
+                        "JAPAN", 
+                        "TURKEY", 
+                        "ROMANIA", 
+                        "HUNGARY", 
+                        "ARMENIA", 
+                        "ISRAEL", 
+                        "CHINA", 
+                        "UKRAINE", 
+                        "LEBANON", 
+                        "MOROCCO", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "NORWAY", 
+                        "CANADA", 
+                        "SWITZERLAND", 
+                        "URUGUAY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "PAKISTAN", 
+                        "OMAN", 
+                        "NEW ZEALAND", 
+                        "MALTA", 
+                        "MEXICO", 
+                        "IRAQ", 
+                        "IRELAND", 
+                        "INDIA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "EGYPT", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "BRAZIL", 
+                        "ARGENTINA", 
+                        "AFGHANISTAN", 
+                        "KAZAKHSTAN", 
+                        "ESTONIA", 
+                        "LITHUANIA", 
+                        "BULGARIA", 
+                        "BELARUS", 
+                        "SLOVAKIA", 
+                        "KYRGYZSTAN", 
+                        "LIBYA", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "R\u00c9UNION", 
+                        "TAJIKISTAN", 
+                        "CYPRUS", 
+                        "ICELAND", 
+                        "MYANMAR", 
+                        "CHILE", 
+                        "JORDAN", 
+                        "NEPAL", 
+                        "MONGOLIA", 
+                        "ALBANIA", 
+                        "FRENCH POLYNESIA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "ANDORRA", 
+                        "SWAZILAND", 
+                        "FAROE ISLANDS", 
+                        "MACAO", 
+                        "MAURITIUS", 
+                        "ECUADOR", 
+                        "TURKMENISTAN", 
+                        "BOTSWANA", 
+                        "ZIMBABWE", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "JAMAICA", 
+                        "FINLAND", 
+                        "YEMEN", 
+                        "DOMINICAN REPUBLIC", 
+                        "CUBA", 
+                        "GUATEMALA", 
+                        "ANTARCTICA", 
+                        "FIJI", 
+                        "CROATIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "PANAMA", 
+                        "PERU", 
+                        "LIECHTENSTEIN", 
+                        "SLOVENIA", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "LATVIA", 
+                        "JERSEY", 
+                        "GUERNSEY", 
+                        "NICARAGUA", 
+                        "HONDURAS", 
+                        "GIBRALTAR", 
+                        "SOMALIA", 
+                        "MAURITANIA", 
+                        "PUERTO RICO", 
+                        "GREENLAND", 
+                        "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BENIN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "YEMEN", 
+                        "ISRAEL", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "UNITED KINGDOM", 
+                        "PORTUGAL", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "ALBANIA", 
+                        "ROMANIA", 
+                        "ITALY", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "LITHUANIA", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "DENMARK", 
+                        "MEXICO", 
+                        "BULGARIA", 
+                        "BRAZIL", 
+                        "CZECH REPUBLIC", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "PERU", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "FIJI", 
+                        "KAZAKHSTAN", 
+                        "IRAQ", 
+                        "EGYPT", 
+                        "GEORGIA", 
+                        "FRENCH POLYNESIA", 
+                        "ARGENTINA", 
+                        "COLOMBIA", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "GIBRALTAR", 
+                        "FINLAND", 
+                        "AUSTRIA", 
+                        "JAPAN", 
+                        "CANADA", 
+                        "AZERBAIJAN", 
+                        "BHUTAN", 
+                        "CUBA", 
+                        "LIBYA", 
+                        "CROATIA", 
+                        "TUNISIA", 
+                        "TAJIKISTAN", 
+                        "NORWAY", 
+                        "GUADELOUPE", 
+                        "DOMINICAN REPUBLIC", 
+                        "MARTINIQUE", 
+                        "BERMUDA", 
+                        "COSTA RICA", 
+                        "ANDORRA", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "ECUADOR", 
+                        "ESTONIA", 
+                        "MALTA", 
+                        "INDONESIA", 
+                        "NICARAGUA", 
+                        "SOUTH AFRICA", 
+                        "GUATEMALA", 
+                        "JAMAICA", 
+                        "THAILAND", 
+                        "VIETNAM", 
+                        "HAITI", 
+                        "PARAGUAY", 
+                        "EL SALVADOR", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "CHILE", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 19, 
+            "value": 5
+        }, 
+        {
+            "source": 18, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 7, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 19, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 19, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 19, 
+            "value": 2
+        }
+    ]
+}
+]

@@ -1,0 +1,2284 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 34, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "KENYA", 
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "quantitative trait loci", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant journal", 
+                "focalspecies": [
+                    "Zea mays"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "hitherto, most quantitative trait loci of maize growth and biomass yield have been identified for a single time point, usually the final harvest stage. through this approach cumulative effects are detected, without considering genetic factors causing phase-specific differences in growth rates. to assess the genetics of growth dynamics, we employed automated non-invasive phenotyping to monitor the plant sizes of 252 diverse maize inbred lines at 11 different developmental time points; 50 k snp array genotype data were used for genome-wide association mapping and genomic selection. the heritability of biomass was estimated to be over 71%, and the average prediction accuracy amounted to 0.39. using the individual time point data, 12 main effect marker-trait associations (mtas) and six pairs of epistatic interactions were detected that displayed different patterns of expression at various developmental time points. a subset of them also showed significant effects on relative growth rates in different intervals. the detected mtas jointly explained up to 12% of the total phenotypic variation, decreasing with developmental progression. using non-parametric functional mapping and multivariate mapping approaches, four additional marker loci affecting growth dynamics were detected. our results demonstrate that plant biomass accumulation is a complex trait governed by many small effect loci, most of which act at certain restricted developmental phases. this highlights the need for investigation of stage-specific growth affecting genes to elucidate important processes operating at different developmental phases. \u00a9 2016 john wiley & sons ltd and the society for experimental biology.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "ROMANIA", 
+                        "NETHERLANDS", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "AZERBAIJAN", 
+                        "HUNGARY", 
+                        "SLOVENIA", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "PERU", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "CYPRUS", 
+                        "ARGENTINA", 
+                        "GUATEMALA", 
+                        "BULGARIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "INDONESIA", 
+                        "COMOROS", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "TAJIKISTAN", 
+                        "PHILIPPINES", 
+                        "MALAYSIA", 
+                        "THAILAND", 
+                        "SOUTH AFRICA", 
+                        "JAPAN", 
+                        "MOZAMBIQUE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "ZAMBIA", 
+                        "ANTIGUA AND BARBUDA", 
+                        "AFGHANISTAN", 
+                        "BELARUS", 
+                        "BURKINA FASO", 
+                        "ANGUILLA", 
+                        "BELIZE", 
+                        "BURUNDI", 
+                        "CHILE", 
+                        "BRAZIL", 
+                        "BARBADOS", 
+                        "BHUTAN", 
+                        "CHINA", 
+                        "CAMEROON", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "CUBA", 
+                        "DOMINICAN REPUBLIC", 
+                        "ALGERIA", 
+                        "ECUADOR", 
+                        "GUINEA", 
+                        "HONDURAS", 
+                        "GRENADA", 
+                        "GUADELOUPE", 
+                        "FRENCH GUIANA", 
+                        "GREECE", 
+                        "SAINT LUCIA", 
+                        "MOROCCO", 
+                        "KENYA", 
+                        "SRI LANKA", 
+                        "MALDIVES", 
+                        "KAZAKHSTAN", 
+                        "PANAMA", 
+                        "MAURITIUS", 
+                        "OMAN", 
+                        "MARTINIQUE", 
+                        "NEPAL", 
+                        "R\u00c9UNION", 
+                        "CHAD", 
+                        "URUGUAY", 
+                        "TRINIDAD AND TOBAGO", 
+                        "AMERICAN SAMOA", 
+                        "PITCAIRN", 
+                        "FRENCH POLYNESIA", 
+                        "PUERTO RICO", 
+                        "PARAGUAY", 
+                        "NICARAGUA", 
+                        "EL SALVADOR", 
+                        "ETHIOPIA", 
+                        "ISRAEL", 
+                        "ANGOLA", 
+                        "ERITREA", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "MALI", 
+                        "UGANDA", 
+                        "NIGERIA", 
+                        "HAITI", 
+                        "JAMAICA", 
+                        "GEORGIA", 
+                        "SENEGAL", 
+                        "BAHAMAS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SURINAME", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GUYANA", 
+                        "MYANMAR", 
+                        "UNITED KINGDOM", 
+                        "DENMARK", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "SERBIA", 
+                        "MONTENEGRO", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CZECH REPUBLIC", 
+                        "IRAQ", 
+                        "TUNISIA", 
+                        "LIBYA", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "VIETNAM", 
+                        "TURKMENISTAN", 
+                        "LEBANON", 
+                        "BENIN", 
+                        "LIBERIA", 
+                        "FINLAND", 
+                        "ARUBA", 
+                        "CURA\u00c7AO", 
+                        "GUAM", 
+                        "PAPUA NEW GUINEA", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAUDI ARABIA", 
+                        "MADAGASCAR", 
+                        "TOGO", 
+                        "GHANA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }, 
+        {
+            "index": 56, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -65.19265691, 
+                    -16.74518128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 56, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bolivia", 
+                "nameofficial": "Plurinational State of Bolivia"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.55693916, 
+                    -1.22919037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 14, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ecuador", 
+                "nameofficial": "Republic of Ecuador"
+            }
+        }, 
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.09949534, 
+                    9.98427463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Costa Rica", 
+                "nameofficial": "Republic of Costa Rica"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.590151, 
+                    18.21963053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Puerto Rico", 
+                "nameofficial": "Commonwealth of Puerto Rico"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 34, 
+            "target": 58, 
+            "value": 3
+        }, 
+        {
+            "source": 17, 
+            "target": 58, 
+            "value": 2
+        }, 
+        {
+            "source": 24, 
+            "target": 58, 
+            "value": 4
+        }, 
+        {
+            "source": 35, 
+            "target": 58, 
+            "value": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 58, 
+            "value": 2
+        }, 
+        {
+            "source": 57, 
+            "target": 58, 
+            "value": 5
+        }, 
+        {
+            "source": 73, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "source": 58, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 58, 
+            "target": 74, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.09949534, 
+                    9.98427463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Costa Rica", 
+                "nameofficial": "Republic of Costa Rica"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 28, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 34, 
+            "target": 58, 
+            "value": 2
+        }, 
+        {
+            "source": 73, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 58, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 56, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 56, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.53927436, 
+                    3.6818232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "MEXICO", 
+                    "COLOMBIA", 
+                    "MEXICO", 
+                    "MEXICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta agronomica", 
+                "focalspecies": [
+                    "Capsicum annuum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the populations of wild chili pepper (capsicum annuum var. glabriusculum) are a genetic valuable resource and the knowledge of the germinative ability, is of great importance for its management and conservation. the effects of the temperature on germination of wild chili grown in two environment of light, and the relation with the weight of 100 seeds of five populations of wild chili of the northwest of mexico, were recorded. the mother plants grown in greenhouse conditions with 50 and 100 % of solar light. the treatments applied in the germination cameras matched: fluctuating temperature (25-35 \u00b0c) and constant temperature (25 \u00b0c). the treatment variables were the following: percentage of final germination and mean germination time (t50). these variables performed a greatest treatment response of fluctuating temperature. a widely variation among 50 and 100 % of light was recorded with natural conditions. these temperature fluctuations are determinant in germinative processes. the temperature performed a significantly response in terms of the effect in germination velocity (t50) but not in germination percentage. the final germination was not significantly correlated with the seed weight due to maternal effects. in addition, plants grown in greenhouse conditions, differentiate among populations with a genetic basis.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "HONDURAS", 
+                        "CHINA", 
+                        "UNITED STATES", 
+                        "ANGOLA", 
+                        "PHILIPPINES", 
+                        "UNITED KINGDOM", 
+                        "BELIZE", 
+                        "NICARAGUA", 
+                        "INDONESIA", 
+                        "PARAGUAY", 
+                        "INDIA", 
+                        "EL SALVADOR", 
+                        "GUATEMALA", 
+                        "PUERTO RICO", 
+                        "FIJI", 
+                        "GRENADA", 
+                        "SAMOA", 
+                        "PANAMA", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "BRAZIL", 
+                        "TRINIDAD AND TOBAGO", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "ROMANIA", 
+                        "SLOVAKIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CHILE", 
+                        "JAPAN", 
+                        "AZERBAIJAN", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "CUBA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "BENIN", 
+                        "FRENCH GUIANA", 
+                        "GUADELOUPE", 
+                        "NEW CALEDONIA", 
+                        "GREECE", 
+                        "LIBYA", 
+                        "EGYPT", 
+                        "ARGENTINA", 
+                        "MADAGASCAR", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "MAURITIUS", 
+                        "CONGO", 
+                        "GABON", 
+                        "SUDAN", 
+                        "FRENCH POLYNESIA", 
+                        "BELGIUM", 
+                        "GUYANA", 
+                        "ECUADOR", 
+                        "AFGHANISTAN", 
+                        "LEBANON", 
+                        "SRI LANKA", 
+                        "KAZAKHSTAN", 
+                        "ISRAEL", 
+                        "BANGLADESH", 
+                        "BHUTAN", 
+                        "DENMARK", 
+                        "THAILAND", 
+                        "TURKEY", 
+                        "MALAYSIA", 
+                        "NIGER", 
+                        "TUNISIA", 
+                        "MONGOLIA", 
+                        "MALAWI", 
+                        "PAPUA NEW GUINEA", 
+                        "MYANMAR", 
+                        "UGANDA", 
+                        "NEPAL", 
+                        "PAKISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ZAMBIA", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "AMERICAN SAMOA", 
+                        "GEORGIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MOZAMBIQUE", 
+                        "SOMALIA", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "TAJIKISTAN", 
+                        "BURUNDI", 
+                        "ALGERIA", 
+                        "GHANA", 
+                        "UZBEKISTAN", 
+                        "IRAQ", 
+                        "MOROCCO", 
+                        "KYRGYZSTAN", 
+                        "TURKMENISTAN", 
+                        "BAHAMAS", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "MARTINIQUE", 
+                        "MONTSERRAT", 
+                        "HAITI", 
+                        "DOMINICA", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "MALDIVES", 
+                        "TIMOR-LESTE", 
+                        "SAO TOME AND PRINCIPE", 
+                        "COMOROS", 
+                        "DJIBOUTI", 
+                        "MALI", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "YEMEN", 
+                        "SEYCHELLES", 
+                        "MAYOTTE", 
+                        "CAPE VERDE", 
+                        "CAMBODIA", 
+                        "SIERRA LEONE", 
+                        "BURKINA FASO", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SERBIA", 
+                        "SURINAME", 
+                        "SLOVENIA", 
+                        "TOGO", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "ZIMBABWE", 
+                        "FINLAND", 
+                        "BERMUDA", 
+                        "HONG KONG", 
+                        "LITHUANIA", 
+                        "SAUDI ARABIA", 
+                        "BRITISH INDIAN OCEAN TERRITORY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Colombia", 
+                "nameofficial": "Republic of Colombia"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "BELGIUM", 
+                    "CAMEROON", 
+                    "FRANCE", 
+                    "BELGIUM", 
+                    "BENIN", 
+                    "UNITED KINGDOM", 
+                    "NETHERLANDS", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "molecular phylogenetics and evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "IRAN", 
+                    "CANADA", 
+                    "FRANCE", 
+                    "SPAIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "plant cell, tissue and organ culture", 
+                "focalspecies": [
+                    "Corylus avellana"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "taxol is amongst the most effective anti-cancer drugs available in market. the increasing demand of this compound due to its use in treating wide range of cancers, as well as its high cost have triggered efforts to find alternative ways to obtain this drug. hazel (corylus avellana), which is already cultivated for nutritional aspects, is now attracting attention for its phytochemical content. notably the discovery of taxol and related taxanes in this plant species prompted extensive interest to explore biotechnological production of these compounds using in vitro cultures of c. avellana. this review emphasizes the potential of c. avellana cells for production of taxol and related taxanes. the botanical description of c. avellana, its pharmacological uses and various biotechnological approaches, such as micropropagation, cell culture and genetic engineering to increase the production of taxol and related taxanes are discussed. to present an overall overview, the experience of researchers working on these aspects is mentioned and major highlights or discoveries are presented. a review of the literature suggests that c. avellana may act as a commercial and alternative source for taxol production in an eco-friendly way, which will meet the ever-increasing demand, and also help reducing the cost of this anti-cancer compound. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "GEORGIA", 
+                        "UNITED KINGDOM", 
+                        "POLAND", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "TURKEY", 
+                        "AUSTRIA", 
+                        "INDIA", 
+                        "ARMENIA", 
+                        "GREENLAND", 
+                        "CROATIA", 
+                        "UZBEKISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "UKRAINE", 
+                        "UNITED STATES", 
+                        "KAZAKHSTAN", 
+                        "NEW ZEALAND", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "SLOVENIA", 
+                        "AZERBAIJAN", 
+                        "KYRGYZSTAN", 
+                        "ALBANIA", 
+                        "BRAZIL", 
+                        "CANADA", 
+                        "PORTUGAL", 
+                        "ANDORRA", 
+                        "SWITZERLAND", 
+                        "JAPAN", 
+                        "HUNGARY", 
+                        "GREECE", 
+                        "AFGHANISTAN", 
+                        "LATVIA", 
+                        "CHINA", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "PANAMA", 
+                        "\u00c5LAND ISLANDS", 
+                        "LITHUANIA", 
+                        "CYPRUS", 
+                        "SERBIA", 
+                        "CZECH REPUBLIC", 
+                        "LIECHTENSTEIN", 
+                        "R\u00c9UNION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "KENYA", 
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "quantitative trait loci", 
+                    "SNP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant journal", 
+                "focalspecies": [
+                    "Zea mays"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "hitherto, most quantitative trait loci of maize growth and biomass yield have been identified for a single time point, usually the final harvest stage. through this approach cumulative effects are detected, without considering genetic factors causing phase-specific differences in growth rates. to assess the genetics of growth dynamics, we employed automated non-invasive phenotyping to monitor the plant sizes of 252 diverse maize inbred lines at 11 different developmental time points; 50 k snp array genotype data were used for genome-wide association mapping and genomic selection. the heritability of biomass was estimated to be over 71%, and the average prediction accuracy amounted to 0.39. using the individual time point data, 12 main effect marker-trait associations (mtas) and six pairs of epistatic interactions were detected that displayed different patterns of expression at various developmental time points. a subset of them also showed significant effects on relative growth rates in different intervals. the detected mtas jointly explained up to 12% of the total phenotypic variation, decreasing with developmental progression. using non-parametric functional mapping and multivariate mapping approaches, four additional marker loci affecting growth dynamics were detected. our results demonstrate that plant biomass accumulation is a complex trait governed by many small effect loci, most of which act at certain restricted developmental phases. this highlights the need for investigation of stage-specific growth affecting genes to elucidate important processes operating at different developmental phases. \u00a9 2016 john wiley & sons ltd and the society for experimental biology.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "ROMANIA", 
+                        "NETHERLANDS", 
+                        "NORWAY", 
+                        "EQUATORIAL GUINEA", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "AZERBAIJAN", 
+                        "HUNGARY", 
+                        "SLOVENIA", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "PERU", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "CYPRUS", 
+                        "ARGENTINA", 
+                        "GUATEMALA", 
+                        "BULGARIA", 
+                        "ITALY", 
+                        "LUXEMBOURG", 
+                        "INDONESIA", 
+                        "COMOROS", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "TAJIKISTAN", 
+                        "PHILIPPINES", 
+                        "MALAYSIA", 
+                        "THAILAND", 
+                        "SOUTH AFRICA", 
+                        "JAPAN", 
+                        "MOZAMBIQUE", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "TURKEY", 
+                        "ZAMBIA", 
+                        "ANTIGUA AND BARBUDA", 
+                        "AFGHANISTAN", 
+                        "BELARUS", 
+                        "BURKINA FASO", 
+                        "ANGUILLA", 
+                        "BELIZE", 
+                        "BURUNDI", 
+                        "CHILE", 
+                        "BRAZIL", 
+                        "BARBADOS", 
+                        "BHUTAN", 
+                        "CHINA", 
+                        "CAMEROON", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "CUBA", 
+                        "DOMINICAN REPUBLIC", 
+                        "ALGERIA", 
+                        "ECUADOR", 
+                        "GUINEA", 
+                        "HONDURAS", 
+                        "GRENADA", 
+                        "GUADELOUPE", 
+                        "FRENCH GUIANA", 
+                        "GREECE", 
+                        "SAINT LUCIA", 
+                        "MOROCCO", 
+                        "KENYA", 
+                        "SRI LANKA", 
+                        "MALDIVES", 
+                        "KAZAKHSTAN", 
+                        "PANAMA", 
+                        "MAURITIUS", 
+                        "OMAN", 
+                        "MARTINIQUE", 
+                        "NEPAL", 
+                        "R\u00c9UNION", 
+                        "CHAD", 
+                        "URUGUAY", 
+                        "TRINIDAD AND TOBAGO", 
+                        "AMERICAN SAMOA", 
+                        "PITCAIRN", 
+                        "FRENCH POLYNESIA", 
+                        "PUERTO RICO", 
+                        "PARAGUAY", 
+                        "NICARAGUA", 
+                        "EL SALVADOR", 
+                        "ETHIOPIA", 
+                        "ISRAEL", 
+                        "ANGOLA", 
+                        "ERITREA", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "MALI", 
+                        "UGANDA", 
+                        "NIGERIA", 
+                        "HAITI", 
+                        "JAMAICA", 
+                        "GEORGIA", 
+                        "SENEGAL", 
+                        "BAHAMAS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SURINAME", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GUYANA", 
+                        "MYANMAR", 
+                        "UNITED KINGDOM", 
+                        "DENMARK", 
+                        "NEW ZEALAND", 
+                        "ARMENIA", 
+                        "SERBIA", 
+                        "MONTENEGRO", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "CZECH REPUBLIC", 
+                        "IRAQ", 
+                        "TUNISIA", 
+                        "LIBYA", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "VIETNAM", 
+                        "TURKMENISTAN", 
+                        "LEBANON", 
+                        "BENIN", 
+                        "LIBERIA", 
+                        "FINLAND", 
+                        "ARUBA", 
+                        "CURA\u00c7AO", 
+                        "GUAM", 
+                        "PAPUA NEW GUINEA", 
+                        "ESTONIA", 
+                        "CAYMAN ISLANDS", 
+                        "SAUDI ARABIA", 
+                        "MADAGASCAR", 
+                        "TOGO", 
+                        "GHANA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -65.19265691, 
+                    -16.74518128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bolivia", 
+                "nameofficial": "Plurinational State of Bolivia"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.55693916, 
+                    -1.22919037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ecuador", 
+                "nameofficial": "Republic of Ecuador"
+            }
+        }, 
+        {
+            "index": 73, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.590151, 
+                    18.21963053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 73, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "COSTA RICA", 
+                    "PERU", 
+                    "UNITED STATES", 
+                    "PUERTO RICO", 
+                    "PUERTO RICO"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental conservation", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2005, 
+                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Puerto Rico", 
+                "nameofficial": "Commonwealth of Puerto Rico"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.55693916, 
+                    -1.22919037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ecuador", 
+                "nameofficial": "Republic of Ecuador"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 56, 
+            "target": 34, 
+            "value": 3
+        }, 
+        {
+            "source": 56, 
+            "target": 17, 
+            "value": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 24, 
+            "value": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 35, 
+            "value": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 57, 
+            "value": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 58, 
+            "value": 4
+        }, 
+        {
+            "source": 73, 
+            "target": 56, 
+            "value": 1
+        }, 
+        {
+            "source": 58, 
+            "target": 56, 
+            "value": 1
+        }
+    ]
+}
+]

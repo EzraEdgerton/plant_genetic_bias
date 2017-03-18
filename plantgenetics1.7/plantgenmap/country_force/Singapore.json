@@ -1,0 +1,283 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.83323559, 
+                    1.33873261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "singapore ministry of education  [ r-154-000-400-133]; lee hiok kwee    endowment  [ r-154-000-480-720]", 
+                "journal": "heredity", 
+                "focalspecies": [
+                    "Koompassia malaccensis"
+                ], 
+                "fundingCOO": [
+                    "SINGAPORE"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{as deforestation and urbanization continue at rapid rates in tropical\n   regions, urban forest patches are essential repositories of\n   biodiversity. however, almost nothing is known about gene flow of\n   forest-dependent tree species in urban landscapes. in this study, we\n   investigated gene flow in the insect-pollinated, wind-dispersed tropical\n   tree koompassia malaccensis in and among three remnant forest patches in\n   the urbanized landscape of singapore. we genotyped the vast majority of\n   adults (n = 179) and a large number of recruits (n = 2103) with 8 highly\n   polymorphic microsatellite markers. spatial genetic structure of the\n   recruit and adult cohorts was significant, showing routine gene\n   dispersal distances of similar to 100-400 m. parentage analysis showed\n   that 97\\% of recruits were within 100 m of their mother tree, and a high\n   frequency of relatively short-distance pollen dispersal (median similar\n   to 143-187 m). despite routine seed and pollen dispersal distances of\n   within a few hundred meters, interpatch gene flow occurred between all\n   patches and was dominated by pollen movement: parentage analysis showed\n   76 pollen versus 2 seed interpatch dispersal events, and the seedling\n   neighborhood model estimated similar to 1-6\\% seed immigration and\n   similar to 21-46\\% pollen immigration rates, depending on patch. in\n   addition, the smallest patch (containing five adult k. malaccensis\n   trees) was entirely surrounded by 42.5 km of `impervious' substrate, yet\n   had the highest proportional pollen and seed immigration estimates of\n   any patch. hence, contrary to our hypothesis, insect-mediated gene flow\n   persisted across an urban landscape, and several of our results also\n   parallel key findings from insect-pollinated canopy trees sampled in\n   mixed agricultural-forest landscapes.", 
+                "focalspeciesCOO": [
+                    [
+                        "MALAYSIA", 
+                        "INDONESIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "SINGAPORE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Singapore", 
+                "nameofficial": "Republic of Singapore"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 27, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.83323559, 
+                    1.33873261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 27, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SINGAPORE", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acs sustainable chemistry and engineering", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we explored the possibility of generating nonpoisonous, renewable, low cost and a completely biodegradable photosensitizer for dye-sensitized solar cells (dssc) as an alternative to synthetic molecules that involve expensive, time-consuming tedious synthesis and purification procedures. several natural dyes from plants and microbes had successfully been demonstrated as photosensitizers to develop biosensitized solar cells (bsscs). the objective of this work is to develop a next generation cleaner sensitizer for bssc using a green fluorescent protein (gfp) and its designer variant (gfpdopa) through an expanding genetic code approach. the designer protein showed higher adsorption with tio2 surface through oriented immobilization. the nanostructured layer formed by gfpdopa with tio2 resulted in 0.94% level of photon conversion efficiency with open circuit voltage of 0.60 v, short circuit current of 1.75 ma/cm2 and fill factor of 0.88. it is one of the better energy conversion efficiencies obtained for bssc when compared to with earlier reported sensitizers generated through protein and chemical complex synergism. from the results obtained, it is suggested that designer fluorescent itself can generate similar photoconversion efficiency and also could serve as an environmental friendly photosensitizer. the research and efficiency level of bssc is in the early stages, and our proof of principle opens a new avenue to synthesize biologically designer sensitizers for bssc. it also could be widely applied to other proteins to develop efficient sensitizers for bssc with a green approach. \u00a9 2016 american chemical society.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Singapore", 
+                "nameofficial": "Republic of Singapore"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 104, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 27, 
+            "target": 0, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 27, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.83323559, 
+                    1.33873261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 27, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SINGAPORE", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acs sustainable chemistry and engineering", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we explored the possibility of generating nonpoisonous, renewable, low cost and a completely biodegradable photosensitizer for dye-sensitized solar cells (dssc) as an alternative to synthetic molecules that involve expensive, time-consuming tedious synthesis and purification procedures. several natural dyes from plants and microbes had successfully been demonstrated as photosensitizers to develop biosensitized solar cells (bsscs). the objective of this work is to develop a next generation cleaner sensitizer for bssc using a green fluorescent protein (gfp) and its designer variant (gfpdopa) through an expanding genetic code approach. the designer protein showed higher adsorption with tio2 surface through oriented immobilization. the nanostructured layer formed by gfpdopa with tio2 resulted in 0.94% level of photon conversion efficiency with open circuit voltage of 0.60 v, short circuit current of 1.75 ma/cm2 and fill factor of 0.88. it is one of the better energy conversion efficiencies obtained for bssc when compared to with earlier reported sensitizers generated through protein and chemical complex synergism. from the results obtained, it is suggested that designer fluorescent itself can generate similar photoconversion efficiency and also could serve as an environmental friendly photosensitizer. the research and efficiency level of bssc is in the early stages, and our proof of principle opens a new avenue to synthesize biologically designer sensitizers for bssc. it also could be widely applied to other proteins to develop efficient sensitizers for bssc with a green approach. \u00a9 2016 american chemical society.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Singapore", 
+                "nameofficial": "Republic of Singapore"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 27, 
+            "target": 0, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 27, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.83323559, 
+                    1.33873261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 27, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "SINGAPORE", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acs sustainable chemistry and engineering", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we explored the possibility of generating nonpoisonous, renewable, low cost and a completely biodegradable photosensitizer for dye-sensitized solar cells (dssc) as an alternative to synthetic molecules that involve expensive, time-consuming tedious synthesis and purification procedures. several natural dyes from plants and microbes had successfully been demonstrated as photosensitizers to develop biosensitized solar cells (bsscs). the objective of this work is to develop a next generation cleaner sensitizer for bssc using a green fluorescent protein (gfp) and its designer variant (gfpdopa) through an expanding genetic code approach. the designer protein showed higher adsorption with tio2 surface through oriented immobilization. the nanostructured layer formed by gfpdopa with tio2 resulted in 0.94% level of photon conversion efficiency with open circuit voltage of 0.60 v, short circuit current of 1.75 ma/cm2 and fill factor of 0.88. it is one of the better energy conversion efficiencies obtained for bssc when compared to with earlier reported sensitizers generated through protein and chemical complex synergism. from the results obtained, it is suggested that designer fluorescent itself can generate similar photoconversion efficiency and also could serve as an environmental friendly photosensitizer. the research and efficiency level of bssc is in the early stages, and our proof of principle opens a new avenue to synthesize biologically designer sensitizers for bssc. it also could be widely applied to other proteins to develop efficient sensitizers for bssc with a green approach. \u00a9 2016 american chemical society.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Singapore", 
+                "nameofficial": "Republic of Singapore"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 27, 
+            "value": 1
+        }
+    ]
+}
+]

@@ -1,0 +1,401 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 3
+        }, 
+        {
+            "source": 62, 
+            "target": 62, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 62, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "SAUDI ARABIA", 
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "african journal of biotechnology", 
+                "focalspecies": [
+                    "Peganum harmala"
+                ], 
+                "fundingCOO": [], 
+                "year": 2011, 
+                "abstracttext": "this study compared the genetic diversity within and among six naturally growing coastal and inland populations of peganum harmala by using random amplified polymorphic dna (rapd) technique. seven primers generated a total of 63 rapd bands (loci) of which 60 (95.24%) were polymorphic across all individuals. the genetic diversity of p. harmala at the population level and species level were percentage polymorphic loci (ppl) = 42.59%, nei's gene diversity (h) = 0.1892, shannon information index (i) = 0.2711 and ppl = 95.24%, h = 0.3116, i = 0.4723, respectively. the value of differentiation (the coefficient for gene divergence, gst = 0.3925) and analysis of molecular variance (amova) indicated that there was a relatively high genetic differentiation within populations, and about one-six of the genetic variations occurred among populations. analysis of fixation indices (fst) = 0.15500, p < 0.00196 showed low degree of differentiation among populations. the genetic variation in the coastal populations was higher than the variation in the inland populations. the present study suggests that the gene drift may play an important role in the differentiation of p. harmala populations. the in situ conservation of the species should focus on establishing more sites to protect the natural populations and their habitats, while the ex situ conservation needs to focus on enhancing the exchange of seeds and seedlings among populations to facilitate gene flow, exchange and recombination. \u00a9 2011 academic journals.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SWEDEN", 
+                        "SPAIN", 
+                        "TUNISIA", 
+                        "ARMENIA", 
+                        "JORDAN", 
+                        "MOROCCO", 
+                        "ISRAEL", 
+                        "GEORGIA", 
+                        "CHINA", 
+                        "FRANCE", 
+                        "EGYPT", 
+                        "YEMEN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "TURKEY", 
+                        "ALGERIA", 
+                        "IRAQ", 
+                        "LEBANON", 
+                        "SAUDI ARABIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LIBYA", 
+                        "BULGARIA", 
+                        "MONGOLIA", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "SOUTH AFRICA", 
+                        "KAZAKHSTAN", 
+                        "AZERBAIJAN", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "UKRAINE", 
+                        "GREECE", 
+                        "TURKMENISTAN", 
+                        "KUWAIT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "NETHERLANDS", 
+                        "AUSTRIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "journal of integrative plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the initiation of flowering is tightly regulated by the endogenous and environment signals, which is crucial for the reproductive success of flowering plants. it is well known that autonomous and vernalization pathways repress transcription of flowering locus c (flc), a focal floral repressor, but how its protein stability is regulated remains largely unknown. here, we found that mutations in a novel arabidopsis sumo protease 1 (asp1) resulted in a strong late-flowering phenotype under long-days, but to a lesser extent under short-days. asp1 localizes in the nucleus and exhibited a sumo protease activity in vitro and in vivo. the conserved cys-577 in asp1 is critical for its enzymatic activity, as well as its physiological function in the regulation of flowering time. genetic and gene expression analyses demonstrated that asp1 promotes transcription of positive regulators of flowering, such as ft, soc1 and fd, and may function in both co-dependent photoperiod pathway and flc-dependent pathways. although the transcription level of flc was not affected in the loss-of-function asp1 mutant, the protein stability of flc was increased in the asp1 mutant. taken together, this study identified a novel bona fide sumo protease, asp1, which positively regulates transition to flowering at least partly by repressing flc protein stability. \u00a9 2016 the authors. journal of integrative plant biology published by john wiley & sons australia, ltd on behalf of institute of botany, chinese academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 62, 
+            "target": 40, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 62, 
+            "value": 2
+        }
+    ]
+}
+]

@@ -1,0 +1,278 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "chinese medicine (united kingdom)", 
+                "focalspecies": [
+                    "Bridelia insulana", 
+                    "Artabotrys harmandii", 
+                    "Diospyros winitii", 
+                    "Terminalia mucronata", 
+                    "Croton oblongifolius"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: six herbs in the plant genetics conservation project that have been used as complementary medicines were chosen on the basis of their medicinal value, namely terminalia mucronata, diospyros winitii, bridelia insulana, artabotrys harmandii, terminallia triptera, and croton oblongifolius. this study aims to evaluate the potential anticancer activity of 50% ethanol-water extracts of these six herbs.methods: fifty percent ethanol-water crude extracts of the six herbs were prepared. the cytotoxicity of the herbal extracts relative to that of melphalan was evaluated using a hepatoma cell line (hepg2), and examined by neutral red assays and apoptosis induction by gel electrophoresis and flow cytometry after 24 h.results: a significant difference was found between the cytotoxicity of the 50% ethanol-water crude extracts and melphalan (p = 0.000). the 50% ethanol-water crude extracts of all six herbs exhibited cytotoxicity against hepg2 cells, with ic50 values ranging from 100 to 500 \u03bcg/ml. the extract of t. triptera showed the highest cytotoxicity with an ic50 of 148.7 \u00b1 12.3 \u03bcg/ml, while melphalan had an ic50 of 39.79 \u00b1 7.62 \u03bcg/ml. the 50% ethanol-water crude extracts of d. winitii and t. triptera, but not a. harmandii, produced a dna ladder. the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii induced apoptosis detected by flow cytometry.conclusion: the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii showed anticancer activity in vitro. \u00a9 2012 weerapreeyakul et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "CHINA", 
+                        "PHILIPPINES", 
+                        "INDONESIA", 
+                        "VANUATU", 
+                        "VIETNAM", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOLOMON ISLANDS", 
+                        "THAILAND", 
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MYANMAR", 
+                        "JAPAN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "INDIA"
+                    ], 
+                    [
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "CHINA", 
+                        "INDIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 55, 
+            "target": 55, 
+            "value": 11
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "chinese medicine (united kingdom)", 
+                "focalspecies": [
+                    "Bridelia insulana", 
+                    "Artabotrys harmandii", 
+                    "Diospyros winitii", 
+                    "Terminalia mucronata", 
+                    "Croton oblongifolius"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: six herbs in the plant genetics conservation project that have been used as complementary medicines were chosen on the basis of their medicinal value, namely terminalia mucronata, diospyros winitii, bridelia insulana, artabotrys harmandii, terminallia triptera, and croton oblongifolius. this study aims to evaluate the potential anticancer activity of 50% ethanol-water extracts of these six herbs.methods: fifty percent ethanol-water crude extracts of the six herbs were prepared. the cytotoxicity of the herbal extracts relative to that of melphalan was evaluated using a hepatoma cell line (hepg2), and examined by neutral red assays and apoptosis induction by gel electrophoresis and flow cytometry after 24 h.results: a significant difference was found between the cytotoxicity of the 50% ethanol-water crude extracts and melphalan (p = 0.000). the 50% ethanol-water crude extracts of all six herbs exhibited cytotoxicity against hepg2 cells, with ic50 values ranging from 100 to 500 \u03bcg/ml. the extract of t. triptera showed the highest cytotoxicity with an ic50 of 148.7 \u00b1 12.3 \u03bcg/ml, while melphalan had an ic50 of 39.79 \u00b1 7.62 \u03bcg/ml. the 50% ethanol-water crude extracts of d. winitii and t. triptera, but not a. harmandii, produced a dna ladder. the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii induced apoptosis detected by flow cytometry.conclusion: the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii showed anticancer activity in vitro. \u00a9 2012 weerapreeyakul et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "CHINA", 
+                        "PHILIPPINES", 
+                        "INDONESIA", 
+                        "VANUATU", 
+                        "VIETNAM", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOLOMON ISLANDS", 
+                        "THAILAND", 
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MYANMAR", 
+                        "JAPAN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "INDIA"
+                    ], 
+                    [
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "CHINA", 
+                        "INDIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 55, 
+            "target": 55, 
+            "value": 5
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND", 
+                    "THAILAND"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "chinese medicine (united kingdom)", 
+                "focalspecies": [
+                    "Bridelia insulana", 
+                    "Artabotrys harmandii", 
+                    "Diospyros winitii", 
+                    "Terminalia mucronata", 
+                    "Croton oblongifolius"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "background: six herbs in the plant genetics conservation project that have been used as complementary medicines were chosen on the basis of their medicinal value, namely terminalia mucronata, diospyros winitii, bridelia insulana, artabotrys harmandii, terminallia triptera, and croton oblongifolius. this study aims to evaluate the potential anticancer activity of 50% ethanol-water extracts of these six herbs.methods: fifty percent ethanol-water crude extracts of the six herbs were prepared. the cytotoxicity of the herbal extracts relative to that of melphalan was evaluated using a hepatoma cell line (hepg2), and examined by neutral red assays and apoptosis induction by gel electrophoresis and flow cytometry after 24 h.results: a significant difference was found between the cytotoxicity of the 50% ethanol-water crude extracts and melphalan (p = 0.000). the 50% ethanol-water crude extracts of all six herbs exhibited cytotoxicity against hepg2 cells, with ic50 values ranging from 100 to 500 \u03bcg/ml. the extract of t. triptera showed the highest cytotoxicity with an ic50 of 148.7 \u00b1 12.3 \u03bcg/ml, while melphalan had an ic50 of 39.79 \u00b1 7.62 \u03bcg/ml. the 50% ethanol-water crude extracts of d. winitii and t. triptera, but not a. harmandii, produced a dna ladder. the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii induced apoptosis detected by flow cytometry.conclusion: the 50% ethanol-water crude extracts of d. winitii, t. triptera, and a. harmandii showed anticancer activity in vitro. \u00a9 2012 weerapreeyakul et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "CHINA", 
+                        "PHILIPPINES", 
+                        "INDONESIA", 
+                        "VANUATU", 
+                        "VIETNAM", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOLOMON ISLANDS", 
+                        "THAILAND", 
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "MYANMAR", 
+                        "JAPAN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "INDIA"
+                    ], 
+                    [
+                        "CAMBODIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "THAILAND"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "THAILAND", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+                    ], 
+                    [
+                        "CHINA", 
+                        "INDIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 55, 
+            "target": 55, 
+            "value": 5
+        }
+    ]
+}
+]

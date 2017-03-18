@@ -1,0 +1,455 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.35499657, 
+                    46.97670384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "HUNGARY", 
+                    "HUNGARY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "wetlands", 
+                "focalspecies": [
+                    "Myriophyllum spicatum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "deteriorating environments in shallow waters place significant pressure on aquatic plants. to estimate the morphological and genetic diversity of submerged macrophytes at 5 sites characterized by varying degrees of human impact, myriophyllum spicatum l. was studied. sediment nitrogen concentrations were found to be significantly correlated with the morphological properties of m. spicatum: the site with high sediment nitrogen concentration had 5 to 10 times larger, but rather uniform (low morphological variability) plants, while the site with the least nitrogen in the sediment had smaller m. spicatum plants that were 4 times more variable than the larger plants. nevertheless, genetic variability of the studied plants showed no response to nutrient loading in the shallow lakes. the adverse environmental conditions therefore seem not to have affected the genetic material of the sampled plants, thus the large morphological variability observed in association with the nitrogen poor sites was predominantly a result of plastic reactions of m. spicatum to environmental conditions. \u00a9 2017 society of wetland scientists", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "GERMANY", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "NORWAY", 
+                        "SWITZERLAND", 
+                        "DENMARK", 
+                        "FINLAND", 
+                        "ETHIOPIA", 
+                        "ISRAEL", 
+                        "BULGARIA", 
+                        "PORTUGAL", 
+                        "POLAND", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "IRELAND", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "SAUDI ARABIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CANADA", 
+                        "CAMEROON", 
+                        "NAMIBIA", 
+                        "SUDAN", 
+                        "HUNGARY", 
+                        "INDONESIA", 
+                        "GREENLAND", 
+                        "TUNISIA", 
+                        "MYANMAR", 
+                        "\u00c5LAND ISLANDS", 
+                        "ECUADOR", 
+                        "ROMANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ALGERIA", 
+                        "GEORGIA", 
+                        "BOTSWANA", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "SLOVAKIA", 
+                        "JORDAN", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "MONGOLIA", 
+                        "KYRGYZSTAN", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 22, 
+            "target": 22, 
+            "value": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 10, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.35499657, 
+                    46.97670384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "HUNGARY", 
+                    "HUNGARY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "wetlands", 
+                "focalspecies": [
+                    "Myriophyllum spicatum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "deteriorating environments in shallow waters place significant pressure on aquatic plants. to estimate the morphological and genetic diversity of submerged macrophytes at 5 sites characterized by varying degrees of human impact, myriophyllum spicatum l. was studied. sediment nitrogen concentrations were found to be significantly correlated with the morphological properties of m. spicatum: the site with high sediment nitrogen concentration had 5 to 10 times larger, but rather uniform (low morphological variability) plants, while the site with the least nitrogen in the sediment had smaller m. spicatum plants that were 4 times more variable than the larger plants. nevertheless, genetic variability of the studied plants showed no response to nutrient loading in the shallow lakes. the adverse environmental conditions therefore seem not to have affected the genetic material of the sampled plants, thus the large morphological variability observed in association with the nitrogen poor sites was predominantly a result of plastic reactions of m. spicatum to environmental conditions. \u00a9 2017 society of wetland scientists", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "GERMANY", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "NORWAY", 
+                        "SWITZERLAND", 
+                        "DENMARK", 
+                        "FINLAND", 
+                        "ETHIOPIA", 
+                        "ISRAEL", 
+                        "BULGARIA", 
+                        "PORTUGAL", 
+                        "POLAND", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "IRELAND", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "SAUDI ARABIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CANADA", 
+                        "CAMEROON", 
+                        "NAMIBIA", 
+                        "SUDAN", 
+                        "HUNGARY", 
+                        "INDONESIA", 
+                        "GREENLAND", 
+                        "TUNISIA", 
+                        "MYANMAR", 
+                        "\u00c5LAND ISLANDS", 
+                        "ECUADOR", 
+                        "ROMANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ALGERIA", 
+                        "GEORGIA", 
+                        "BOTSWANA", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "SLOVAKIA", 
+                        "JORDAN", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "MONGOLIA", 
+                        "KYRGYZSTAN", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 22, 
+            "target": 22, 
+            "value": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 10, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.35499657, 
+                    46.97670384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "HUNGARY", 
+                    "HUNGARY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "wetlands", 
+                "focalspecies": [
+                    "Myriophyllum spicatum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "deteriorating environments in shallow waters place significant pressure on aquatic plants. to estimate the morphological and genetic diversity of submerged macrophytes at 5 sites characterized by varying degrees of human impact, myriophyllum spicatum l. was studied. sediment nitrogen concentrations were found to be significantly correlated with the morphological properties of m. spicatum: the site with high sediment nitrogen concentration had 5 to 10 times larger, but rather uniform (low morphological variability) plants, while the site with the least nitrogen in the sediment had smaller m. spicatum plants that were 4 times more variable than the larger plants. nevertheless, genetic variability of the studied plants showed no response to nutrient loading in the shallow lakes. the adverse environmental conditions therefore seem not to have affected the genetic material of the sampled plants, thus the large morphological variability observed in association with the nitrogen poor sites was predominantly a result of plastic reactions of m. spicatum to environmental conditions. \u00a9 2017 society of wetland scientists", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "NETHERLANDS", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "GERMANY", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "NORWAY", 
+                        "SWITZERLAND", 
+                        "DENMARK", 
+                        "FINLAND", 
+                        "ETHIOPIA", 
+                        "ISRAEL", 
+                        "BULGARIA", 
+                        "PORTUGAL", 
+                        "POLAND", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "IRELAND", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "SAUDI ARABIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CANADA", 
+                        "CAMEROON", 
+                        "NAMIBIA", 
+                        "SUDAN", 
+                        "HUNGARY", 
+                        "INDONESIA", 
+                        "GREENLAND", 
+                        "TUNISIA", 
+                        "MYANMAR", 
+                        "\u00c5LAND ISLANDS", 
+                        "ECUADOR", 
+                        "ROMANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ALGERIA", 
+                        "GEORGIA", 
+                        "BOTSWANA", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "ESTONIA", 
+                        "CZECH REPUBLIC", 
+                        "SLOVAKIA", 
+                        "JORDAN", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "MONGOLIA", 
+                        "KYRGYZSTAN", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "FINLAND", 
+                    "BRAZIL", 
+                    "RUSSIAN FEDERATION", 
+                    "RUSSIAN FEDERATION", 
+                    "FINLAND", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological indicators", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "fluctuating asymmetry (fa), i.e. small, non-directional deviations from perfect symmetry in morphological characters, increases under genetic and/or environmental stress. ecological and evolutionary studies addressing fa became popular in past decades; however, their outcomes remain controversial. the discrepancies might be at least partly explained by inconsistent and non-standardised methodology. our aim was to improve the methodology of these studies by identifying factors that affect the reproducibility of fa measurements in plant leaves. six observers used a highly standardised measurement protocol to measure fa using the width, area and weight of the same set of leaves of 10 plant species that differed in leaf size, shape of the leaf margin and other leaf traits. on average, 24% of the total variation in the data was due to measurement error. reproducibility of measurements varied with the shape of leaf margin, leaf size, the measured character and the experience of the observer. the lowest reproducibility of the width of leaf halves was found for simple leaves with serrate margins and the highest for simple leaves with entire margins and for compound pinnate leaves. the reproducibility was significantly lower for the weight of leaf halves than for either their width or area, especially for plants with small leaves. the reproducibility was also lower for measurements made by experienced observers than by na\u00efve observers. the size of press-dried leaves decreased slightly but significantly relative to fresh leaves, but the fa of press-dried leaves adequately reflected the fa of fresh leaves. in contrast, preservation in 60% ethanol did not affect leaf size, but it decreased the width-based values of fa to 89.3% of the values measured from fresh leaves. we suggest that although reproducibility of leaf fa measurements depends upon many factors, the shape of the leaf margin is the most important source of variation. we recommend, whenever possible, choosing large-leaved plants with entire leaf margins as model objects for studies involving measurements of fa using the width of leaf halves. these measurements should be conducted with high accuracy from images of fresh or press-dried leaves. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 22, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 22, 
+            "value": 2
+        }
+    ]
+}
+]

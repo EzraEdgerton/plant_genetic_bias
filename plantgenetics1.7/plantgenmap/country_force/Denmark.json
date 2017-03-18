@@ -1,0 +1,1645 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 30, 
+            "score": 16, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "aquatic botany", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "unidirectional hydrochory, reproduction mode and mating system have different impacts on the ecology of stream plants, and variation in the combination of these processes shapes unique genetic patterns which can have different consequences for the fitness of stream populations. we studied the genetic structure inferred by aflps, its snps and matk sequences of three populations of the common clonal macrophyte ranunculus baudotii in river aarhus in order to understand the role of vegetative and sexual reproduction in the stream and how genetic variation is distributed along the stream. we also explored the genetic relationships of the r. baudotii population in river aarhus with other species of sect. batrachium, because hybrids have been identified in the stream and they might affect the structure of the populations. the three studied populations were genetically distinct despite low genetic diversity and plant fragmentation is likely the main form of reproduction in the river system. the establishment of a few seeds, sexual recombination, the occurrence of putative hybrids and genetic drift in the establishment of fragments and seeds dramatically changed the genetic diversity of the populations along the stream and led to differentiation among populations. further research is needed to understand the conditions favoring sexual reproduction and gene flow distances. \u00a9 2016", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 50, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 186, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 287, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 60, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 16, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 16, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "CZECH REPUBLIC"
+                ], 
+                "genetictool": [
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "soil biology and biochemistry", 
+                "focalspecies": [
+                    "Picea abies"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "cellulose is the most abundant polysaccharide in the dead plant biomass, and its degradation is an important part of global carbon cycle. \u03b2-glucosidases complete the final step of cellulose hydrolysis by converting cellobiose to glucose. genetic potential and expression of \u03b2-glucosidase genes were studied in the topsoil of a picea abies forest in two contrasting seasons. these seasons were the summer, representing the peak of plant photosynthetic activity, and late winter, after an extended period with no photosynthate input. fungal and bacterial \u03b2-glucosidase genes belonging to glycoside hydrolase families gh1 and gh3 amplified from dna and rna and amplicon pools were analyzed. transcript pool were largely corresponded to gene pools, although some abundant transcripts were not found in the gene pool. the major reservoirs of \u03b2-glucosidase genes were the fungal phylum ascomycota and basidiomycota and the bacterial phyla firmicutes, actinobacteria, proteobacteria acidobacteria and deinococcus-thermus. this indicates that a diverse microbial community utilized cellobiose. seasonality influenced both genetic diversity of \u03b2-glucosidase genes and their expression. the results indicate that a complex community of bacteria and fungi expresses \u03b2-glucosidases in forest soils. even \u03b2-glucosidase genes showing low abundance in dna may be functionally important as revealed by their high expression especially in basidiomycota. the functional diversity in the studied ecosystem clearly exhibited a seasonal pattern. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CZECH REPUBLIC", 
+                        "ITALY", 
+                        "BULGARIA", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "LUXEMBOURG", 
+                        "BELGIUM", 
+                        "JAPAN", 
+                        "FINLAND", 
+                        "SERBIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "POLAND", 
+                        "CANADA", 
+                        "CHINA", 
+                        "DENMARK", 
+                        "IRELAND", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "LITHUANIA", 
+                        "ROMANIA", 
+                        "BELARUS", 
+                        "GREECE", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "CROATIA", 
+                        "PANAMA", 
+                        "UKRAINE", 
+                        "ESTONIA", 
+                        "BHUTAN", 
+                        "MEXICO", 
+                        "ICELAND", 
+                        "KAZAKHSTAN", 
+                        "ALBANIA", 
+                        "HUNGARY", 
+                        "ANDORRA", 
+                        "ARGENTINA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.55693916, 
+                    -1.22919037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 14, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ecuador", 
+                "nameofficial": "Republic of Ecuador"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 30, 
+            "value": 6
+        }, 
+        {
+            "source": 9, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 3, 
+            "value": 4
+        }, 
+        {
+            "source": 30, 
+            "target": 30, 
+            "value": 3
+        }, 
+        {
+            "source": 30, 
+            "target": 5, 
+            "value": 2
+        }, 
+        {
+            "source": 2, 
+            "target": 30, 
+            "value": 6
+        }, 
+        {
+            "source": 30, 
+            "target": 7, 
+            "value": 3
+        }, 
+        {
+            "source": 30, 
+            "target": 13, 
+            "value": 4
+        }, 
+        {
+            "source": 30, 
+            "target": 4, 
+            "value": 6
+        }, 
+        {
+            "source": 16, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 57, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 30, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "aquatic botany", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "unidirectional hydrochory, reproduction mode and mating system have different impacts on the ecology of stream plants, and variation in the combination of these processes shapes unique genetic patterns which can have different consequences for the fitness of stream populations. we studied the genetic structure inferred by aflps, its snps and matk sequences of three populations of the common clonal macrophyte ranunculus baudotii in river aarhus in order to understand the role of vegetative and sexual reproduction in the stream and how genetic variation is distributed along the stream. we also explored the genetic relationships of the r. baudotii population in river aarhus with other species of sect. batrachium, because hybrids have been identified in the stream and they might affect the structure of the populations. the three studied populations were genetically distinct despite low genetic diversity and plant fragmentation is likely the main form of reproduction in the river system. the establishment of a few seeds, sexual recombination, the occurrence of putative hybrids and genetic drift in the establishment of fragments and seeds dramatically changed the genetic diversity of the populations along the stream and led to differentiation among populations. further research is needed to understand the conditions favoring sexual reproduction and gene flow distances. \u00a9 2016", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 134, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "CHINA", 
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ecological modelling", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [
+                    "DArT", 
+                    "QTL"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant pathology", 
+                "focalspecies": [
+                    "Triticum aestivum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "HUNGARY", 
+                        "GERMANY", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "ROMANIA", 
+                        "SPAIN", 
+                        "SWITZERLAND", 
+                        "MOROCCO", 
+                        "EGYPT", 
+                        "IRAQ", 
+                        "TURKEY", 
+                        "LIBYA", 
+                        "SUDAN", 
+                        "ZIMBABWE", 
+                        "NEPAL", 
+                        "AFGHANISTAN", 
+                        "NORWAY", 
+                        "AUSTRIA", 
+                        "NETHERLANDS", 
+                        "JAPAN", 
+                        "SAUDI ARABIA", 
+                        "UGANDA", 
+                        "SOUTH AFRICA", 
+                        "UNITED KINGDOM", 
+                        "ARMENIA", 
+                        "UKRAINE", 
+                        "KAZAKHSTAN", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "UZBEKISTAN", 
+                        "KYRGYZSTAN", 
+                        "LATVIA", 
+                        "FINLAND", 
+                        "CANADA", 
+                        "TURKMENISTAN", 
+                        "ARGENTINA", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "BELGIUM", 
+                        "TAJIKISTAN", 
+                        "MONGOLIA", 
+                        "ITALY", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "DENMARK", 
+                        "PAKISTAN", 
+                        "ISRAEL", 
+                        "GUATEMALA", 
+                        "COLOMBIA", 
+                        "TUNISIA", 
+                        "LEBANON", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "JORDAN", 
+                        "CYPRUS", 
+                        "ETHIOPIA", 
+                        "KENYA", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "URUGUAY", 
+                        "CHILE", 
+                        "PERU", 
+                        "MAURITANIA", 
+                        "LITHUANIA", 
+                        "ALBANIA", 
+                        "ZAMBIA", 
+                        "SAN MARINO", 
+                        "NEW ZEALAND", 
+                        "CHAD", 
+                        "ECUADOR", 
+                        "YEMEN", 
+                        "BANGLADESH", 
+                        "PARAGUAY", 
+                        "THAILAND", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "CROATIA", 
+                        "NIGERIA", 
+                        "IRELAND", 
+                        "LUXEMBOURG", 
+                        "BELARUS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SLOVENIA", 
+                        "ANGOLA", 
+                        "LESOTHO", 
+                        "ERITREA", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "GIBRALTAR", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ICELAND", 
+                        "BURUNDI", 
+                        "HONDURAS", 
+                        "KUWAIT", 
+                        "SERBIA", 
+                        "LIECHTENSTEIN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "CUBA", 
+                        "BAHRAIN", 
+                        "MADAGASCAR", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "MALTA", 
+                        "SWAZILAND", 
+                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "COSTA RICA", 
+                        "NIGER", 
+                        "FRENCH SOUTHERN TERRITORIES", 
+                        "EL SALVADOR", 
+                        "MONTENEGRO", 
+                        "MYANMAR", 
+                        "DOMINICAN REPUBLIC", 
+                        "CAMEROON"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 16, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 16, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "CZECH REPUBLIC"
+                ], 
+                "genetictool": [
+                    "DNA", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "soil biology and biochemistry", 
+                "focalspecies": [
+                    "Picea abies"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "cellulose is the most abundant polysaccharide in the dead plant biomass, and its degradation is an important part of global carbon cycle. \u03b2-glucosidases complete the final step of cellulose hydrolysis by converting cellobiose to glucose. genetic potential and expression of \u03b2-glucosidase genes were studied in the topsoil of a picea abies forest in two contrasting seasons. these seasons were the summer, representing the peak of plant photosynthetic activity, and late winter, after an extended period with no photosynthate input. fungal and bacterial \u03b2-glucosidase genes belonging to glycoside hydrolase families gh1 and gh3 amplified from dna and rna and amplicon pools were analyzed. transcript pool were largely corresponded to gene pools, although some abundant transcripts were not found in the gene pool. the major reservoirs of \u03b2-glucosidase genes were the fungal phylum ascomycota and basidiomycota and the bacterial phyla firmicutes, actinobacteria, proteobacteria acidobacteria and deinococcus-thermus. this indicates that a diverse microbial community utilized cellobiose. seasonality influenced both genetic diversity of \u03b2-glucosidase genes and their expression. the results indicate that a complex community of bacteria and fungi expresses \u03b2-glucosidases in forest soils. even \u03b2-glucosidase genes showing low abundance in dna may be functionally important as revealed by their high expression especially in basidiomycota. the functional diversity in the studied ecosystem clearly exhibited a seasonal pattern. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "RUSSIAN FEDERATION", 
+                        "CZECH REPUBLIC", 
+                        "ITALY", 
+                        "BULGARIA", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "LUXEMBOURG", 
+                        "BELGIUM", 
+                        "JAPAN", 
+                        "FINLAND", 
+                        "SERBIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "POLAND", 
+                        "CANADA", 
+                        "CHINA", 
+                        "DENMARK", 
+                        "IRELAND", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "LITHUANIA", 
+                        "ROMANIA", 
+                        "BELARUS", 
+                        "GREECE", 
+                        "INDIA", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "CROATIA", 
+                        "PANAMA", 
+                        "UKRAINE", 
+                        "ESTONIA", 
+                        "BHUTAN", 
+                        "MEXICO", 
+                        "ICELAND", 
+                        "KAZAKHSTAN", 
+                        "ALBANIA", 
+                        "HUNGARY", 
+                        "ANDORRA", 
+                        "ARGENTINA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 30, 
+            "value": 3
+        }, 
+        {
+            "source": 30, 
+            "target": 5, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 30, 
+            "target": 7, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 13, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 4, 
+            "value": 3
+        }, 
+        {
+            "source": 16, 
+            "target": 30, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 30, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "aquatic botany", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "unidirectional hydrochory, reproduction mode and mating system have different impacts on the ecology of stream plants, and variation in the combination of these processes shapes unique genetic patterns which can have different consequences for the fitness of stream populations. we studied the genetic structure inferred by aflps, its snps and matk sequences of three populations of the common clonal macrophyte ranunculus baudotii in river aarhus in order to understand the role of vegetative and sexual reproduction in the stream and how genetic variation is distributed along the stream. we also explored the genetic relationships of the r. baudotii population in river aarhus with other species of sect. batrachium, because hybrids have been identified in the stream and they might affect the structure of the populations. the three studied populations were genetically distinct despite low genetic diversity and plant fragmentation is likely the main form of reproduction in the river system. the establishment of a few seeds, sexual recombination, the occurrence of putative hybrids and genetic drift in the establishment of fragments and seeds dramatically changed the genetic diversity of the populations along the stream and led to differentiation among populations. further research is needed to understand the conditions favoring sexual reproduction and gene flow distances. \u00a9 2016", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 9, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "SWEDEN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "current opinion in plant biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL", 
+                    "BRAZIL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental and experimental botany", 
+                "focalspecies": [
+                    "Nicotiana obtusifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "sucrose is a key metabolite in guard cell (gc) regulation and has been proposed to form a key metabolic connection between mesophyll cells and gcs. however, the importance of sucrose transport across the gc plasma membrane in stomatal movements remains to be determined. here, we characterized transgenic tobacco plants expressing an antisense gene construct for the sucrose transporter 1 (sut1) driven by the gc specific promoter kst1. gcs of transgenic plants contained less sucrose, more starch and had increases in k+ content. lower gc sucrose content was associated with lower stomatal conductance that, in turn, led to a lower transpiration rate and higher carbon isotope composition ratio compared to wild type plants. although the transgenic plants showed reduced growth under optimal water supply condition, they showed improved growth compared to wild type plants under osmotic stress and demonstrated lower water consumption that was correlated with higher relative water content under water-deficit conditions. this demonstrates the desiccation postponement phenotype of these plants together with an improved tolerance to water deficit. taken together, our results indicate that sut1 has an important role in stomatal movements and suggest that genetic manipulation of gc sucrose transport could be used to obtain plants with greater water use efficiency. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "AUSTRALIA", 
+                        "GHANA", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "AFGHANISTAN", 
+                        "CHILE", 
+                        "UNITED KINGDOM"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.55693916, 
+                    -1.22919037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "COLOMBIA", 
+                    "BELGIUM", 
+                    "SPAIN", 
+                    "KENYA", 
+                    "BOLIVIA", 
+                    "ECUADOR", 
+                    "ECUADOR", 
+                    "PERU"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Annona cherimola"
+                ], 
+                "fundingCOO": [], 
+                "year": 2012, 
+                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "DOMINICAN REPUBLIC", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "UNITED KINGDOM", 
+                        "SPAIN", 
+                        "R\u00c9UNION", 
+                        "ETHIOPIA", 
+                        "ECUADOR", 
+                        "NETHERLANDS", 
+                        "JAMAICA", 
+                        "INDIA", 
+                        "CHINA", 
+                        "GERMANY", 
+                        "NICARAGUA", 
+                        "COLOMBIA", 
+                        "BRAZIL", 
+                        "EL SALVADOR", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "PERU", 
+                        "CHILE", 
+                        "COSTA RICA", 
+                        "ITALY", 
+                        "HAITI", 
+                        "TURKEY", 
+                        "SEYCHELLES", 
+                        "HONDURAS", 
+                        "PANAMA", 
+                        "GUATEMALA", 
+                        "BELIZE", 
+                        "ALGERIA", 
+                        "SRI LANKA", 
+                        "SOUTH AFRICA", 
+                        "AUSTRALIA", 
+                        "MADAGASCAR", 
+                        "SWEDEN", 
+                        "ARGENTINA", 
+                        "BERMUDA", 
+                        "EGYPT"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ecuador", 
+                "nameofficial": "Republic of Ecuador"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 30, 
+            "target": 1, 
+            "value": 2
+        }, 
+        {
+            "source": 30, 
+            "target": 9, 
+            "value": 2
+        }, 
+        {
+            "source": 1, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 30, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 3, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 30, 
+            "value": 2
+        }, 
+        {
+            "source": 58, 
+            "target": 30, 
+            "value": 1
+        }
+    ]
+}
+]

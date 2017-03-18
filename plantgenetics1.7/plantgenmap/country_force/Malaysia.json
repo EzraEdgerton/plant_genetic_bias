@@ -1,0 +1,608 @@
+[
+{
+    "field": "funding", 
+    "nodes": [
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [], 
+                "genetictool": [
+                    "microsatellite", 
+                    "AFLP", 
+                    "ISSR", 
+                    "RAPD", 
+                    "RFLP", 
+                    "SCAR", 
+                    "SSR", 
+                    "SNP"
+                ], 
+                "fundingorganization": "research management center (rmc) of universiti putra malaysia     [ gp-ips/2013/9391500]", 
+                "journal": "molecular biology reports", 
+                "focalspecies": [
+                    "Curcuma longa", 
+                    "Zingiber officinale"
+                ], 
+                "fundingCOO": [
+                    "MALAYSIA"
+                ], 
+                "year": 2016, 
+                "abstracttext": "{ginger is an economically important and valuable plant around the world.\n   ginger is used as a food, spice, condiment, medicine and ornament. there\n   is available information on biochemical aspects of ginger, but few\n   studies have been reported on its molecular aspects. the main objective\n   of this review is to accumulate the available molecular marker\n   information and its application in diverse ginger studies. this review\n   article was prepared by combing material from published articles and our\n   own research. molecular markers allow the identification and\n   characterization of plant genotypes through direct access to hereditary\n   material. in crop species, molecular markers are applied in different\n   aspects and are useful in breeding programs. in ginger, molecular\n   markers are commonly used to identify genetic variation and classify the\n   relatedness among varieties, accessions, and species. consequently, it\n   provides important input in determining resourceful management\n   strategies for ginger improvement programs. alternatively, a molecular\n   marker could function as a harmonizing tool for documenting species.\n   this review highlights the application of molecular markers (isozyme,\n   rapd, aflp, ssr, issr and others such as rflp, scar, nbs and snp) in\n   genetic diversity studies of ginger species. some insights on the\n   advantages of the markers are discussed. the detection of genetic\n   variation among promising cultivars of ginger has significance for\n   ginger improvement programs. this update of recent literature will help\n   researchers and students select the appropriate molecular markers for\n   ginger-related research.", 
+                "focalspeciesCOO": [
+                    [
+                        "SRI LANKA", 
+                        "NEW CALEDONIA", 
+                        "PUERTO RICO", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "HAITI", 
+                        "HONDURAS", 
+                        "MADAGASCAR", 
+                        "FRENCH GUIANA", 
+                        "CAMEROON", 
+                        "FRENCH POLYNESIA", 
+                        "INDONESIA", 
+                        "MALAYSIA", 
+                        "JAPAN", 
+                        "SURINAME", 
+                        "SWEDEN", 
+                        "AUSTRALIA", 
+                        "VIETNAM", 
+                        "INDIA", 
+                        "PAPUA NEW GUINEA", 
+                        "SOUTH AFRICA", 
+                        "MYANMAR", 
+                        "PHILIPPINES", 
+                        "CHINA", 
+                        "SAMOA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "BRAZIL", 
+                        "NIUE", 
+                        "PITCAIRN", 
+                        "FIJI", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CUBA", 
+                        "UNITED STATES", 
+                        "ECUADOR", 
+                        "GUADELOUPE", 
+                        "COSTA RICA", 
+                        "GERMANY", 
+                        "MARTINIQUE", 
+                        "PALAU", 
+                        "PERU", 
+                        "SAINT LUCIA", 
+                        "PANAMA", 
+                        "FRANCE", 
+                        "THAILAND", 
+                        "SPAIN", 
+                        "GUAM", 
+                        "COMOROS", 
+                        "JAMAICA", 
+                        "TURKEY", 
+                        "BANGLADESH", 
+                        "NEPAL", 
+                        "COLOMBIA", 
+                        "DOMINICAN REPUBLIC", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MALAWI", 
+                        "MAYOTTE", 
+                        "NEW ZEALAND", 
+                        "MEXICO", 
+                        "GHANA", 
+                        "EL SALVADOR", 
+                        "DOMINICA", 
+                        "R\u00c9UNION", 
+                        "BELIZE", 
+                        "MOZAMBIQUE"
+                    ], 
+                    [
+                        "JAMAICA", 
+                        "GRENADA", 
+                        "PALAU", 
+                        "MEXICO", 
+                        "R\u00c9UNION", 
+                        "MAYOTTE", 
+                        "VIETNAM", 
+                        "NIGERIA", 
+                        "CAMEROON", 
+                        "SRI LANKA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "PERU", 
+                        "ECUADOR", 
+                        "SWEDEN", 
+                        "MALAYSIA", 
+                        "MAURITIUS", 
+                        "NEPAL", 
+                        "INDIA", 
+                        "PAPUA NEW GUINEA", 
+                        "AUSTRALIA", 
+                        "JAPAN", 
+                        "BELIZE", 
+                        "NEW CALEDONIA", 
+                        "CUBA", 
+                        "CHINA", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "UNITED STATES", 
+                        "BRAZIL", 
+                        "FRENCH POLYNESIA", 
+                        "FIJI", 
+                        "COOK ISLANDS", 
+                        "NETHERLANDS", 
+                        "NICARAGUA", 
+                        "GABON", 
+                        "NEW ZEALAND", 
+                        "GERMANY", 
+                        "COSTA RICA", 
+                        "MARTINIQUE", 
+                        "GUADELOUPE", 
+                        "COLOMBIA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "EL SALVADOR", 
+                        "PANAMA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "THAILAND", 
+                        "PHILIPPINES", 
+                        "HONG KONG", 
+                        "HAITI", 
+                        "GUINEA", 
+                        "COMOROS", 
+                        "MADAGASCAR", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "SURINAME", 
+                        "GUATEMALA", 
+                        "FINLAND", 
+                        "GHANA", 
+                        "DOMINICA", 
+                        "BENIN", 
+                        "GUYANA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }
+    ], 
+    "links": []
+},
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 14, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 14, 
+            "score": 11, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "INDIA", 
+                    "MALAYSIA", 
+                    "MALAYSIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biochimica et biophysica acta - general subjects", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) is the chloroplast enzyme that fixes co2 in photosynthesis, but the enzyme also fixes o2, which leads to the wasteful photorespiratory pathway. if we better understand the structure-function relationship of the enzyme, we might be able to engineer improvements. when the crystal structure of chlamydomonas rubisco was solved, four new posttranslational modifications were observed which are not present in other species. the modifications were 4-hydroxylation of the conserved pro-104 and 151 residues, and s-methylation of the variable cys-256 and 369 residues, which are phe-256 and val-369 in land plants. because the modifications were only observed in chlamydomonas rubisco, they might account for the differences in kinetic properties between the algal and plant enzymes. methods site-directed mutagenesis and chloroplast transformation have been used to test the essentiality of these modifications by replacing each of the residues with alanine (ala). biochemical analyses were done to determine the specificity factors and kinetic constants. results replacing the modified-residues in chlamydomonas rubisco affected the enzyme's catalytic activity. substituting hydroxy-pro-104 and methyl-cys-256 with alanine influenced rubisco catalysis. conclusion this is the first study on these posttranslationally-modified residues in rubisco by genetic engineering. as these forms of modifications/regulation are not available in plants, the modified residues could be a means to modulate rubisco activity. general significance with a better understanding of rubisco structure-function, we can define targets for improving the enzyme. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 423, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 104, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 92, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "target": 14, 
+            "value": 2
+        }, 
+        {
+            "source": 0, 
+            "target": 14, 
+            "value": 2
+        }, 
+        {
+            "source": 14, 
+            "target": 14, 
+            "value": 11
+        }, 
+        {
+            "source": 14, 
+            "target": 7, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 14, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 14, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "INDIA", 
+                    "MALAYSIA", 
+                    "MALAYSIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biochimica et biophysica acta - general subjects", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) is the chloroplast enzyme that fixes co2 in photosynthesis, but the enzyme also fixes o2, which leads to the wasteful photorespiratory pathway. if we better understand the structure-function relationship of the enzyme, we might be able to engineer improvements. when the crystal structure of chlamydomonas rubisco was solved, four new posttranslational modifications were observed which are not present in other species. the modifications were 4-hydroxylation of the conserved pro-104 and 151 residues, and s-methylation of the variable cys-256 and 369 residues, which are phe-256 and val-369 in land plants. because the modifications were only observed in chlamydomonas rubisco, they might account for the differences in kinetic properties between the algal and plant enzymes. methods site-directed mutagenesis and chloroplast transformation have been used to test the essentiality of these modifications by replacing each of the residues with alanine (ala). biochemical analyses were done to determine the specificity factors and kinetic constants. results replacing the modified-residues in chlamydomonas rubisco affected the enzyme's catalytic activity. substituting hydroxy-pro-104 and methyl-cys-256 with alanine influenced rubisco catalysis. conclusion this is the first study on these posttranslationally-modified residues in rubisco by genetic engineering. as these forms of modifications/regulation are not available in plants, the modified residues could be a means to modulate rubisco activity. general significance with a better understanding of rubisco structure-function, we can define targets for improving the enzyme. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 136, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 39, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "target": 14, 
+            "value": 2
+        }, 
+        {
+            "source": 14, 
+            "target": 14, 
+            "value": 6
+        }, 
+        {
+            "source": 14, 
+            "target": 7, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 14, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 14, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "INDIA", 
+                    "MALAYSIA", 
+                    "MALAYSIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biochimica et biophysica acta - general subjects", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) is the chloroplast enzyme that fixes co2 in photosynthesis, but the enzyme also fixes o2, which leads to the wasteful photorespiratory pathway. if we better understand the structure-function relationship of the enzyme, we might be able to engineer improvements. when the crystal structure of chlamydomonas rubisco was solved, four new posttranslational modifications were observed which are not present in other species. the modifications were 4-hydroxylation of the conserved pro-104 and 151 residues, and s-methylation of the variable cys-256 and 369 residues, which are phe-256 and val-369 in land plants. because the modifications were only observed in chlamydomonas rubisco, they might account for the differences in kinetic properties between the algal and plant enzymes. methods site-directed mutagenesis and chloroplast transformation have been used to test the essentiality of these modifications by replacing each of the residues with alanine (ala). biochemical analyses were done to determine the specificity factors and kinetic constants. results replacing the modified-residues in chlamydomonas rubisco affected the enzyme's catalytic activity. substituting hydroxy-pro-104 and methyl-cys-256 with alanine influenced rubisco catalysis. conclusion this is the first study on these posttranslationally-modified residues in rubisco by genetic engineering. as these forms of modifications/regulation are not available in plants, the modified residues could be a means to modulate rubisco activity. general significance with a better understanding of rubisco structure-function, we can define targets for improving the enzyme. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 3, 
+            "score": 151, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biomass and bioenergy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "amb express", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the rumen is a unique natural habitat, exhibiting an unparalleled genetic resource of fibrolytic enzymes of microbial origin that degrade plant polysaccharides. the objectives of this study were to identify the principal plant cell wall-degrading enzymes and the taxonomic profile of rumen microbial communities that are associated with it. the cattle rumen microflora and the carbohydrate-active enzymes were functionally classified through a whole metagenomic sequencing approach. analysis of the assembled sequences by the carbohydrate-active enzyme a\ufeffnalysis toolkit identified the candidate genes encoding fibrolytic enzymes belonging to different classes of glycoside hydrolases(11,010 contigs), glycosyltransferases (6366 contigs), carbohydrate esterases (4945 contigs), carbohydrate-binding modules (1975 contigs), polysaccharide lyases (480 contigs), and auxiliary activities (115 contigs). phylogenetic analysis of cazyme encoding contigs revealed that a significant proportion of cazymes were contributed by bacteria belonging to genera prevotella, bacteroides, fibrobacter, clostridium, and ruminococcus. the results indicated that the cattle rumen microbiome and the cazymes are highly complex, structurally similar but compositionally distinct from other ruminants. the unique characteristics of rumen microbiota and the enzymes produced by resident microbes provide opportunities to improve the feed conversion efficiency in ruminants and serve as a reservoir of industrially important enzymes for cellulosic biofuel production. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 7, 
+            "score": 37, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 14, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 14, 
+            "target": 0, 
+            "value": 1
+        }, 
+        {
+            "source": 14, 
+            "target": 14, 
+            "value": 7
+        }, 
+        {
+            "source": 14, 
+            "target": 7, 
+            "value": 1
+        }
+    ]
+}
+]

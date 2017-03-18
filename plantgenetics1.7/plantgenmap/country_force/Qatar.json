@@ -1,0 +1,551 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 49, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 49, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 117, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 49, 
+            "target": 4, 
+            "value": 5
+        }, 
+        {
+            "source": 49, 
+            "target": 49, 
+            "value": 10
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 49, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 49, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 48, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 49, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 49, 
+            "target": 49, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 49, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 49, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 47, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forensic science international: genetics", 
+                "focalspecies": [
+                    "Entandrophragma cylindricum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "CONGO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NIGERIA", 
+                        "LIBERIA", 
+                        "GABON", 
+                        "GUINEA", 
+                        "GHANA", 
+                        "UGANDA", 
+                        "SIERRA LEONE", 
+                        "MEXICO", 
+                        "EQUATORIAL GUINEA", 
+                        "TOGO", 
+                        "ANGOLA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 49, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 49, 
+            "target": 49, 
+            "value": 4
+        }
+    ]
+}
+]
