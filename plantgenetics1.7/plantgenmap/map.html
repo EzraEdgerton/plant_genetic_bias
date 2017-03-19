@@ -201,8 +201,7 @@ queue()
     .defer(d3.json, "lastauthor.json")
     .defer(d3.json, "funding.json")
     .defer(d3.json, "firstauthor.json")
-    //.defer(d3.json, "focalspecies.json")
-    .defer(d3.json, "dummy.json")
+    .defer(d3.json, "focalspecies.json")
     .await(ready);
 
 function ready(error, world, names, authors, lastauthor, funding, firstauthor, focalspecies) {
@@ -733,12 +732,6 @@ side_graph.remove()
 
     }) 
 
-
-
-
-
-
-
     var force = d3.layout.force()
     .charge(charge)
     .linkDistance(linkDistance)
@@ -748,8 +741,6 @@ side_graph.remove()
         .nodes(force_graph_data.nodes)
         .links(force_graph_data.links)
         .start();
-   
-   // force.center.y(300)
 
   if(side_no == 1){
     linksize = 3
@@ -761,7 +752,6 @@ side_graph.remove()
     radius = 5
 
   }
-
 
   side_graph.append("svg:defs").selectAll("marker")
     .data(["middle"])      
@@ -849,11 +839,12 @@ var text = side_graph.selectAll('.text')
             d.target.y;
     });
 
-    node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(s_width - 10, d.x)); })
-        .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(s_height - 10, d.y)); });
-    text.attr("x", function(d) { return d.x = Math.max(radius, Math.min(s_width - 10, d.x)); })
-        .attr("y", function(d) { return d.y = Math.max(radius, Math.min(s_height - 10, d.y)); });
-     });
+      node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(s_width - 10, d.x)); })
+          .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(s_height - 10, d.y)); });
+      text.attr("x", function(d) { return d.x = Math.max(radius, Math.min(s_width - 10, d.x)); })
+          .attr("y", function(d) { return d.y = Math.max(radius, Math.min(s_height - 10, d.y)); });
+
+     })//on tick;
 
 
     function collide(node) {
@@ -878,7 +869,7 @@ var text = side_graph.selectAll('.text')
     }
     return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
   };
-}
+}//collid
 
 function removeDuplicates(originalArray, prop) {
      var newArray = [];
@@ -892,12 +883,10 @@ function removeDuplicates(originalArray, prop) {
          newArray.push(lookupObject[i]);
      }
       return newArray;
- }
+ }//removeDuplicates
 
 })
-}
-
-//getSideGraph('country', 'authors');
+}//getSideGraph
 
 }//ready
 }])
