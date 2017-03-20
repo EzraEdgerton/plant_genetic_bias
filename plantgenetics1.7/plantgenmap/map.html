@@ -5,8 +5,29 @@
 <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
 <style>
 
+
+
+
+th { text-align: left; }
+    th, td { padding: 0 1em 0.5ex 0;}
+    th.center, td.center { text-align: center; }
+    th.num, td.num { text-align: right; }
 .highlight {
   fill-opacity: 1;
+}
+
+#table1, #table2 {
+  position : fixed;
+}
+
+#link-table {
+  overflow : scroll;
+   height : 94px;
+}
+
+#speclink-table{
+  overflow : scroll;
+  height : 94px;
 }
 
 path.link {
@@ -83,7 +104,7 @@ div.tooltip {
         <div id="map" ></div>
       </div>
       <div class="col-lg-4" id='sidebox'>
-        <div id="map-side"></div>
+        <div id="map-side" style="height: 492"></div>
       </div>
     </div>
     <br>
@@ -98,7 +119,7 @@ div.tooltip {
         <div id="species-map" ></div>
       </div>
       <div class="col-lg-4" id='specsidebox'>
-        <div id="spec-map-side"></div>
+        <div id="spec-map-side" style="height: 492"></div>
       </div>
     </div>
   </div>
@@ -604,13 +625,13 @@ path2.on("mousemove", function(d,i) {
         tooltip.classed("hidden", true)
       });
 
-var sideHeight = 494
+var sideHeight = 492
 var sideWidth = 405
 
-nodemap_h = 300
+nodemap_h = 400
 var map_side_box = d3.select('#map-side')
 
-var mapSide = map_side_box.append('svg')
+var mapSide = map_side_box.append('div')
                 .attr('height', sideHeight)
                 .attr('width', sideWidth)
                 .attr('id', 'side_box')
@@ -622,16 +643,20 @@ var side_nodemap = mapSide.append('svg')
 
 
 
+
+
 side_nodemap.append('text')
           .attr('x', 70)
           .attr('y', 100)
           .style('font-size', 13)
           .text('Select a country Circle to see relationships')
+
 var spec_map_side_box = d3.select('#spec-map-side')
-var specMapSide = spec_map_side_box.append('svg')
+var specMapSide = spec_map_side_box.append('div')
                           .attr('height', sideHeight)
                           .attr('width', sideWidth)
                           .attr('id', 'spec_side_box')
+
 var spec_side_nodemap = specMapSide.append('svg')
                                 .attr('height', nodemap_h)
                                 .attr('width', sideWidth)
@@ -642,6 +667,35 @@ spec_side_nodemap.append('text')
           .attr('y', 100)
           .style('font-size', 13)
           .text('Select a country Circle to see relationships')
+
+var linktable = mapSide.append('div')
+                    .attr('height', sideHeight - nodemap_h)
+                    .attr('width', sideWidth)
+                    .attr('id', 'link-table')
+                    .attr('x', 0)
+                     .attr('overflow', 'scroll')
+                  
+var speclinktable = specMapSide.append('div')
+                    .attr('height', sideHeight - nodemap_h)
+                    .attr('width', sideWidth)
+                    .attr('id', 'speclink-table')
+                    .attr('x', 0)
+                    .attr('overflow', 'scroll')
+                   
+
+linktable.append('p')
+        .attr('x', 70)
+        .attr('y', 30)
+        .style('padding-bottom', '72px')
+        .style('padding-left', '100px')
+        .text('Select a country to see relationships table')
+
+speclinktable.append('p')
+        .attr('x', 70)
+        .attr('y', 30)
+        .style('padding-bottom', '72px')
+        .style('padding-left', '100px')
+        .text('Select a country to see relationships table')
 
 
 function getFieldFromCountryJson(selfield, data){
@@ -661,31 +715,108 @@ function countryNodesIndex(nodes, index_f){
   }
   return -1
 }
+
+function formatForTable(graph, directed){
+  console.log(graph)
+  nodes = graph.nodes;
+  links = graph.links;
+
+  result = [];
+  if(!directed){
+    for(var i = 1; i < nodes.length; i++){
+      result.push({
+        score : nodes[i].score,
+        country : nodes[i].properties.name,
+        link1 : findLinks(links, i)
+      })
+    }
+  }
+  else{
+    for(var i = 1; i < nodes.length; i++){
+      result.push({
+        score : nodes[i].score,
+        country : nodes[i].properties.name,
+        link1 : findDirectedLinks(links, i, 'source'),
+        link2 : findDirectedLinks(links, i, 'target')
+      })
+    }
+  }
+  var sorted = result.sort(function(a,b){ return b.score - a.score;})
+  return sorted
+}
+
+function findLinks(links, index){
+  for(var i = 0; i < links.length; i++){
+    if( links[i].target == index || links[i].source == index){
+      return links[i].value;
+    }
+  }
+  return 0
+}
+
+function findDirectedLinks(links, index, t){
+  for(var i = 0; i < links.length; i++){
+    if(links[i][t] == index){
+      return links[i].value
+    }
+  }
+  return 0
+}
                       
 function getSideGraph(country, sel_field, color, side_no){
-  console.log(sel_field)
+
+
+function hexToRgb(hex) {
+    var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    return result ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16)
+    } : null;
+}
+
+table_color = hexToRgb(color)
+
+console.log(table_color)
 
 if (side_no == 1){
   side_graph = d3.select('#side_nodemap')
+  side_table = d3.select('#link-table')
 }
 else{
    side_graph = d3.select('#spec_side_nodemap')
+  side_table = d3.select('#speclink-table')
 }
 s_width = 405
 s_height = 400
 side_graph.remove()
+side_table.remove()
+
   if (side_no == 1){
      side_graph = mapSide.append('svg')
                       .attr('height', s_height)
                       .attr('width', s_width)
                       .attr('id' , 'side_nodemap')
+    side_table = mapSide.append('div')
+                    .attr('id', 'link-table')
+                    .attr('x', 0)
+                    .style('background-color', "rgba(" + table_color.r + "," + table_color.g + "," + table_color.b + ",.1)")
   }
   else{
      side_graph = specMapSide.append('svg')
                       .attr('height', s_height)
                       .attr('width', s_width)
                       .attr('id', 'spec_side_nodemap')
+     side_table = specMapSide.append('div')
+                    .attr('id', 'speclink-table')
+                    .attr('x', 0)
+                    .style('background-color', "rgba(" + table_color.r + "," + table_color.g + "," + table_color.b + ",.1)")
   }
+
+   var table = side_table.append('table').attr('class', 'table');
+
+
+
  
 
   country = country.replace(' ', '_')
@@ -711,15 +842,16 @@ side_graph.remove()
       force_graph_data = graph[0]
     }
 
-     country_index = force_graph_data.nodes[0].index
+    country_index = force_graph_data.nodes[0].index
+
+
+
 
     if (sel_field == 'firstauthor' || sel_field == 'lastauthor'){
-      console.log(force_graph_data.nodes.length)
       force_graph_data.nodes = removeDuplicates(force_graph_data.nodes, "index")
-      console.log(force_graph_data.nodes.length)
     }
 
-    
+
     force_graph_data.links.forEach(function(l){
       l.source = countryNodesIndex(force_graph_data.nodes, l.source)
       l.target = countryNodesIndex(force_graph_data.nodes, l.target)
@@ -728,9 +860,61 @@ side_graph.remove()
         l.source = 0;
         l.target = 0
       }
-
-
     }) 
+
+    var columns = [
+        { head: 'Index', cl: 'center', html: 'index' },
+        { head: 'Country', cl: 'center', html: 'title' },
+        { head: 'Score', cl: 'center', html: 'year' },
+        { head: 'Link Score', cl: 'center', html: 'link1' }
+    ];
+
+
+
+ if (sel_field == 'firstauthor' || sel_field == 'lastauthor'){
+    columns = [
+        { head: 'Index', cl: 'center', html: 'index' },
+        { head: 'Score', cl: 'center', html: 'year' },
+        { head: 'Country', cl: 'center', html: 'title' },
+        { head: 'Score', cl: 'center', html: 'year' },
+        { head: 'Link-towards Score', cl: 'center', html: 'link1' },
+        { head: 'Link-away Score', cl: 'center', html: 'link2' }
+    ];
+    var table_data = formatForTable(force_graph_data, true)
+  }
+  else{
+    var table_data = formatForTable(force_graph_data, false)
+  }
+
+    table.append('thead').append('tr')
+        .selectAll('th')
+        .data(columns).enter()
+        .append('th')
+        .attr('class', (d) => d.cl)
+        .attr('id', 'head' + side_no)
+        .text((d) => d.head);
+
+    table.append('tbody')
+        .selectAll('tr')
+        .data(table_data).enter()
+        .append('tr')
+        .attr('class', (d) => d.country.replace(' ', '_') + side_no)
+        .selectAll('td')
+        .data(function(d, i) { 
+          if (sel_field == 'firstauthor' || sel_field == 'lastauthor'){
+            return [i + 1, d.country, d.score, d.link1, d.link2 ]
+          }
+          else{
+            return [i + 1, d.country, d.score, d.link1]
+          }
+        }).enter()
+        .append('td')
+        .html((d) => d)
+        .attr('class', 'center');
+
+
+
+
 
     var force = d3.layout.force()
     .charge(charge)
@@ -767,7 +951,7 @@ side_graph.remove()
     .style('fill-opacity', 1 )
     .style('fill', 'grey')
   .append("svg:path")
-    .attr("d", "M0,-3L10,0L0,3");
+    .attr("d", "M0,-3L10,0L0,3");//marker
 
     var linkpath = side_graph.selectAll("path")
     .data(force_graph_data.links)
@@ -776,6 +960,9 @@ side_graph.remove()
       .style("stroke-width", function(d) { return d.value/ linksize; })
       .style('stroke', 'black')
       .style('stroke-opacity', .3)
+      .on('click', function(d){
+        console.log(d.target.properties.name.replace(' ', '_'))
+      })//links
 
     if (sel_field == 'firstauthor' || sel_field == 'lastauthor'){
       linkpath.attr("marker-mid", "url(#middle)");
@@ -793,7 +980,16 @@ side_graph.remove()
       .style("fill", color)
       .style("opacity", .6)
       .style("stroke", 'black')
-      .call(force.drag);
+      .call(force.drag)
+      .on('click', function(d){
+        table_rows = d3.selectAll('.' + d.properties.name.replace(' ', '_') + side_no)
+        console.log(table_rows[0])
+        console.log(table[0])
+        //var rowPos = table[0][0].find(table_rows[0][0]).position();
+        //console.log(rowPos)
+        $("html").scrollTop();
+       // table_rows[0][0]
+      });//nodes
 
       node.append("title")
       .text(function(d) { return  d.score });
@@ -807,7 +1003,7 @@ var text = side_graph.selectAll('.text')
     .style('font-family', 'Helvetica')
     .style('font-size', '9px')
     .style('font-weight', 'bold')
-    .text((d) => d.properties.name);
+    .text((d) => d.properties.name);//text
 
        text.append("title")
       .text(function(d) { return  d.score });
@@ -837,7 +1033,7 @@ var text = side_graph.selectAll('.text')
             dr + "," + dr + " 0 0,1 " + 
             d.target.x + "," + 
             d.target.y;
-    });
+    });//links
 
       node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(s_width - 10, d.x)); })
           .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(s_height - 10, d.y)); });
@@ -869,7 +1065,7 @@ var text = side_graph.selectAll('.text')
     }
     return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
   };
-}//collid
+}//collide
 
 function removeDuplicates(originalArray, prop) {
      var newArray = [];
