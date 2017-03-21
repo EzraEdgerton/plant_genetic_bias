@@ -8,7 +8,7 @@ test = ['focalspecies']
 
 fieldlist = openfiles_reasonable
 
-fieldlist = test
+#fieldlist = test
 
 field_last = fieldlist[len(fieldlist) - 1]
 
@@ -46,8 +46,13 @@ def format_country(country, data, field_name):
 		
 	}
 	country_file_name = country_name.replace(' ', '_')
-	country_file = open('spec_country_force/' + country_file_name + '.json', 'a')
-	written = os.stat('spec_country_force/' + country_file_name + '.json').st_size == 0
+
+	folderstring = 'country_force/'
+	if field_name == 'focalspecies':
+		folderstring = 'spec_country_force/'
+
+	country_file = open(folderstring + country_file_name + '.json', 'a')
+	written = os.stat(folderstring + country_file_name + '.json').st_size == 0
 	if written:
 		country_file.write('[\n')
 	if not written:
