@@ -1,3 +1,13 @@
+"""
+
+creates country files for each of the fields in the plantgenmap folder.
+
+stores each country file in country_force folder or (if focalspecies) in spec_country_force folder.
+
+
+
+"""
+
 import os
 import json
 import sys

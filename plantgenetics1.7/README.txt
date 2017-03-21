@@ -32,37 +32,51 @@ TO USE:
 The extracted data will be stored in the new file in the format similar to the extractedstuff.json example data. 
 
 
-NOW FOR VISUALIZING:
+NOW EXTRA FORMATTING FOR VISUALIZING:
+The visualization page is stored in the plantgenmap folder.
+To format the inital data for the plantgenmap run 
 
-Currently there are two scripts to format for visualization, one for map and one for node links. For each we must run a python script to format the extracted data.
+FORMATTING NODE AND LINKS FOR MAPS
+
+python format_for_map.py [file_you_just_created.json] [field]
+
+First input is readfile name, created from running new_extract.py
+
+Second input is field you wish to create nodes and links file for,
+either:
+	'authors'
+	'firstauthor'
+	'lastauthor'
+	'funding'
+	'focalspecies'
+
+focalspecies will take a while to run
+
+It will store the new files in .json files of the field name in the plantgenmap folder
+
+run this script for each of the five fields.
+
+FORMATTING COUNTRIES FOR SIDE GRAPHS
+
+Once those field files have been have been created, navigate to the plantgenmap folder.
+
+At the moment, you must have a json file with each of the field names in the plantgenmap folder for this script to run.
+
+run [python country_force_format.py]
+
+This will loop through the fields and store each country data in the country_force folder or, if the field is focalspecies it will store it in the spec_country_force folder.
+
+REMEMBER:
+If you are rerunning this script, delete the previous country files from the country folders, otherwise the new data will be appended to the old data and the old data will continue to be visualized.
 
 
-FOR NODE LINKS VIS: 
-The format_for_linking.py file takes as input the input file, what we created in the previous step, and fields to search the data (any number of authors, funding, species, speciesCOO, or tool). It will output json files of the name of the field you input. 
 
-	python format_for_linking.py [combined_data.json] [field][field2][field3]
+VIEWING VISUALIZATION:
 
-	e.g. If I wanted to create a file to visualize the author COO and tool used from combined.json I would run
+In the plantgenmap, run 
+python -m SimpleHTTPServer 
+and navigate to http://localhost:8000/map.html to view the complete visualization
 
-	python format_for_linking combined.json authors tool
-
-	and that data will be stored in authors.json and tool.json
-
- Move those output files from the previous step into the plantgenetics_graph_proto folder. Do not rename the files unless you want to edit the file path in the index.html file(also an option)
-
- Next, navigate to the plantgenetics_graph_proto folder and run a simple server.
-	Create the simple server by running:
-	python -m SimpleHTTPServer
-
- Open your browser and go to http://localhost:8000/. It will work for each of the fields you created and moved into the plantgenetics_graph_proto folder.
-
- FOR MAP VIS:
- Run the format_for_map.py script to format the extracted data.
-
- It takes as arguments: 
- 	first: the extracted data json file,
- 	second: the name of the file to be created (ideally named after the field generated)
- 	third: the field to generate it for, one of 'authors', 'firstauthor', 'lastauthor', 'focalspecies', or 'funding'
 
  After that move the generated files into the plantgenmap folder and follow the same steps for running a server. If you navigate to http://localhost:8000/map.html you should see the visualization.
 

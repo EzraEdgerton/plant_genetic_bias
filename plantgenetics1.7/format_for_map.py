@@ -1,3 +1,22 @@
+"""
+For creating node and links for map visualization
+
+First input is readfile name, created from running new_extract.py
+
+Second input is field you wish to create nodes and links file for,
+either:
+	'authors'
+	'firstauthor'
+	'lastauthor'
+	'funding'
+	'focalspecies'
+
+focalspecies will take a while to run
+
+It will store the new files in .json files of the field name in the plantgenmap folder
+
+"""
+
 import os
 import sys
 import csv

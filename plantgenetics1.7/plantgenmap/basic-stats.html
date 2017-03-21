@@ -7,19 +7,7 @@
  <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
   <link rel="stylesheet" href="/ext/css/dc.css"/> 
  <style>
- .hide {
-  display:none;
- },
- .show{
-  display:inline ;
- },
 
- .chart-text {
-  color: black;
- },
- #group-chart {
-  fill : #333;
- }
  </style>
  
 </head>
@@ -44,7 +32,7 @@
       </div>
      <div class= 'row'>
       <div class='col-lg-6'>
-         <div class='dc-data-count' style='float:left'>
+         <div class='dc-data-count'>
             <h6>
             <span>
             <span class="filter-count"></span>
@@ -58,35 +46,52 @@
       </div>
     </div>
     <div class='row'>
-      <div class="col-lg-2 chart-text" id="group-chart">
-       
+      <div class='col-lg-6'>
+        <div id='year-chart'>
+              <h4>
+   Number of Articles by Year
+        <span>
+          <a class="reset"
+            href="javascript:yearChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
       </div>
-    <div class='col-lg-10'>
-
-           <div class="row">
-          <div class="col-lg-12" id="move-chart">
-              
-          </div>
+    </div>
+      <div class='row'>
+      <div class='col-lg-3'>
+        <div id='tech-chart'>
+              <h4>
+      Number of Articles by Genetic Tool
+        <span>
+          <a class="reset"
+            href="javascript:techChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
       </div>
-
-
-      <div class="row">
-          <div class="col-lg-12" id="volume-chart">
-          </div>
-
+    <div class='col-lg-3'>
+        <div id='journal-chart'>
+              <h4>
+      Number of Articles by Journal
+        <span>
+          <a class="reset"
+            href="javascript:journalChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
       </div>
-
-  <div class="row">
-
-    <div class='col-lg-6' id="retweet-chart" >
-      
     </div>
-    <div class="col-lg-6" id="day-of-week-chart">
-      
-    </div>
-
-    </div>
-
+   
 
 </div>
       
@@ -109,8 +114,9 @@
 
   <script>
 
-  /*var volumeChart = dc.barChart('#volume-chart');
-  var dayOfWeekChart = dc.rowChart('#day-of-week-chart');
+  var yearChart = dc.barChart('#year-chart');
+  var techChart = dc.rowChart('#tech-chart');
+  /*var dayOfWeekChart = dc.rowChart('#day-of-week-chart');
   var groupChart = dc.rowChart('#group-chart');
   var retweetedChart = dc.pieChart('#retweet-chart');
   var moveChart = dc.lineChart('#move-chart');*/
@@ -134,16 +140,18 @@
 
   var color = d3.scale.category20();
 
-  console.log(color(20))
+//  console.log(color(20))
 
 
-//var parseDate = d3.time.format('%a %b %d %X +0000 %Y')//.parse();
+var parseDate = d3.time.format('%Y')//.parse();
+
+console.log(parseDate.parse('2016'))
 
 
   d3.json('nat_test.json', function(error,graph){
     console.log(graph)
 
-    
+
 
 
 
@@ -153,11 +161,56 @@ var thing = dc.dataCount(".dc-data-count")
     .dimension(stats)
     .group(all);
 
-    
+    yearDimension = stats.dimension(function(d){
+      return d.year
+    })
+
+   techDimension = stats.dimension(function(d){
+    if (d.genetictool.length > 0){
+      if (d.genetictool[0] == 'cleaved amplified polymorphic sequence'){
+        console.log('here')
+      }
+       return d.genetictool[0]
+      }
+    })
+    yearGroup = yearDimension.group()
+    techGroup = techDimension.group()
+
+    techGroup.order()
+
+      yearChart.width(500) 
+        .height(500)
+        .margins({top: 0, right: 50, bottom: 20, left: 40})
+        .dimension(yearDimension)
+        .group(yearGroup)
+        .centerBar(true)
+        .transitionDuration(250)
+        .gap(0)
+        .x(d3.scale.linear().domain([2012, 2018]))
+        .elasticY(true)
+        .xAxis().ticks(4);  
+      
+
+techChart.width(300)
+    .height(1000)
+    .margins({top: 5, left: 10, right: 10, bottom: 20})
+    .dimension(techDimension)
+    .group(techGroup)
+    .colors(['steelblue'])
+    .label(function (d){
+      console.log(d)
+       return d.key;
+    })
+    .title(function(d){return d.value;})
+    .elasticX(true)
+    .xAxis().ticks()
+    //.ordered()
+    //.ordering(function(d) { return - d.value; });
 
 
 
-    dc.renderAll();     
+
+  dc.renderAll();     
   })//d3.json fetch
 
 
