@@ -86,6 +86,10 @@ div.tooltip {
   opacity: 0.5; 
 }
 
+.node {
+  pointer-events: all
+}
+
 </style>
 <body ng-app="twitterstuff">
   <div ng-controller="twitterselect" class='container-fluid'>
@@ -105,13 +109,22 @@ div.tooltip {
       </div>
       <div class="col-lg-4" id='sidebox'>
         <div id="map-side" style="height: 492"></div>
+        
       </div>
     </div>
-    <br>
-    <br>
+    <div class="row">
+      <div class="col-lg-4 col-lg-push-8">
+         <p>Use Command+F to search table and graph for country</p>
+      </div>
+    </div>
      <div class="row">
       <div class='col-lg-12'>
         <h4>Focal Species Map</h4>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-12">
+        <div id="resetbutton" ></div>
       </div>
     </div>
     <div class="row">
@@ -120,6 +133,11 @@ div.tooltip {
       </div>
       <div class="col-lg-4" id='specsidebox'>
         <div id="spec-map-side" style="height: 492"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-lg-push-8">
+         <p>Use Command+F to search table and graph for country</p>
       </div>
     </div>
   </div>
@@ -230,7 +248,7 @@ queue()
 
 function ready(error, world, names, authors, lastauthor, funding, firstauthor, focalspecies) {
 
-console.log(focalspecies)
+
   var countries = topojson.object(world, world.objects.countries).geometries,
       neighbors = topojson.neighbors(world, countries),
       i = -1,
@@ -642,7 +660,52 @@ function filterSpeciesMap(country){
 function resetSpeciesMap(){
   specsvg.selectAll(".link").attr('display', '').style('stroke-opacity', .03).style('stroke-opacity', .03)
 
-}
+}//specmap
+
+var resetbutton = d3.select('#resetbutton')
+
+var resetsvg = resetbutton.append('svg')
+                .attr('id', 'specreset')
+                .attr('height', 30)
+                .attr('width', width)
+
+var reset_g = resetsvg.append('svg').attr('x', 3)
+                    .attr('y',3)
+                    .attr('height', 50)
+                    .attr('width', 160)
+                    .on('mouseover', function(d){
+                      d3.select(this).style('cursor', 'pointer')
+                      d3.select(this).selectAll('rect').transition().duration(250)
+                      .attr('height', 28)    
+                    })
+                    .on('mouseout', function(d){
+                         d3.select(this).selectAll('rect').transition().duration(250)
+                         .attr('height', 22)
+
+                      })
+                    .on('click', function(d){
+                      resetSpeciesMap()
+                    })
+
+          reset_g.append('rect')
+              .attr('x', 0)
+            .attr('y', 0)
+              .attr('id', 'resetrect')
+              .style('rx', 4)
+              .style('ry', 4)
+              .attr('height', 22)
+              .attr('width', 150)
+              .style('opacity', .7)
+              .style('fill', colorscat(4))
+            reset_g.append('text')
+            .style('font-family', 'Helvetica')
+            .style('font-size', 20)
+            .attr('x', 10)
+            .attr('y', 18)
+            .style('opacity', 7)
+            .text("Reset Species")
+
+//resetbutton.append()
 
 
 
@@ -710,14 +773,14 @@ linktable.append('p')
         .attr('x', 70)
         .attr('y', 30)
         .style('padding-bottom', '72px')
-        .style('padding-left', '100px')
+        .style('padding-left', '0px')
         .text('Select a country to see relationships table')
 
 speclinktable.append('p')
         .attr('x', 70)
         .attr('y', 30)
         .style('padding-bottom', '72px')
-        .style('padding-left', '100px')
+        .style('padding-left', '0px')
         .text('Select a country to see relationships table')
 
 function removeDuplicates(originalArray, prop) {
@@ -804,7 +867,6 @@ function findLinks(links, index){
 }
 
 function reOrderTable(data, order){
-  console.log(order)
   if (order == 'index'){
     return data.sort(function(a,b){ return b.index - a.index})
   }
@@ -853,7 +915,6 @@ table_color = hexToRgb(color)
 spectable_color = colorscat(4)
 
 rgbspectable_color = hexToRgb(spectable_color)
-console.log(spectable_color)
 
   side_graph = d3.select('#side_nodemap')
   side_table = d3.select('#link-table')
@@ -920,7 +981,6 @@ var spectable = specside_table.append('table').attr('class', 'table');
 
     var country_index = force_graph_data.nodes[0].index;
 
-    console.log(force_graph_data.nodes[0])
 
 
 
@@ -929,7 +989,6 @@ var spectable = specside_table.append('table').attr('class', 'table');
       force_graph_data.nodes = removeDuplicates(force_graph_data.nodes, "index")
     }
 
-    console.log(force_graph_data.nodes[0])
 
 
     force_graph_data.links.forEach(function(l){
@@ -959,10 +1018,8 @@ var spectable = specside_table.append('table').attr('class', 'table');
         { head: 'Link-towards Score', cl: 'center', html: 'link1' },
         { head: 'Link-away Score', cl: 'center', html: 'link2' }
     ];
-    console.log(force_graph_data.nodes[0])
-    console.log(country)
+
     var table_data = formatForTable(force_graph_data, true)
-    console.log(table_data)
   }
   else{
     var table_data = formatForTable(force_graph_data, false)
@@ -1089,8 +1146,6 @@ var spectable = specside_table.append('table').attr('class', 'table');
       .call(force.drag)
       .on('click', function(d){
         table_rows = d3.selectAll('.' + d.properties.name.replace(' ', '_') + side_no)
-        console.log(table_rows[0])
-        console.log(table[0])
         //var rowPos = table[0][0].find(table_rows[0][0]).position();
         //console.log(rowPos)
         //$("html").scrollTop();
@@ -1286,15 +1341,17 @@ d3.json(specfolderpath + country + ".json", function(error2, graph2){
       .style("opacity", .6)
       .style("stroke", 'black')
       .call(specforce.drag)
-      .on('click', function(d){
-        table_rows = d3.selectAll('.' + d.properties.name.replace(' ', '_') + side_no)
-        console.log(table_rows[0])
-        console.log(table[0])
+      .attr('href', 'https://www.reddit.com/')
+      //.on('click', function(d){
+       // table_rows = d3.selectAll('.' + d.properties.name.replace(' ', '_') + side_no)
+
+
+
         //var rowPos = table[0][0].find(table_rows[0][0]).position();
         //console.log(rowPos)
         //$("html").scrollTop();
        // table_rows[0][0]
-      });//nodes
+    //  });//nodes
 
     specnode.append("title")
       .text(function(d) { return d.properties.name + ':' +  d.score });
