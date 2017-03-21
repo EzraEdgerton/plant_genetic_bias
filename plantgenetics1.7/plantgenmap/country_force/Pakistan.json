@@ -3,7 +3,7 @@
     "field": "authors", 
     "nodes": [
         {
-            "index": 36, 
+            "index": 46, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -12,21 +12,28 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 36, 
-            "score": 8, 
+            "id": 46, 
+            "score": 25, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
                     "PAKISTAN", 
-                    "IRAN"
+                    "SAUDI ARABIA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "PAKISTAN", 
+                    "PAKISTAN", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "DNA"
+                ], 
                 "fundingorganization": "", 
-                "journal": "saudi journal of biological sciences", 
+                "journal": "current issues in molecular biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "abstracttext": "for human food security, the preservation of 7.4 million ex-situ germplasm is a global priority. however, ex situ-conserved seeds are subject to aging, which reduces their viability and ultimately results in the loss of valuable genetic material over long periods. recent progress in seed biology and genomics has revealed new opportunities to improve the long-term storage of ex-situ seed germplasm. this review summarizes the recent improvements in seed physiology and genomics, with the intention of developing genomic tools for evaluating seed aging. several lines of seed biology research have shown promise in retrieving viability signal from various stages of seed germination. we conclude that seed aging is associated with mitochondrial alteration and programmed cell death, dna and enzyme repair, anti-oxidative genes, telomere length, and epigenetic regulation. clearly, opportunities exist for observing seed aging for developing genomic tools to increment the traditional germination test for effective conservation of ex-situ germplasm. \u00a9 2017, caister academic press. all rights reserved.", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -35,74 +42,259 @@
             }
         }, 
         {
-            "index": 2, 
+            "index": 10, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    103.55819197, 
-                    36.7145744
+                    42.88190638, 
+                    24.16687314
                 ]
             }, 
             "type": "Feature", 
-            "id": 2, 
-            "score": 287, 
+            "id": 10, 
+            "score": 20, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
-                    "CHINA", 
-                    "CHINA"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "ecological modelling", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "China", 
-                "nameofficial": "People's Republic of China"
-            }
-        }, 
-        {
-            "index": 21, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    51.28204814, 
-                    31.40240324
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 21, 
-            "score": 21, 
-            "data": {
-                "authorsCOO": [
-                    "IRAN", 
-                    "ITALY", 
-                    "IRAN"
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
                 ], 
                 "genetictool": [
-                    "simple sequence repeat", 
                     "ISSR"
                 ], 
                 "fundingorganization": "", 
-                "journal": "european journal of plant pathology", 
-                "focalspecies": [], 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
-                "focalspeciesCOO": []
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
             }, 
             "properties": {
-                "name": "Iran", 
-                "nameofficial": "Islamic Republic of Iran"
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
             }
         }, 
         {
             "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.51424646, 
+                    36.56344139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 8, 
+            "score": 142, 
+            "data": {
+                "authorsCOO": [
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "TURKEY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "biochemical systematics and ecology", 
+                "focalspecies": [
+                    "Glycine max"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "korea is considered one of the centers of genetic diversity for cultivated as well as wild soybeans. natural habitats of wild soybeans are distributed across the korean mainland and the islands surrounding the korean peninsula. in this study, the genetic diversity of 100 mainland korean wild soybean accessions was evaluated by using 42 simple sequence repeat markers covering 17 soybean chromosomes. all analyzed loci were polymorphic and a total of 114 alleles were found. the observed average genetic diversity was low (0.4). the results showed that the 100 selected accessions did not exactly follow the geographical distribution. these results were further confirmed by the phylogeny inferred from five morphological characteristics (i.e., leaf shape, leaf area, plant shape, seed area, and 100-seed weight). together, the genetic and morphological evaluations suggested conclusively that the selected population did not follow the geographical distribution pattern. the present study could provide useful information for the ex situ conservation and exploitation of wild soybean accessions in soybean improvement stratagems, and will aid in further understanding about the phylogeography of the species in the korean center of diversity. \u00a9 2017 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "JAPAN", 
+                        "INDONESIA", 
+                        "CHINA", 
+                        "INDIA", 
+                        "SWEDEN", 
+                        "VIETNAM", 
+                        "THAILAND", 
+                        "UNITED KINGDOM", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "MEXICO", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SRI LANKA", 
+                        "BENIN", 
+                        "TURKEY", 
+                        "BHUTAN", 
+                        "BELGIUM", 
+                        "BRAZIL", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "BULGARIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "ANGOLA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GEORGIA", 
+                        "ISRAEL", 
+                        "MONGOLIA", 
+                        "RUSSIAN FEDERATION", 
+                        "TONGA", 
+                        "PERU", 
+                        "UGANDA", 
+                        "MOROCCO", 
+                        "NEPAL", 
+                        "NETHERLANDS", 
+                        "NIGERIA", 
+                        "COLOMBIA", 
+                        "SPAIN", 
+                        "CAMEROON", 
+                        "PAPUA NEW GUINEA", 
+                        "EGYPT", 
+                        "UZBEKISTAN", 
+                        "SOUTH AFRICA", 
+                        "LITHUANIA", 
+                        "LATVIA", 
+                        "KAZAKHSTAN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "CUBA", 
+                        "TAJIKISTAN", 
+                        "DENMARK", 
+                        "PHILIPPINES", 
+                        "KYRGYZSTAN", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BURUNDI", 
+                        "SEYCHELLES", 
+                        "TURKMENISTAN", 
+                        "ECUADOR", 
+                        "SINGAPORE", 
+                        "SLOVAKIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "IRAQ", 
+                        "COSTA RICA", 
+                        "EL SALVADOR", 
+                        "HONG KONG", 
+                        "GUATEMALA", 
+                        "SENEGAL", 
+                        "ZAMBIA", 
+                        "ZIMBABWE", 
+                        "PANAMA", 
+                        "MALAYSIA", 
+                        "BANGLADESH", 
+                        "GUYANA", 
+                        "MALI", 
+                        "SLOVENIA", 
+                        "NORWAY", 
+                        "URUGUAY", 
+                        "BARBADOS", 
+                        "NEW ZEALAND", 
+                        "CAMBODIA", 
+                        "AZERBAIJAN", 
+                        "BELARUS", 
+                        "SURINAME", 
+                        "MOZAMBIQUE", 
+                        "HONDURAS", 
+                        "ALBANIA", 
+                        "ESTONIA", 
+                        "CHILE", 
+                        "LIBERIA", 
+                        "BURKINA FASO", 
+                        "DOMINICAN REPUBLIC", 
+                        "PUERTO RICO", 
+                        "RWANDA", 
+                        "DOMINICA", 
+                        "SERBIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "South Korea", 
+                "nameofficial": "Republic of Korea"
+            }
+        }, 
+        {
+            "index": 47, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -111,7 +303,856 @@
                 ]
             }, 
             "type": "Feature", 
+            "id": 47, 
+            "score": 51, 
+            "data": {
+                "authorsCOO": [
+                    "POLAND", 
+                    "POLAND", 
+                    "POLAND"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "holocene", 
+                "focalspecies": [
+                    "Trichophorum cespitosum", 
+                    "Baeothryon caespitosum", 
+                    "Eriophorum vaginatum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "this study explores the history of the development of sphagnum communities in an ombrotrophic peatland \u2013 bagno kusowo \u2013 over the past 650 years, based on high-resolution plant macrofossil and testate amoebae analysis. our research provided information related to the length of peatland existence and the characteristics of its natural/pristine state before the most recent human impacts. changes in the sphagnum communities before human impact could have resulted from climate cooling during the \u2018little ice age\u2019 (lia). in this cold and unstable hydrological period, among vascular plants, eriophorum vaginatum and baeothryon caespitosum dominated in the peatland vegetation. peat-forming sphagnum communities survived the drainage conducted during the 20th century at the bagno kusowo bog. we provide three important messages through this study: (1) testate amoebae reflect similar hydrological trends in two peat cores despite considerable microhabitat variability, (2) average long-term water level 10 cm below the surface should be a target for active bog conservation and (3) sites like bagno kusowo are extremely important to preserve the remains of pristine biodiversity (including genetic diversity of plants and protists) that was completely removed from most of the raised bogs in europe due to human activities, for example, drainage. \u00a9 2016, \u00a9 the author(s) 2016.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SWEDEN", 
+                        "NORWAY", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
+                        "NETHERLANDS", 
+                        "UNITED STATES", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "BELGIUM", 
+                        "RUSSIAN FEDERATION", 
+                        "ICELAND", 
+                        "CANADA", 
+                        "GREENLAND", 
+                        "CHILE", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "GEORGIA", 
+                        "MYANMAR", 
+                        "GREECE", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "ALGERIA", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "POLAND", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "AZERBAIJAN", 
+                        "RUSSIAN FEDERATION", 
+                        "NETHERLANDS", 
+                        "HUNGARY", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "LUXEMBOURG", 
+                        "CANADA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "IRELAND", 
+                        "DENMARK", 
+                        "TURKEY", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "CHINA", 
+                        "ROMANIA", 
+                        "FINLAND", 
+                        "ICELAND", 
+                        "GREENLAND", 
+                        "ITALY", 
+                        "ESTONIA", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "GREECE", 
+                        "BELARUS", 
+                        "BULGARIA", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "FAROE ISLANDS"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Poland", 
+                "nameofficial": "Republic of Poland"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 237, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 221, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 881, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 46, 
+            "target": 10, 
+            "value": 3
+        }, 
+        {
+            "source": 46, 
+            "target": 8, 
+            "value": 12
+        }, 
+        {
+            "source": 46, 
+            "target": 46, 
+            "value": 20
+        }, 
+        {
+            "source": 47, 
+            "target": 46, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 46, 
+            "value": 3
+        }, 
+        {
+            "source": 46, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 46, 
+            "target": 4, 
+            "value": 2
+        }, 
+        {
+            "source": 46, 
+            "target": 31, 
+            "value": 2
+        }, 
+        {
+            "source": 17, 
+            "target": 46, 
+            "value": 6
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 46, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 46, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "PAKISTAN", 
+                    "SAUDI ARABIA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "PAKISTAN", 
+                    "PAKISTAN", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "current issues in molecular biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "for human food security, the preservation of 7.4 million ex-situ germplasm is a global priority. however, ex situ-conserved seeds are subject to aging, which reduces their viability and ultimately results in the loss of valuable genetic material over long periods. recent progress in seed biology and genomics has revealed new opportunities to improve the long-term storage of ex-situ seed germplasm. this review summarizes the recent improvements in seed physiology and genomics, with the intention of developing genomic tools for evaluating seed aging. several lines of seed biology research have shown promise in retrieving viability signal from various stages of seed germination. we conclude that seed aging is associated with mitochondrial alteration and programmed cell death, dna and enzyme repair, anti-oxidative genes, telomere length, and epigenetic regulation. clearly, opportunities exist for observing seed aging for developing genomic tools to increment the traditional germination test for effective conservation of ex-situ germplasm. \u00a9 2017, caister academic press. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    127.51424646, 
+                    36.56344139
+                ]
+            }, 
+            "type": "Feature", 
             "id": 8, 
+            "score": 30, 
+            "data": {
+                "authorsCOO": [
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "TURKEY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "biochemical systematics and ecology", 
+                "focalspecies": [
+                    "Glycine max"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "korea is considered one of the centers of genetic diversity for cultivated as well as wild soybeans. natural habitats of wild soybeans are distributed across the korean mainland and the islands surrounding the korean peninsula. in this study, the genetic diversity of 100 mainland korean wild soybean accessions was evaluated by using 42 simple sequence repeat markers covering 17 soybean chromosomes. all analyzed loci were polymorphic and a total of 114 alleles were found. the observed average genetic diversity was low (0.4). the results showed that the 100 selected accessions did not exactly follow the geographical distribution. these results were further confirmed by the phylogeny inferred from five morphological characteristics (i.e., leaf shape, leaf area, plant shape, seed area, and 100-seed weight). together, the genetic and morphological evaluations suggested conclusively that the selected population did not follow the geographical distribution pattern. the present study could provide useful information for the ex situ conservation and exploitation of wild soybean accessions in soybean improvement stratagems, and will aid in further understanding about the phylogeography of the species in the korean center of diversity. \u00a9 2017 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "JAPAN", 
+                        "INDONESIA", 
+                        "CHINA", 
+                        "INDIA", 
+                        "SWEDEN", 
+                        "VIETNAM", 
+                        "THAILAND", 
+                        "UNITED KINGDOM", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "MEXICO", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SRI LANKA", 
+                        "BENIN", 
+                        "TURKEY", 
+                        "BHUTAN", 
+                        "BELGIUM", 
+                        "BRAZIL", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "BULGARIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "ANGOLA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GEORGIA", 
+                        "ISRAEL", 
+                        "MONGOLIA", 
+                        "RUSSIAN FEDERATION", 
+                        "TONGA", 
+                        "PERU", 
+                        "UGANDA", 
+                        "MOROCCO", 
+                        "NEPAL", 
+                        "NETHERLANDS", 
+                        "NIGERIA", 
+                        "COLOMBIA", 
+                        "SPAIN", 
+                        "CAMEROON", 
+                        "PAPUA NEW GUINEA", 
+                        "EGYPT", 
+                        "UZBEKISTAN", 
+                        "SOUTH AFRICA", 
+                        "LITHUANIA", 
+                        "LATVIA", 
+                        "KAZAKHSTAN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "CUBA", 
+                        "TAJIKISTAN", 
+                        "DENMARK", 
+                        "PHILIPPINES", 
+                        "KYRGYZSTAN", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BURUNDI", 
+                        "SEYCHELLES", 
+                        "TURKMENISTAN", 
+                        "ECUADOR", 
+                        "SINGAPORE", 
+                        "SLOVAKIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "IRAQ", 
+                        "COSTA RICA", 
+                        "EL SALVADOR", 
+                        "HONG KONG", 
+                        "GUATEMALA", 
+                        "SENEGAL", 
+                        "ZAMBIA", 
+                        "ZIMBABWE", 
+                        "PANAMA", 
+                        "MALAYSIA", 
+                        "BANGLADESH", 
+                        "GUYANA", 
+                        "MALI", 
+                        "SLOVENIA", 
+                        "NORWAY", 
+                        "URUGUAY", 
+                        "BARBADOS", 
+                        "NEW ZEALAND", 
+                        "CAMBODIA", 
+                        "AZERBAIJAN", 
+                        "BELARUS", 
+                        "SURINAME", 
+                        "MOZAMBIQUE", 
+                        "HONDURAS", 
+                        "ALBANIA", 
+                        "ESTONIA", 
+                        "CHILE", 
+                        "LIBERIA", 
+                        "BURKINA FASO", 
+                        "DOMINICAN REPUBLIC", 
+                        "PUERTO RICO", 
+                        "RWANDA", 
+                        "DOMINICA", 
+                        "SERBIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "South Korea", 
+                "nameofficial": "Republic of Korea"
+            }
+        }, 
+        {
+            "index": 47, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.33190957, 
+                    52.10117636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 47, 
             "score": 21, 
             "data": {
                 "authorsCOO": [
@@ -119,51 +1160,96 @@
                     "POLAND", 
                     "POLAND"
                 ], 
-                "genetictool": [
-                    "amplified fragment length polymorphism", 
-                    "chloroplast DNA", 
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "tree genetics and genomes", 
+                "journal": "holocene", 
                 "focalspecies": [
-                    "Salix myrsinifolia"
+                    "Trichophorum cespitosum", 
+                    "Baeothryon caespitosum", 
+                    "Eriophorum vaginatum"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "abstracttext": "this study explores the history of the development of sphagnum communities in an ombrotrophic peatland \u2013 bagno kusowo \u2013 over the past 650 years, based on high-resolution plant macrofossil and testate amoebae analysis. our research provided information related to the length of peatland existence and the characteristics of its natural/pristine state before the most recent human impacts. changes in the sphagnum communities before human impact could have resulted from climate cooling during the \u2018little ice age\u2019 (lia). in this cold and unstable hydrological period, among vascular plants, eriophorum vaginatum and baeothryon caespitosum dominated in the peatland vegetation. peat-forming sphagnum communities survived the drainage conducted during the 20th century at the bagno kusowo bog. we provide three important messages through this study: (1) testate amoebae reflect similar hydrological trends in two peat cores despite considerable microhabitat variability, (2) average long-term water level 10 cm below the surface should be a target for active bog conservation and (3) sites like bagno kusowo are extremely important to preserve the remains of pristine biodiversity (including genetic diversity of plants and protists) that was completely removed from most of the raised bogs in europe due to human activities, for example, drainage. \u00a9 2016, \u00a9 the author(s) 2016.", 
                 "focalspeciesCOO": [
                     [
-                        "UNITED KINGDOM", 
+                        "FRANCE", 
                         "SWEDEN", 
                         "NORWAY", 
-                        "AUSTRIA", 
                         "GERMANY", 
                         "SWITZERLAND", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "DENMARK", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
                         "NETHERLANDS", 
-                        "FINLAND", 
-                        "ITALY", 
-                        "IRELAND", 
-                        "ICELAND", 
-                        "POLAND", 
-                        "LITHUANIA", 
-                        "SPAIN", 
                         "UNITED STATES", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "\u00c5LAND ISLANDS", 
-                        "ESTONIA", 
-                        "CZECH REPUBLIC", 
-                        "ANDORRA", 
-                        "BELARUS", 
-                        "LATVIA", 
-                        "UKRAINE", 
-                        "AUSTRALIA", 
-                        "AFGHANISTAN", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "BELGIUM", 
+                        "RUSSIAN FEDERATION", 
+                        "ICELAND", 
                         "CANADA", 
-                        "SLOVENIA"
+                        "GREENLAND", 
+                        "CHILE", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "GEORGIA", 
+                        "MYANMAR", 
+                        "GREECE", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "ALGERIA", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "POLAND", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "AZERBAIJAN", 
+                        "RUSSIAN FEDERATION", 
+                        "NETHERLANDS", 
+                        "HUNGARY", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "LUXEMBOURG", 
+                        "CANADA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "IRELAND", 
+                        "DENMARK", 
+                        "TURKEY", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "CHINA", 
+                        "ROMANIA", 
+                        "FINLAND", 
+                        "ICELAND", 
+                        "GREENLAND", 
+                        "ITALY", 
+                        "ESTONIA", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "GREECE", 
+                        "BELARUS", 
+                        "BULGARIA", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "FAROE ISLANDS"
                     ]
                 ]
             }, 
@@ -177,236 +1263,180 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    10.97887975, 
-                    50.82871201
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 4, 
-            "score": 117, 
-            "data": {
-                "authorsCOO": [
-                    "GERMANY", 
-                    "GERMANY"
-                ], 
-                "genetictool": [
-                    "DNA"
-                ], 
-                "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
-            }, 
-            "properties": {
-                "name": "Germany", 
-                "nameofficial": "Federal Republic of Germany"
-            }
-        }, 
-        {
-            "index": 3, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -102.3925645, 
-                    37.66895362
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 3, 
-            "score": 423, 
-            "data": {
-                "authorsCOO": [
-                    "UNITED STATES", 
-                    "UNITED STATES", 
-                    "UNITED STATES"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "United States", 
-                "nameofficial": "United States of America"
-            }
-        }, 
-        {
-            "index": 13, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     133.55540944, 
                     -26.29594646
                 ]
             }, 
             "type": "Feature", 
-            "id": 13, 
-            "score": 60, 
+            "id": 4, 
+            "score": 75, 
             "data": {
                 "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
                     "AUSTRALIA"
                 ], 
-                "genetictool": [
-                    "DArT", 
-                    "QTL"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "plant pathology", 
+                "journal": "crop protection", 
                 "focalspecies": [
-                    "Triticum aestivum"
+                    "Gossypium hirsutum"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
                 "focalspeciesCOO": [
                     [
                         "AUSTRALIA", 
-                        "HUNGARY", 
-                        "GERMANY", 
-                        "INDIA", 
-                        "CHINA", 
-                        "GREECE", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "SWEDEN", 
                         "MEXICO", 
-                        "UNITED STATES", 
-                        "ROMANIA", 
-                        "SPAIN", 
-                        "SWITZERLAND", 
-                        "MOROCCO", 
-                        "EGYPT", 
-                        "IRAQ", 
-                        "TURKEY", 
-                        "LIBYA", 
-                        "SUDAN", 
-                        "ZIMBABWE", 
-                        "NEPAL", 
-                        "AFGHANISTAN", 
-                        "NORWAY", 
-                        "AUSTRIA", 
-                        "NETHERLANDS", 
-                        "JAPAN", 
-                        "SAUDI ARABIA", 
-                        "UGANDA", 
-                        "SOUTH AFRICA", 
-                        "UNITED KINGDOM", 
-                        "ARMENIA", 
-                        "UKRAINE", 
-                        "KAZAKHSTAN", 
-                        "GEORGIA", 
-                        "POLAND", 
-                        "UZBEKISTAN", 
-                        "KYRGYZSTAN", 
-                        "LATVIA", 
-                        "FINLAND", 
-                        "CANADA", 
-                        "TURKMENISTAN", 
-                        "ARGENTINA", 
-                        "PORTUGAL", 
-                        "ALGERIA", 
-                        "BELGIUM", 
-                        "TAJIKISTAN", 
-                        "MONGOLIA", 
-                        "ITALY", 
-                        "AZERBAIJAN", 
-                        "BULGARIA", 
-                        "DENMARK", 
-                        "PAKISTAN", 
-                        "ISRAEL", 
-                        "GUATEMALA", 
-                        "COLOMBIA", 
-                        "TUNISIA", 
-                        "LEBANON", 
-                        "SYRIAN ARAB REPUBLIC", 
-                        "JORDAN", 
-                        "CYPRUS", 
-                        "ETHIOPIA", 
-                        "KENYA", 
-                        "ESTONIA", 
-                        "BRAZIL", 
-                        "URUGUAY", 
-                        "CHILE", 
-                        "PERU", 
-                        "MAURITANIA", 
-                        "LITHUANIA", 
-                        "ALBANIA", 
-                        "ZAMBIA", 
-                        "SAN MARINO", 
-                        "NEW ZEALAND", 
-                        "CHAD", 
                         "ECUADOR", 
-                        "YEMEN", 
-                        "BANGLADESH", 
-                        "PARAGUAY", 
-                        "THAILAND", 
-                        "SLOVAKIA", 
-                        "CZECH REPUBLIC", 
-                        "CROATIA", 
-                        "NIGERIA", 
-                        "IRELAND", 
-                        "LUXEMBOURG", 
-                        "BELARUS", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "SLOVENIA", 
-                        "ANGOLA", 
-                        "LESOTHO", 
-                        "ERITREA", 
-                        "NEW CALEDONIA", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
                         "INDONESIA", 
-                        "GIBRALTAR", 
-                        "BHUTAN", 
-                        "OMAN", 
-                        "ICELAND", 
-                        "BURUNDI", 
-                        "HONDURAS", 
-                        "KUWAIT", 
-                        "SERBIA", 
-                        "LIECHTENSTEIN", 
-                        "ANTIGUA AND BARBUDA", 
-                        "CUBA", 
-                        "BAHRAIN", 
-                        "MADAGASCAR", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
                         "PHILIPPINES", 
-                        "MALI", 
-                        "MALTA", 
-                        "SWAZILAND", 
-                        "HOLY SEE (VATICAN CITY STATE)", 
+                        "GUATEMALA", 
+                        "HAITI", 
                         "COSTA RICA", 
-                        "NIGER", 
-                        "FRENCH SOUTHERN TERRITORIES", 
+                        "PUERTO RICO", 
                         "EL SALVADOR", 
-                        "MONTENEGRO", 
-                        "MYANMAR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
                         "DOMINICAN REPUBLIC", 
-                        "CAMEROON"
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
                     ]
                 ]
             }, 
@@ -414,83 +1444,143 @@
                 "name": "Australia", 
                 "nameofficial": "Australia"
             }
-        }
-    ], 
-    "links": [
-        {
-            "source": 2, 
-            "target": 36, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 21, 
-            "value": 1
-        }, 
-        {
-            "source": 8, 
-            "target": 36, 
-            "value": 1
-        }, 
-        {
-            "source": 4, 
-            "target": 36, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 3, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 13, 
-            "value": 3
-        }, 
-        {
-            "source": 36, 
-            "target": 36, 
-            "value": 6
-        }
-    ]
-},
-{
-    "field": "firstauthor", 
-    "nodes": [
-        {
-            "index": 36, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    70.34487986, 
-                    29.90335974
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 36, 
-            "score": 2, 
-            "data": {
-                "authorsCOO": [
-                    "CHINA", 
-                    "PAKISTAN", 
-                    "IRAN"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "saudi journal of biological sciences", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "Pakistan", 
-                "nameofficial": "Islamic Republic of Pakistan"
-            }
         }, 
         {
             "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 53, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 17, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -499,278 +1589,67 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 2, 
-            "score": 134, 
+            "id": 17, 
+            "score": 372, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
-                    "CHINA", 
                     "CHINA"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "ecological modelling", 
+                "journal": "applied energy", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "genetically engineered crops with insecticidal toxins derived from the bacterium bacillus thuringiensis (bt) have been planted in the world for two decades, aiming to control some major insect pests. while the bt-crop strategy has been generally successful, a potential risk is the evolution of insect resistance to bt crops. modeling has been one of the main approaches to assessing the risk. to date, however, the importance of spatial heterogeneity in small-holder farm systems has not been adequately addressed. to address the question we developed and analyzed a spatially explicit model of insect population dynamics and genetics in which the proportion of bt crops (pbt) is spatially heterogeneous (hd) or homogeneous (ud). we found that in both single- and two-locus models, the time it takes for insect to evolve regional resistance (ttr) varies among different hd patterns. the ttr could differ considerably between the case of hd and that of ud, depending on both spatial and non-spatial conditions. under some conditions, regional evolution of resistance was much faster in the case of hd than in the case of ud. the difference between the two cases was caused by gene spread from hotspots of resistant alleles where the local pbt is much higher than average. our results suggest that the spatial heterogeneity of pbt may significantly affect the speed of regional resistance and therefore is an important factor that should be taken into account for quantitative predictions as well as for design of resistance management strategies. \u00a9 2017 elsevier b.v.", 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "China", 
                 "nameofficial": "People's Republic of China"
             }
-        }, 
-        {
-            "index": 8, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    19.33190957, 
-                    52.10117636
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 8, 
-            "score": 9, 
-            "data": {
-                "authorsCOO": [
-                    "POLAND", 
-                    "POLAND", 
-                    "POLAND"
-                ], 
-                "genetictool": [
-                    "amplified fragment length polymorphism", 
-                    "chloroplast DNA", 
-                    "DNA"
-                ], 
-                "fundingorganization": "", 
-                "journal": "tree genetics and genomes", 
-                "focalspecies": [
-                    "Salix myrsinifolia"
-                ], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
-                "focalspeciesCOO": [
-                    [
-                        "UNITED KINGDOM", 
-                        "SWEDEN", 
-                        "NORWAY", 
-                        "AUSTRIA", 
-                        "GERMANY", 
-                        "SWITZERLAND", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "DENMARK", 
-                        "NETHERLANDS", 
-                        "FINLAND", 
-                        "ITALY", 
-                        "IRELAND", 
-                        "ICELAND", 
-                        "POLAND", 
-                        "LITHUANIA", 
-                        "SPAIN", 
-                        "UNITED STATES", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "\u00c5LAND ISLANDS", 
-                        "ESTONIA", 
-                        "CZECH REPUBLIC", 
-                        "ANDORRA", 
-                        "BELARUS", 
-                        "LATVIA", 
-                        "UKRAINE", 
-                        "AUSTRALIA", 
-                        "AFGHANISTAN", 
-                        "CANADA", 
-                        "SLOVENIA"
-                    ]
-                ]
-            }, 
-            "properties": {
-                "name": "Poland", 
-                "nameofficial": "Republic of Poland"
-            }
-        }, 
-        {
-            "index": 13, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    133.55540944, 
-                    -26.29594646
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 13, 
-            "score": 21, 
-            "data": {
-                "authorsCOO": [
-                    "AUSTRALIA"
-                ], 
-                "genetictool": [
-                    "DArT", 
-                    "QTL"
-                ], 
-                "fundingorganization": "", 
-                "journal": "plant pathology", 
-                "focalspecies": [
-                    "Triticum aestivum"
-                ], 
-                "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
-                "focalspeciesCOO": [
-                    [
-                        "AUSTRALIA", 
-                        "HUNGARY", 
-                        "GERMANY", 
-                        "INDIA", 
-                        "CHINA", 
-                        "GREECE", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "SWEDEN", 
-                        "MEXICO", 
-                        "UNITED STATES", 
-                        "ROMANIA", 
-                        "SPAIN", 
-                        "SWITZERLAND", 
-                        "MOROCCO", 
-                        "EGYPT", 
-                        "IRAQ", 
-                        "TURKEY", 
-                        "LIBYA", 
-                        "SUDAN", 
-                        "ZIMBABWE", 
-                        "NEPAL", 
-                        "AFGHANISTAN", 
-                        "NORWAY", 
-                        "AUSTRIA", 
-                        "NETHERLANDS", 
-                        "JAPAN", 
-                        "SAUDI ARABIA", 
-                        "UGANDA", 
-                        "SOUTH AFRICA", 
-                        "UNITED KINGDOM", 
-                        "ARMENIA", 
-                        "UKRAINE", 
-                        "KAZAKHSTAN", 
-                        "GEORGIA", 
-                        "POLAND", 
-                        "UZBEKISTAN", 
-                        "KYRGYZSTAN", 
-                        "LATVIA", 
-                        "FINLAND", 
-                        "CANADA", 
-                        "TURKMENISTAN", 
-                        "ARGENTINA", 
-                        "PORTUGAL", 
-                        "ALGERIA", 
-                        "BELGIUM", 
-                        "TAJIKISTAN", 
-                        "MONGOLIA", 
-                        "ITALY", 
-                        "AZERBAIJAN", 
-                        "BULGARIA", 
-                        "DENMARK", 
-                        "PAKISTAN", 
-                        "ISRAEL", 
-                        "GUATEMALA", 
-                        "COLOMBIA", 
-                        "TUNISIA", 
-                        "LEBANON", 
-                        "SYRIAN ARAB REPUBLIC", 
-                        "JORDAN", 
-                        "CYPRUS", 
-                        "ETHIOPIA", 
-                        "KENYA", 
-                        "ESTONIA", 
-                        "BRAZIL", 
-                        "URUGUAY", 
-                        "CHILE", 
-                        "PERU", 
-                        "MAURITANIA", 
-                        "LITHUANIA", 
-                        "ALBANIA", 
-                        "ZAMBIA", 
-                        "SAN MARINO", 
-                        "NEW ZEALAND", 
-                        "CHAD", 
-                        "ECUADOR", 
-                        "YEMEN", 
-                        "BANGLADESH", 
-                        "PARAGUAY", 
-                        "THAILAND", 
-                        "SLOVAKIA", 
-                        "CZECH REPUBLIC", 
-                        "CROATIA", 
-                        "NIGERIA", 
-                        "IRELAND", 
-                        "LUXEMBOURG", 
-                        "BELARUS", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "SLOVENIA", 
-                        "ANGOLA", 
-                        "LESOTHO", 
-                        "ERITREA", 
-                        "NEW CALEDONIA", 
-                        "INDONESIA", 
-                        "GIBRALTAR", 
-                        "BHUTAN", 
-                        "OMAN", 
-                        "ICELAND", 
-                        "BURUNDI", 
-                        "HONDURAS", 
-                        "KUWAIT", 
-                        "SERBIA", 
-                        "LIECHTENSTEIN", 
-                        "ANTIGUA AND BARBUDA", 
-                        "CUBA", 
-                        "BAHRAIN", 
-                        "MADAGASCAR", 
-                        "PHILIPPINES", 
-                        "MALI", 
-                        "MALTA", 
-                        "SWAZILAND", 
-                        "HOLY SEE (VATICAN CITY STATE)", 
-                        "COSTA RICA", 
-                        "NIGER", 
-                        "FRENCH SOUTHERN TERRITORIES", 
-                        "EL SALVADOR", 
-                        "MONTENEGRO", 
-                        "MYANMAR", 
-                        "DOMINICAN REPUBLIC", 
-                        "CAMEROON"
-                    ]
-                ]
-            }, 
-            "properties": {
-                "name": "Australia", 
-                "nameofficial": "Australia"
-            }
         }
     ], 
     "links": [
         {
-            "source": 2, 
-            "target": 36, 
+            "source": 46, 
+            "target": 10, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 36, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 13, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 36, 
+            "source": 46, 
+            "target": 8, 
             "value": 4
+        }, 
+        {
+            "source": 46, 
+            "target": 46, 
+            "value": 13
+        }, 
+        {
+            "source": 47, 
+            "target": 46, 
+            "value": 1
+        }, 
+        {
+            "source": 46, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 46, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 46, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 17, 
+            "target": 46, 
+            "value": 2
         }
     ]
 },
@@ -778,7 +1657,7 @@
     "field": "lastauthor", 
     "nodes": [
         {
-            "index": 36, 
+            "index": 46, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -787,21 +1666,28 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 36, 
-            "score": 2, 
+            "id": 46, 
+            "score": 8, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
                     "PAKISTAN", 
-                    "IRAN"
+                    "SAUDI ARABIA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "PAKISTAN", 
+                    "PAKISTAN", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "DNA"
+                ], 
                 "fundingorganization": "", 
-                "journal": "saudi journal of biological sciences", 
+                "journal": "current issues in molecular biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "abstracttext": "for human food security, the preservation of 7.4 million ex-situ germplasm is a global priority. however, ex situ-conserved seeds are subject to aging, which reduces their viability and ultimately results in the loss of valuable genetic material over long periods. recent progress in seed biology and genomics has revealed new opportunities to improve the long-term storage of ex-situ seed germplasm. this review summarizes the recent improvements in seed physiology and genomics, with the intention of developing genomic tools for evaluating seed aging. several lines of seed biology research have shown promise in retrieving viability signal from various stages of seed germination. we conclude that seed aging is associated with mitochondrial alteration and programmed cell death, dna and enzyme repair, anti-oxidative genes, telomere length, and epigenetic regulation. clearly, opportunities exist for observing seed aging for developing genomic tools to increment the traditional germination test for effective conservation of ex-situ germplasm. \u00a9 2017, caister academic press. all rights reserved.", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -810,42 +1696,162 @@
             }
         }, 
         {
-            "index": 21, 
+            "index": 8, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    51.28204814, 
-                    31.40240324
+                    127.51424646, 
+                    36.56344139
                 ]
             }, 
             "type": "Feature", 
-            "id": 21, 
-            "score": 9, 
+            "id": 8, 
+            "score": 30, 
             "data": {
                 "authorsCOO": [
-                    "IRAN", 
-                    "ITALY", 
-                    "IRAN"
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "TURKEY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
                 ], 
                 "genetictool": [
                     "simple sequence repeat", 
-                    "ISSR"
+                    "microsatellite"
                 ], 
                 "fundingorganization": "", 
-                "journal": "european journal of plant pathology", 
-                "focalspecies": [], 
+                "journal": "biochemical systematics and ecology", 
+                "focalspecies": [
+                    "Glycine max"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "anthracnose caused by colletotrichum spp. is one of main strawberry diseases worldwide. the disease recently arrived in iran and become epidemic in the kurdistan province. a combination of morphological, molecular and pathogen-host interaction approaches (referred to the consolidated species concept) were applied to isolates from symptomatic strawberry tissues collected in iran. multi-gene phylogenetic analysis based on its-rdna, beta-tubulin (tub2) and glyceraldehyde-3-phosphate dehydrogenase (gapdh) identified the species as the s5 clade of colletotrichum nymphaeae. no significant intraspecies variation was observed in terms of morphology and pathogenicity. no significant genetic variation was observed among the isolates using inter simple sequence repeat analysis (issr) and primer pair combination of eric1/box and eric2/box fingerprinting markers. based on the results of this study, it can be postulated that the c. nymphaeae population in iran established itself from a single origin due to a founder effect. more generally, molecular dating based on relaxed clocks indicates co-radiation of c. nymphaeae s5 and strawberry plants and suggests high reciprocal specificity between the host and pathogen. \u00a9 2016, koninklijke nederlandse planteziektenkundige vereniging.", 
-                "focalspeciesCOO": []
+                "abstracttext": "korea is considered one of the centers of genetic diversity for cultivated as well as wild soybeans. natural habitats of wild soybeans are distributed across the korean mainland and the islands surrounding the korean peninsula. in this study, the genetic diversity of 100 mainland korean wild soybean accessions was evaluated by using 42 simple sequence repeat markers covering 17 soybean chromosomes. all analyzed loci were polymorphic and a total of 114 alleles were found. the observed average genetic diversity was low (0.4). the results showed that the 100 selected accessions did not exactly follow the geographical distribution. these results were further confirmed by the phylogeny inferred from five morphological characteristics (i.e., leaf shape, leaf area, plant shape, seed area, and 100-seed weight). together, the genetic and morphological evaluations suggested conclusively that the selected population did not follow the geographical distribution pattern. the present study could provide useful information for the ex situ conservation and exploitation of wild soybean accessions in soybean improvement stratagems, and will aid in further understanding about the phylogeography of the species in the korean center of diversity. \u00a9 2017 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "JAPAN", 
+                        "INDONESIA", 
+                        "CHINA", 
+                        "INDIA", 
+                        "SWEDEN", 
+                        "VIETNAM", 
+                        "THAILAND", 
+                        "UNITED KINGDOM", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "UNITED STATES", 
+                        "HUNGARY", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "KENYA", 
+                        "CROATIA", 
+                        "POLAND", 
+                        "UKRAINE", 
+                        "MEXICO", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "SRI LANKA", 
+                        "BENIN", 
+                        "TURKEY", 
+                        "BHUTAN", 
+                        "BELGIUM", 
+                        "BRAZIL", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "BULGARIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "ANGOLA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GEORGIA", 
+                        "ISRAEL", 
+                        "MONGOLIA", 
+                        "RUSSIAN FEDERATION", 
+                        "TONGA", 
+                        "PERU", 
+                        "UGANDA", 
+                        "MOROCCO", 
+                        "NEPAL", 
+                        "NETHERLANDS", 
+                        "NIGERIA", 
+                        "COLOMBIA", 
+                        "SPAIN", 
+                        "CAMEROON", 
+                        "PAPUA NEW GUINEA", 
+                        "EGYPT", 
+                        "UZBEKISTAN", 
+                        "SOUTH AFRICA", 
+                        "LITHUANIA", 
+                        "LATVIA", 
+                        "KAZAKHSTAN", 
+                        "ITALY", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "ALGERIA", 
+                        "CUBA", 
+                        "TAJIKISTAN", 
+                        "DENMARK", 
+                        "PHILIPPINES", 
+                        "KYRGYZSTAN", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BURUNDI", 
+                        "SEYCHELLES", 
+                        "TURKMENISTAN", 
+                        "ECUADOR", 
+                        "SINGAPORE", 
+                        "SLOVAKIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "IRAQ", 
+                        "COSTA RICA", 
+                        "EL SALVADOR", 
+                        "HONG KONG", 
+                        "GUATEMALA", 
+                        "SENEGAL", 
+                        "ZAMBIA", 
+                        "ZIMBABWE", 
+                        "PANAMA", 
+                        "MALAYSIA", 
+                        "BANGLADESH", 
+                        "GUYANA", 
+                        "MALI", 
+                        "SLOVENIA", 
+                        "NORWAY", 
+                        "URUGUAY", 
+                        "BARBADOS", 
+                        "NEW ZEALAND", 
+                        "CAMBODIA", 
+                        "AZERBAIJAN", 
+                        "BELARUS", 
+                        "SURINAME", 
+                        "MOZAMBIQUE", 
+                        "HONDURAS", 
+                        "ALBANIA", 
+                        "ESTONIA", 
+                        "CHILE", 
+                        "LIBERIA", 
+                        "BURKINA FASO", 
+                        "DOMINICAN REPUBLIC", 
+                        "PUERTO RICO", 
+                        "RWANDA", 
+                        "DOMINICA", 
+                        "SERBIA"
+                    ]
+                ]
             }, 
             "properties": {
-                "name": "Iran", 
-                "nameofficial": "Islamic Republic of Iran"
+                "name": "South Korea", 
+                "nameofficial": "Republic of Korea"
             }
         }, 
         {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -854,22 +1860,29 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 151, 
+            "id": 18, 
+            "score": 301, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
@@ -877,184 +1890,199 @@
             }
         }, 
         {
-            "index": 13, 
+            "index": 32, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    133.55540944, 
-                    -26.29594646
+                    2.60926281, 
+                    46.48372145
                 ]
             }, 
             "type": "Feature", 
-            "id": 13, 
-            "score": 21, 
+            "id": 32, 
+            "score": 57, 
             "data": {
                 "authorsCOO": [
-                    "AUSTRALIA"
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
                 ], 
-                "genetictool": [
-                    "DArT", 
-                    "QTL"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "plant pathology", 
-                "focalspecies": [
-                    "Triticum aestivum"
-                ], 
+                "journal": "genome biology", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "this is the first genetic study reporting on the interaction and molecular mapping of resistance to the barley grass stripe rust pathogen (puccinia striiformis f. sp. pseudo-hordei, psph) in common wheat. seedlings of 638 wheat accessions were tested and it was determined that wheat is a near-nonhost to psph based on rare susceptibility observed in <2% of commercial cultivars and <5% of wheat landraces. as previously observed for p. striiformis f. sp. tritici (pst), the australian cultivar teal was highly susceptible to psph. in contrast, a selection of cv. avocet carrying complementary resistance genes yr73 and yr74 (avocet r; avr) was resistant. the teal\u00a0\u00d7\u00a0avr (t/a) doubled haploid (dh) population was used to map resistance in avr to psph. infection types on the t/a dh lines inoculated with psph and pst indicated that all dh lines carrying both yr73 and yr74 were also resistant to psph; however, fewer dh lines were susceptible to psph than expected, suggesting the resistance was more complex. qtl analysis using 9053 dart-seq markers determined that resistance to psph was polygenically inherited and mapped to chromosomes 3a, 3d, 4a and 5b. the 3dl and 5bl markers co-located with yr73 and yr74, suggesting an overlap between host and non-host resistance mechanisms. \u00a9 2016 british society for plant pathology", 
-                "focalspeciesCOO": [
-                    [
-                        "AUSTRALIA", 
-                        "HUNGARY", 
-                        "GERMANY", 
-                        "INDIA", 
-                        "CHINA", 
-                        "GREECE", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "SWEDEN", 
-                        "MEXICO", 
-                        "UNITED STATES", 
-                        "ROMANIA", 
-                        "SPAIN", 
-                        "SWITZERLAND", 
-                        "MOROCCO", 
-                        "EGYPT", 
-                        "IRAQ", 
-                        "TURKEY", 
-                        "LIBYA", 
-                        "SUDAN", 
-                        "ZIMBABWE", 
-                        "NEPAL", 
-                        "AFGHANISTAN", 
-                        "NORWAY", 
-                        "AUSTRIA", 
-                        "NETHERLANDS", 
-                        "JAPAN", 
-                        "SAUDI ARABIA", 
-                        "UGANDA", 
-                        "SOUTH AFRICA", 
-                        "UNITED KINGDOM", 
-                        "ARMENIA", 
-                        "UKRAINE", 
-                        "KAZAKHSTAN", 
-                        "GEORGIA", 
-                        "POLAND", 
-                        "UZBEKISTAN", 
-                        "KYRGYZSTAN", 
-                        "LATVIA", 
-                        "FINLAND", 
-                        "CANADA", 
-                        "TURKMENISTAN", 
-                        "ARGENTINA", 
-                        "PORTUGAL", 
-                        "ALGERIA", 
-                        "BELGIUM", 
-                        "TAJIKISTAN", 
-                        "MONGOLIA", 
-                        "ITALY", 
-                        "AZERBAIJAN", 
-                        "BULGARIA", 
-                        "DENMARK", 
-                        "PAKISTAN", 
-                        "ISRAEL", 
-                        "GUATEMALA", 
-                        "COLOMBIA", 
-                        "TUNISIA", 
-                        "LEBANON", 
-                        "SYRIAN ARAB REPUBLIC", 
-                        "JORDAN", 
-                        "CYPRUS", 
-                        "ETHIOPIA", 
-                        "KENYA", 
-                        "ESTONIA", 
-                        "BRAZIL", 
-                        "URUGUAY", 
-                        "CHILE", 
-                        "PERU", 
-                        "MAURITANIA", 
-                        "LITHUANIA", 
-                        "ALBANIA", 
-                        "ZAMBIA", 
-                        "SAN MARINO", 
-                        "NEW ZEALAND", 
-                        "CHAD", 
-                        "ECUADOR", 
-                        "YEMEN", 
-                        "BANGLADESH", 
-                        "PARAGUAY", 
-                        "THAILAND", 
-                        "SLOVAKIA", 
-                        "CZECH REPUBLIC", 
-                        "CROATIA", 
-                        "NIGERIA", 
-                        "IRELAND", 
-                        "LUXEMBOURG", 
-                        "BELARUS", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "SLOVENIA", 
-                        "ANGOLA", 
-                        "LESOTHO", 
-                        "ERITREA", 
-                        "NEW CALEDONIA", 
-                        "INDONESIA", 
-                        "GIBRALTAR", 
-                        "BHUTAN", 
-                        "OMAN", 
-                        "ICELAND", 
-                        "BURUNDI", 
-                        "HONDURAS", 
-                        "KUWAIT", 
-                        "SERBIA", 
-                        "LIECHTENSTEIN", 
-                        "ANTIGUA AND BARBUDA", 
-                        "CUBA", 
-                        "BAHRAIN", 
-                        "MADAGASCAR", 
-                        "PHILIPPINES", 
-                        "MALI", 
-                        "MALTA", 
-                        "SWAZILAND", 
-                        "HOLY SEE (VATICAN CITY STATE)", 
-                        "COSTA RICA", 
-                        "NIGER", 
-                        "FRENCH SOUTHERN TERRITORIES", 
-                        "EL SALVADOR", 
-                        "MONTENEGRO", 
-                        "MYANMAR", 
-                        "DOMINICAN REPUBLIC", 
-                        "CAMEROON"
-                    ]
-                ]
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
-                "name": "Australia", 
-                "nameofficial": "Australia"
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 328, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 328, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
             }
         }
     ], 
     "links": [
         {
-            "source": 21, 
-            "target": 36, 
+            "source": 8, 
+            "target": 46, 
+            "value": 3
+        }, 
+        {
+            "source": 18, 
+            "target": 46, 
             "value": 1
         }, 
         {
-            "source": 3, 
-            "target": 36, 
-            "value": 1
+            "source": 32, 
+            "target": 46, 
+            "value": 2
         }, 
         {
-            "source": 36, 
-            "target": 13, 
-            "value": 1
-        }, 
-        {
-            "source": 36, 
-            "target": 36, 
+            "source": 46, 
+            "target": 17, 
             "value": 4
+        }, 
+        {
+            "source": 46, 
+            "target": 46, 
+            "value": 10
+        }, 
+        {
+            "source": 17, 
+            "target": 46, 
+            "value": 1
         }
     ]
 }

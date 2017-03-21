@@ -3,7 +3,7 @@
     "field": "authors", 
     "nodes": [
         {
-            "index": 74, 
+            "index": 41, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -12,23 +12,25 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 74, 
+            "id": 41, 
             "score": 3, 
             "data": {
                 "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
                     "PUERTO RICO", 
-                    "PUERTO RICO"
+                    "UNITED STATES", 
+                    "UNITED STATES"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
                 "fundingorganization": "", 
-                "journal": "environmental conservation", 
+                "journal": "bmc genomics", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "year": 2017, 
+                "abstracttext": "background: the usda agriculture research service national plant germplasm system (npgs) preserves the largest sorghum germplasm collection in the world, which includes 7,217 accessions from the center of diversity in ethiopia. the characterization of this exotic germplasm at a genome-wide scale will improve conservation efforts and its utilization in research and breeding programs. therefore, we phenotyped a representative core set of 374 ethiopian accessions at two locations for agronomic traits and characterized the genomes. results: using genotyping-by-sequencing, we identified 148,476 single-nucleotide polymorphism (snp) markers distributed across the entire genome. over half of the alleles were rare (frequency &lt; 0.05). the genetic profile of each accession was unique (i.e., no duplicates), and the average genetic distance among accessions was 0.70. based on population structure and cluster analyses, we separated the collection into 11 populations with pairwise f st values ranging from 0.11 to 0.47. in total, 198 accessions (53%) were assigned to one of these populations with an ancestry membership coefficient of larger than 0.60; these covered 90% of the total genomic variation. we characterized these populations based on agronomic and seed compositional traits. we performed a cluster analysis with the sorghum association panel based on 26,026 snps and determined that nine of the ethiopian populations expanded the genetic diversity in the panel. genome-wide association analysis demonstrated that these low-coverage data and the observed population structure could be employed for the genomic dissection of important phenotypes in this core set of ethiopian sorghum germplasm. conclusions: the npgs ethiopian sorghum germplasm is a genetically and phenotypically diverse collection comprising 11 populations with high levels of admixture. genetic associations with agronomic traits can be used to improve the screening of exotic germplasm for selection of specific populations. we detected many rare alleles, suggesting that this germplasm contains potentially useful undiscovered alleles, but their discovery and characterization will require extensive effort. the genotypic data available for these accessions provide a valuable resource for sorghum breeders and geneticists to effectively improve crops. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -37,125 +39,7 @@
             }
         }, 
         {
-            "index": 73, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -84.09949534, 
-                    9.98427463
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 73, 
-            "score": 2, 
-            "data": {
-                "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
-                    "PUERTO RICO", 
-                    "PUERTO RICO"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "environmental conservation", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "Costa Rica", 
-                "nameofficial": "Republic of Costa Rica"
-            }
-        }, 
-        {
-            "index": 58, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -76.15772412, 
-                    -8.50205247
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 58, 
-            "score": 4, 
-            "data": {
-                "authorsCOO": [
-                    "COLOMBIA", 
-                    "BELGIUM", 
-                    "SPAIN", 
-                    "KENYA", 
-                    "BOLIVIA", 
-                    "ECUADOR", 
-                    "ECUADOR", 
-                    "PERU"
-                ], 
-                "genetictool": [
-                    "microsatellite", 
-                    "molecular marker"
-                ], 
-                "fundingorganization": "", 
-                "journal": "plos one", 
-                "focalspecies": [
-                    "Annona cherimola"
-                ], 
-                "fundingCOO": [], 
-                "year": 2012, 
-                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
-                "focalspeciesCOO": [
-                    [
-                        "DOMINICAN REPUBLIC", 
-                        "MEXICO", 
-                        "UNITED STATES", 
-                        "UNITED KINGDOM", 
-                        "SPAIN", 
-                        "R\u00c9UNION", 
-                        "ETHIOPIA", 
-                        "ECUADOR", 
-                        "NETHERLANDS", 
-                        "JAMAICA", 
-                        "INDIA", 
-                        "CHINA", 
-                        "GERMANY", 
-                        "NICARAGUA", 
-                        "COLOMBIA", 
-                        "BRAZIL", 
-                        "EL SALVADOR", 
-                        "NEW ZEALAND", 
-                        "PORTUGAL", 
-                        "PERU", 
-                        "CHILE", 
-                        "COSTA RICA", 
-                        "ITALY", 
-                        "HAITI", 
-                        "TURKEY", 
-                        "SEYCHELLES", 
-                        "HONDURAS", 
-                        "PANAMA", 
-                        "GUATEMALA", 
-                        "BELIZE", 
-                        "ALGERIA", 
-                        "SRI LANKA", 
-                        "SOUTH AFRICA", 
-                        "AUSTRALIA", 
-                        "MADAGASCAR", 
-                        "SWEDEN", 
-                        "ARGENTINA", 
-                        "BERMUDA", 
-                        "EGYPT"
-                    ]
-                ]
-            }, 
-            "properties": {
-                "name": "Peru", 
-                "nameofficial": "Republic of Peru"
-            }
-        }, 
-        {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -164,48 +48,148 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 423, 
+            "id": 18, 
+            "score": 873, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
                 "nameofficial": "United States of America"
             }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 221, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
         }
     ], 
     "links": [
         {
-            "source": 73, 
-            "target": 74, 
-            "value": 2
+            "source": 41, 
+            "target": 18, 
+            "value": 7
         }, 
         {
-            "source": 58, 
-            "target": 74, 
-            "value": 2
-        }, 
-        {
-            "source": 3, 
-            "target": 74, 
-            "value": 4
-        }, 
-        {
-            "source": 74, 
-            "target": 74, 
+            "source": 31, 
+            "target": 41, 
             "value": 1
         }
     ]
@@ -214,7 +198,7 @@
     "field": "firstauthor", 
     "nodes": [
         {
-            "index": 74, 
+            "index": 41, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -223,23 +207,25 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 74, 
-            "score": 0, 
+            "id": 41, 
+            "score": 1, 
             "data": {
                 "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
                     "PUERTO RICO", 
-                    "PUERTO RICO"
+                    "UNITED STATES", 
+                    "UNITED STATES"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
                 "fundingorganization": "", 
-                "journal": "environmental conservation", 
+                "journal": "bmc genomics", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "year": 2017, 
+                "abstracttext": "background: the usda agriculture research service national plant germplasm system (npgs) preserves the largest sorghum germplasm collection in the world, which includes 7,217 accessions from the center of diversity in ethiopia. the characterization of this exotic germplasm at a genome-wide scale will improve conservation efforts and its utilization in research and breeding programs. therefore, we phenotyped a representative core set of 374 ethiopian accessions at two locations for agronomic traits and characterized the genomes. results: using genotyping-by-sequencing, we identified 148,476 single-nucleotide polymorphism (snp) markers distributed across the entire genome. over half of the alleles were rare (frequency &lt; 0.05). the genetic profile of each accession was unique (i.e., no duplicates), and the average genetic distance among accessions was 0.70. based on population structure and cluster analyses, we separated the collection into 11 populations with pairwise f st values ranging from 0.11 to 0.47. in total, 198 accessions (53%) were assigned to one of these populations with an ancestry membership coefficient of larger than 0.60; these covered 90% of the total genomic variation. we characterized these populations based on agronomic and seed compositional traits. we performed a cluster analysis with the sorghum association panel based on 26,026 snps and determined that nine of the ethiopian populations expanded the genetic diversity in the panel. genome-wide association analysis demonstrated that these low-coverage data and the observed population structure could be employed for the genomic dissection of important phenotypes in this core set of ethiopian sorghum germplasm. conclusions: the npgs ethiopian sorghum germplasm is a genetically and phenotypically diverse collection comprising 11 populations with high levels of admixture. genetic associations with agronomic traits can be used to improve the screening of exotic germplasm for selection of specific populations. we detected many rare alleles, suggesting that this germplasm contains potentially useful undiscovered alleles, but their discovery and characterization will require extensive effort. the genotypic data available for these accessions provide a valuable resource for sorghum breeders and geneticists to effectively improve crops. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -248,41 +234,7 @@
             }
         }, 
         {
-            "index": 73, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -84.09949534, 
-                    9.98427463
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 73, 
-            "score": 1, 
-            "data": {
-                "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
-                    "PUERTO RICO", 
-                    "PUERTO RICO"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "environmental conservation", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "Costa Rica", 
-                "nameofficial": "Republic of Costa Rica"
-            }
-        }, 
-        {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -291,38 +243,192 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 136, 
+            "id": 18, 
+            "score": 248, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
                 "nameofficial": "United States of America"
             }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 248, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 53, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
         }
     ], 
     "links": [
         {
-            "source": 73, 
-            "target": 74, 
+            "source": 41, 
+            "target": 18, 
             "value": 2
         }, 
         {
-            "source": 3, 
-            "target": 74, 
+            "source": 18, 
+            "target": 41, 
+            "value": 1
+        }, 
+        {
+            "source": 31, 
+            "target": 41, 
             "value": 1
         }
     ]
@@ -331,7 +437,7 @@
     "field": "lastauthor", 
     "nodes": [
         {
-            "index": 73, 
+            "index": 41, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -340,23 +446,25 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 73, 
-            "score": 2, 
+            "id": 41, 
+            "score": 1, 
             "data": {
                 "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
                     "PUERTO RICO", 
-                    "PUERTO RICO"
+                    "UNITED STATES", 
+                    "UNITED STATES"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "single nucleotide polymorphism", 
+                    "genetic marker", 
+                    "SNP"
+                ], 
                 "fundingorganization": "", 
-                "journal": "environmental conservation", 
+                "journal": "bmc genomics", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
+                "year": 2017, 
+                "abstracttext": "background: the usda agriculture research service national plant germplasm system (npgs) preserves the largest sorghum germplasm collection in the world, which includes 7,217 accessions from the center of diversity in ethiopia. the characterization of this exotic germplasm at a genome-wide scale will improve conservation efforts and its utilization in research and breeding programs. therefore, we phenotyped a representative core set of 374 ethiopian accessions at two locations for agronomic traits and characterized the genomes. results: using genotyping-by-sequencing, we identified 148,476 single-nucleotide polymorphism (snp) markers distributed across the entire genome. over half of the alleles were rare (frequency &lt; 0.05). the genetic profile of each accession was unique (i.e., no duplicates), and the average genetic distance among accessions was 0.70. based on population structure and cluster analyses, we separated the collection into 11 populations with pairwise f st values ranging from 0.11 to 0.47. in total, 198 accessions (53%) were assigned to one of these populations with an ancestry membership coefficient of larger than 0.60; these covered 90% of the total genomic variation. we characterized these populations based on agronomic and seed compositional traits. we performed a cluster analysis with the sorghum association panel based on 26,026 snps and determined that nine of the ethiopian populations expanded the genetic diversity in the panel. genome-wide association analysis demonstrated that these low-coverage data and the observed population structure could be employed for the genomic dissection of important phenotypes in this core set of ethiopian sorghum germplasm. conclusions: the npgs ethiopian sorghum germplasm is a genetically and phenotypically diverse collection comprising 11 populations with high levels of admixture. genetic associations with agronomic traits can be used to improve the screening of exotic germplasm for selection of specific populations. we detected many rare alleles, suggesting that this germplasm contains potentially useful undiscovered alleles, but their discovery and characterization will require extensive effort. the genotypic data available for these accessions provide a valuable resource for sorghum breeders and geneticists to effectively improve crops. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -365,125 +473,7 @@
             }
         }, 
         {
-            "index": 74, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -84.09949534, 
-                    9.98427463
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 74, 
-            "score": 0, 
-            "data": {
-                "authorsCOO": [
-                    "COSTA RICA", 
-                    "PERU", 
-                    "UNITED STATES", 
-                    "PUERTO RICO", 
-                    "PUERTO RICO"
-                ], 
-                "genetictool": [], 
-                "fundingorganization": "", 
-                "journal": "environmental conservation", 
-                "focalspecies": [], 
-                "fundingCOO": [], 
-                "year": 2005, 
-                "abstracttext": "one concern in the ongoing debate over the conservation status of mahogany has been the possibility that selective logging, as a form of negative phenotypic selection, might have led to deterioration in the genetic quality of populations. the incidence and degree of such 'dysgenic' effects is discussed, based on a consideration of mahogany logging practices, their expected genetic effects and empirical data on phenotypic selection in forest trees. loggers have tended to avoid diseased, small, very large and poorly-formed individuals, and consequently logging has tended to increase the proportion of poor quality phenotypes relative to that before logging; in at least some conditions, selection differentials have been strongly negative. however, the upper limit for heritability of logger-selected traits in naturally-regenerated mahogany is probably no more than c. 0.1. consequently, and assuming relatively extreme but realistic negative selection differentials of 50%, the maximum negative dysgenic response to a single logging-mediated phenotypic selection event is expected to be relatively small, i.e. \u22645%. this expectation is consistent with the empirical information from mahogany and other taxa. the implications of any dysgenic effects depend very much on the use and the future of dysgenically-selected populations. in managed populations, dysgenic effects could be reversed through positive selection. in the case of exploited but currently unmanaged natural populations, dysgenic selection is primarily of importance insofar as it affects fitness. as a threat to mahogany conservation and long-term sustainable production, it is probably insignificant in comparison with other genetic and non-genetic factors. \u00a9 2005 foundation for environmental conservation.", 
-                "focalspeciesCOO": []
-            }, 
-            "properties": {
-                "name": "Costa Rica", 
-                "nameofficial": "Republic of Costa Rica"
-            }
-        }, 
-        {
-            "index": 56, 
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -76.15772412, 
-                    -8.50205247
-                ]
-            }, 
-            "type": "Feature", 
-            "id": 56, 
-            "score": 2, 
-            "data": {
-                "authorsCOO": [
-                    "COLOMBIA", 
-                    "BELGIUM", 
-                    "SPAIN", 
-                    "KENYA", 
-                    "BOLIVIA", 
-                    "ECUADOR", 
-                    "ECUADOR", 
-                    "PERU"
-                ], 
-                "genetictool": [
-                    "microsatellite", 
-                    "molecular marker"
-                ], 
-                "fundingorganization": "", 
-                "journal": "plos one", 
-                "focalspecies": [
-                    "Annona cherimola"
-                ], 
-                "fundingCOO": [], 
-                "year": 2012, 
-                "abstracttext": "there is a growing call for inventories that evaluate geographic patterns in diversity of plant genetic resources maintained on farm and in species' natural populations in order to enhance their use and conservation. such evaluations are relevant for useful tropical and subtropical tree species, as many of these species are still undomesticated, or in incipient stages of domestication and local populations can offer yet-unknown traits of high value to further domestication. for many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is important to sustain local production. diversity is also crucial for species to adapt to environmental changes. this paper explores the possibilities of incorporating molecular marker data into geographic information systems (gis) to allow visualization and better understanding of spatial patterns of genetic diversity as a key input to optimize conservation and use of plant genetic resources, based on a case study of cherimoya (annona cherimola mill.), a neotropical fruit tree species. we present spatial analyses to (1) improve the understanding of spatial distribution of genetic diversity of cherimoya natural stands and cultivated trees in ecuador, bolivia and peru based on microsatellite molecular markers (ssrs); and (2) formulate optimal conservation strategies by revealing priority areas for in situ conservation, and identifying existing diversity gaps in ex situ collections. we found high levels of allelic richness, locally common alleles and expected heterozygosity in cherimoya's putative centre of origin, southern ecuador and northern peru, whereas levels of diversity in southern peru and especially in bolivia were significantly lower. the application of gis on a large microsatellite dataset allows a more detailed prioritization of areas for in situ conservation and targeted collection across the andean distribution range of cherimoya than previous studies could do, i.e. at province and department level in ecuador and peru, respectively. \u00a9 2012 van zonneveld et al.", 
-                "focalspeciesCOO": [
-                    [
-                        "DOMINICAN REPUBLIC", 
-                        "MEXICO", 
-                        "UNITED STATES", 
-                        "UNITED KINGDOM", 
-                        "SPAIN", 
-                        "R\u00c9UNION", 
-                        "ETHIOPIA", 
-                        "ECUADOR", 
-                        "NETHERLANDS", 
-                        "JAMAICA", 
-                        "INDIA", 
-                        "CHINA", 
-                        "GERMANY", 
-                        "NICARAGUA", 
-                        "COLOMBIA", 
-                        "BRAZIL", 
-                        "EL SALVADOR", 
-                        "NEW ZEALAND", 
-                        "PORTUGAL", 
-                        "PERU", 
-                        "CHILE", 
-                        "COSTA RICA", 
-                        "ITALY", 
-                        "HAITI", 
-                        "TURKEY", 
-                        "SEYCHELLES", 
-                        "HONDURAS", 
-                        "PANAMA", 
-                        "GUATEMALA", 
-                        "BELIZE", 
-                        "ALGERIA", 
-                        "SRI LANKA", 
-                        "SOUTH AFRICA", 
-                        "AUSTRALIA", 
-                        "MADAGASCAR", 
-                        "SWEDEN", 
-                        "ARGENTINA", 
-                        "BERMUDA", 
-                        "EGYPT"
-                    ]
-                ]
-            }, 
-            "properties": {
-                "name": "Peru", 
-                "nameofficial": "Republic of Peru"
-            }
-        }, 
-        {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -492,48 +482,148 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 151, 
+            "id": 18, 
+            "score": 301, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
                 "nameofficial": "United States of America"
             }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 57, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
         }
     ], 
     "links": [
         {
-            "source": 73, 
-            "target": 74, 
-            "value": 1
+            "source": 18, 
+            "target": 41, 
+            "value": 2
         }, 
         {
-            "source": 73, 
-            "target": 56, 
-            "value": 1
-        }, 
-        {
-            "source": 73, 
-            "target": 3, 
-            "value": 3
-        }, 
-        {
-            "source": 73, 
-            "target": 73, 
+            "source": 41, 
+            "target": 32, 
             "value": 1
         }
     ]

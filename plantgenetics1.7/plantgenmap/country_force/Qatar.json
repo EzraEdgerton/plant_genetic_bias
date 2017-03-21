@@ -3,7 +3,7 @@
     "field": "authors", 
     "nodes": [
         {
-            "index": 49, 
+            "index": 109, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -12,7 +12,7 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 49, 
+            "id": 109, 
             "score": 5, 
             "data": {
                 "authorsCOO": [
@@ -116,7 +116,7 @@
             }
         }, 
         {
-            "index": 4, 
+            "index": 2, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -125,43 +125,21 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 4, 
-            "score": 117, 
+            "id": 2, 
+            "score": 252, 
             "data": {
                 "authorsCOO": [
-                    "GERMANY", 
+                    "AUSTRIA", 
                     "GERMANY"
                 ], 
-                "genetictool": [
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "Germany", 
@@ -171,13 +149,13 @@
     ], 
     "links": [
         {
-            "source": 49, 
-            "target": 4, 
+            "source": 109, 
+            "target": 2, 
             "value": 5
         }, 
         {
-            "source": 49, 
-            "target": 49, 
+            "source": 109, 
+            "target": 109, 
             "value": 10
         }
     ]
@@ -186,7 +164,7 @@
     "field": "firstauthor", 
     "nodes": [
         {
-            "index": 49, 
+            "index": 109, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -195,7 +173,7 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 49, 
+            "id": 109, 
             "score": 1, 
             "data": {
                 "authorsCOO": [
@@ -299,7 +277,7 @@
             }
         }, 
         {
-            "index": 4, 
+            "index": 2, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -308,43 +286,21 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 4, 
-            "score": 48, 
+            "id": 2, 
+            "score": 67, 
             "data": {
                 "authorsCOO": [
-                    "GERMANY", 
+                    "AUSTRIA", 
                     "GERMANY"
                 ], 
-                "genetictool": [
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "Germany", 
@@ -354,13 +310,13 @@
     ], 
     "links": [
         {
-            "source": 49, 
-            "target": 4, 
+            "source": 109, 
+            "target": 2, 
             "value": 1
         }, 
         {
-            "source": 49, 
-            "target": 49, 
+            "source": 109, 
+            "target": 109, 
             "value": 4
         }
     ]
@@ -369,7 +325,7 @@
     "field": "lastauthor", 
     "nodes": [
         {
-            "index": 49, 
+            "index": 109, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -378,7 +334,7 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 49, 
+            "id": 109, 
             "score": 1, 
             "data": {
                 "authorsCOO": [
@@ -482,7 +438,7 @@
             }
         }, 
         {
-            "index": 4, 
+            "index": 1, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -491,43 +447,21 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 4, 
-            "score": 47, 
+            "id": 1, 
+            "score": 78, 
             "data": {
                 "authorsCOO": [
-                    "GERMANY", 
+                    "AUSTRIA", 
                     "GERMANY"
                 ], 
-                "genetictool": [
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "Germany", 
@@ -537,13 +471,13 @@
     ], 
     "links": [
         {
-            "source": 49, 
-            "target": 4, 
+            "source": 109, 
+            "target": 1, 
             "value": 1
         }, 
         {
-            "source": 49, 
-            "target": 49, 
+            "source": 109, 
+            "target": 109, 
             "value": 4
         }
     ]

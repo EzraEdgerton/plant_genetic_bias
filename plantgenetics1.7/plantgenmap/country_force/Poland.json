@@ -3,7 +3,7 @@
     "field": "authors", 
     "nodes": [
         {
-            "index": 8, 
+            "index": 47, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -12,59 +12,104 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 8, 
-            "score": 21, 
+            "id": 47, 
+            "score": 51, 
             "data": {
                 "authorsCOO": [
                     "POLAND", 
                     "POLAND", 
                     "POLAND"
                 ], 
-                "genetictool": [
-                    "amplified fragment length polymorphism", 
-                    "chloroplast DNA", 
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "tree genetics and genomes", 
+                "journal": "holocene", 
                 "focalspecies": [
-                    "Salix myrsinifolia"
+                    "Trichophorum cespitosum", 
+                    "Baeothryon caespitosum", 
+                    "Eriophorum vaginatum"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "abstracttext": "this study explores the history of the development of sphagnum communities in an ombrotrophic peatland \u2013 bagno kusowo \u2013 over the past 650 years, based on high-resolution plant macrofossil and testate amoebae analysis. our research provided information related to the length of peatland existence and the characteristics of its natural/pristine state before the most recent human impacts. changes in the sphagnum communities before human impact could have resulted from climate cooling during the \u2018little ice age\u2019 (lia). in this cold and unstable hydrological period, among vascular plants, eriophorum vaginatum and baeothryon caespitosum dominated in the peatland vegetation. peat-forming sphagnum communities survived the drainage conducted during the 20th century at the bagno kusowo bog. we provide three important messages through this study: (1) testate amoebae reflect similar hydrological trends in two peat cores despite considerable microhabitat variability, (2) average long-term water level 10 cm below the surface should be a target for active bog conservation and (3) sites like bagno kusowo are extremely important to preserve the remains of pristine biodiversity (including genetic diversity of plants and protists) that was completely removed from most of the raised bogs in europe due to human activities, for example, drainage. \u00a9 2016, \u00a9 the author(s) 2016.", 
                 "focalspeciesCOO": [
                     [
-                        "UNITED KINGDOM", 
+                        "FRANCE", 
                         "SWEDEN", 
                         "NORWAY", 
-                        "AUSTRIA", 
                         "GERMANY", 
                         "SWITZERLAND", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "DENMARK", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
                         "NETHERLANDS", 
-                        "FINLAND", 
-                        "ITALY", 
-                        "IRELAND", 
-                        "ICELAND", 
-                        "POLAND", 
-                        "LITHUANIA", 
-                        "SPAIN", 
                         "UNITED STATES", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "\u00c5LAND ISLANDS", 
-                        "ESTONIA", 
-                        "CZECH REPUBLIC", 
-                        "ANDORRA", 
-                        "BELARUS", 
-                        "LATVIA", 
-                        "UKRAINE", 
-                        "AUSTRALIA", 
-                        "AFGHANISTAN", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "BELGIUM", 
+                        "RUSSIAN FEDERATION", 
+                        "ICELAND", 
                         "CANADA", 
-                        "SLOVENIA"
+                        "GREENLAND", 
+                        "CHILE", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "GEORGIA", 
+                        "MYANMAR", 
+                        "GREECE", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "ALGERIA", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "POLAND", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "AZERBAIJAN", 
+                        "RUSSIAN FEDERATION", 
+                        "NETHERLANDS", 
+                        "HUNGARY", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "LUXEMBOURG", 
+                        "CANADA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "IRELAND", 
+                        "DENMARK", 
+                        "TURKEY", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "CHINA", 
+                        "ROMANIA", 
+                        "FINLAND", 
+                        "ICELAND", 
+                        "GREENLAND", 
+                        "ITALY", 
+                        "ESTONIA", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "GREECE", 
+                        "BELARUS", 
+                        "BULGARIA", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "FAROE ISLANDS"
                     ]
                 ]
             }, 
@@ -74,37 +119,110 @@
             }
         }, 
         {
-            "index": 7, 
+            "index": 28, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -2.72184767, 
-                    53.36540813
+                    19.35499657, 
+                    46.97670384
                 ]
             }, 
             "type": "Feature", 
-            "id": 7, 
-            "score": 92, 
+            "id": 28, 
+            "score": 21, 
             "data": {
                 "authorsCOO": [
-                    "UNITED KINGDOM"
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "journal": "genome biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
-                "name": "United Kingdom", 
-                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
             }
         }, 
         {
-            "index": 4, 
+            "index": 2, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -113,43 +231,21 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 4, 
-            "score": 117, 
+            "id": 2, 
+            "score": 252, 
             "data": {
                 "authorsCOO": [
-                    "GERMANY", 
+                    "AUSTRIA", 
                     "GERMANY"
                 ], 
-                "genetictool": [
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "Germany", 
@@ -157,7 +253,7 @@
             }
         }, 
         {
-            "index": 36, 
+            "index": 46, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -166,21 +262,28 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 36, 
-            "score": 8, 
+            "id": 46, 
+            "score": 25, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
                     "PAKISTAN", 
-                    "IRAN"
+                    "SAUDI ARABIA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "PAKISTAN", 
+                    "PAKISTAN", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "DNA"
+                ], 
                 "fundingorganization": "", 
-                "journal": "saudi journal of biological sciences", 
+                "journal": "current issues in molecular biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "abstracttext": "for human food security, the preservation of 7.4 million ex-situ germplasm is a global priority. however, ex situ-conserved seeds are subject to aging, which reduces their viability and ultimately results in the loss of valuable genetic material over long periods. recent progress in seed biology and genomics has revealed new opportunities to improve the long-term storage of ex-situ seed germplasm. this review summarizes the recent improvements in seed physiology and genomics, with the intention of developing genomic tools for evaluating seed aging. several lines of seed biology research have shown promise in retrieving viability signal from various stages of seed germination. we conclude that seed aging is associated with mitochondrial alteration and programmed cell death, dna and enzyme repair, anti-oxidative genes, telomere length, and epigenetic regulation. clearly, opportunities exist for observing seed aging for developing genomic tools to increment the traditional germination test for effective conservation of ex-situ germplasm. \u00a9 2017, caister academic press. all rights reserved.", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -189,7 +292,7 @@
             }
         }, 
         {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -198,22 +301,29 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 423, 
+            "id": 18, 
+            "score": 873, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
@@ -221,7 +331,7 @@
             }
         }, 
         {
-            "index": 16, 
+            "index": 11, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -230,75 +340,38 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 16, 
-            "score": 26, 
+            "id": 11, 
+            "score": 49, 
             "data": {
                 "authorsCOO": [
-                    "ITALY", 
-                    "CZECH REPUBLIC"
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
                 ], 
                 "genetictool": [
-                    "DNA", 
-                    "RNA"
+                    "AFLP"
                 ], 
                 "fundingorganization": "", 
-                "journal": "soil biology and biochemistry", 
+                "journal": "plant systematics and evolution", 
                 "focalspecies": [
-                    "Picea abies"
+                    "Vavilovia formosa"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "cellulose is the most abundant polysaccharide in the dead plant biomass, and its degradation is an important part of global carbon cycle. \u03b2-glucosidases complete the final step of cellulose hydrolysis by converting cellobiose to glucose. genetic potential and expression of \u03b2-glucosidase genes were studied in the topsoil of a picea abies forest in two contrasting seasons. these seasons were the summer, representing the peak of plant photosynthetic activity, and late winter, after an extended period with no photosynthate input. fungal and bacterial \u03b2-glucosidase genes belonging to glycoside hydrolase families gh1 and gh3 amplified from dna and rna and amplicon pools were analyzed. transcript pool were largely corresponded to gene pools, although some abundant transcripts were not found in the gene pool. the major reservoirs of \u03b2-glucosidase genes were the fungal phylum ascomycota and basidiomycota and the bacterial phyla firmicutes, actinobacteria, proteobacteria acidobacteria and deinococcus-thermus. this indicates that a diverse microbial community utilized cellobiose. seasonality influenced both genetic diversity of \u03b2-glucosidase genes and their expression. the results indicate that a complex community of bacteria and fungi expresses \u03b2-glucosidases in forest soils. even \u03b2-glucosidase genes showing low abundance in dna may be functionally important as revealed by their high expression especially in basidiomycota. the functional diversity in the studied ecosystem clearly exhibited a seasonal pattern. \u00a9 2016 elsevier ltd", 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
                 "focalspeciesCOO": [
                     [
-                        "FRANCE", 
-                        "AUSTRALIA", 
-                        "NORWAY", 
-                        "SWEDEN", 
-                        "GERMANY", 
-                        "SWITZERLAND", 
-                        "AUSTRIA", 
-                        "RUSSIAN FEDERATION", 
-                        "CZECH REPUBLIC", 
-                        "ITALY", 
-                        "BULGARIA", 
-                        "UNITED STATES", 
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
                         "UNITED KINGDOM", 
-                        "NETHERLANDS", 
-                        "SPAIN", 
-                        "SLOVAKIA", 
-                        "LUXEMBOURG", 
-                        "BELGIUM", 
-                        "JAPAN", 
-                        "FINLAND", 
-                        "SERBIA", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "POLAND", 
-                        "CANADA", 
-                        "CHINA", 
-                        "DENMARK", 
-                        "IRELAND", 
-                        "SLOVENIA", 
-                        "NEW ZEALAND", 
-                        "LITHUANIA", 
-                        "ROMANIA", 
-                        "BELARUS", 
-                        "GREECE", 
-                        "INDIA", 
-                        "PAKISTAN", 
-                        "PORTUGAL", 
-                        "CROATIA", 
-                        "PANAMA", 
-                        "UKRAINE", 
-                        "ESTONIA", 
-                        "BHUTAN", 
-                        "MEXICO", 
-                        "ICELAND", 
-                        "KAZAKHSTAN", 
-                        "ALBANIA", 
-                        "HUNGARY", 
-                        "ANDORRA", 
-                        "ARGENTINA"
+                        "RUSSIAN FEDERATION"
                     ]
                 ]
             }, 
@@ -308,48 +381,147 @@
             }
         }, 
         {
-            "index": 17, 
+            "index": 71, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.469936, 
-                    50.49593874
+                    121.10884043, 
+                    23.71891402
                 ]
             }, 
             "type": "Feature", 
-            "id": 17, 
-            "score": 34, 
+            "id": 71, 
+            "score": 40, 
             "data": {
                 "authorsCOO": [
-                    "BELGIUM", 
-                    "BELGIUM", 
-                    "BELGIUM", 
-                    "CAMEROON", 
-                    "FRANCE", 
-                    "BELGIUM", 
-                    "BENIN", 
-                    "UNITED KINGDOM", 
-                    "NETHERLANDS", 
-                    "BELGIUM"
+                    "TAIWAN", 
+                    "UNITED STATES"
                 ], 
                 "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "simple sequence repeat", 
+                    "ISSR", 
+                    "RAPD", 
                     "DNA"
                 ], 
                 "fundingorganization": "", 
-                "journal": "molecular phylogenetics and evolution", 
+                "journal": "international journal of molecular sciences", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
-                "year": 2017, 
-                "abstracttext": "polyploidy has rarely been documented in rain forest trees but it has recently been found in african species of the genus afzelia (leguminosae), which is composed of four tetraploid rain forest species and two diploid dry forest species. the genus afzelia thus provides an opportunity to examine how and when polyploidy and habitat shift occurred in africa, and whether they are associated. in this study, we combined three plastid markers (psba, trnl, ndhf), two nuclear markers (ribosomal its and the single-copy pepc e7 gene), plastomes (obtained by high throughput sequencing) and morphological traits, with an extensive taxonomic and geographic sampling to explore the evolutionary history of afzelia. both nuclear dna and morphological vegetative characters separated diploid from tetraploid lineages. although the two african diploid species were well differentiated genetically and morphologically, the relationships among the tetraploid species were not resolved. in contrast to the nuclear markers, plastid markers revealed that one of the diploid species forms a well-supported clade with the tetraploids, suggesting historical hybridisation, possibly in relation with genome duplication (polyploidization) and habitat shift from dry to rain forests. molecular dating based on fossil-anchored gene phylogenies indicates that extant afzelia started diverging c. 14.5 or 20 ma while extant tetraploid species started diverging c. 7.0 or 9.4 ma according to plastid and nuclear dna, respectively. additional studies of tropical polyploid plants are needed to assess whether the ploidy-habitat association observed in african afzelia would reflect a role of polyploidization in niche divergence in the tropics. \u00a9 2016 elsevier inc.", 
+                "year": 2016, 
+                "abstracttext": "the genus chrysodracon has six endemic species in the hawaii islands. chrysodracon hawaiiensis is endemic to hawaii island and was described as a distinct species in 1980. it was listed as an endangered species on the international union for the conservation of nature and natural resources (iucn) red list in 1997. this woody plant species was, at one time, common in exposed dry forests, but it became very rare due to grazing pressure and human development. the tree species chrysodracon auwahiensis (c. auwahiensis), endemic to maui and molokai, still has large adult populations in dry lands of the islands, but unfortunately no regeneration from seed has been reported in those areas for many years. the two endemic species were examined using the molecular technique of random amplified polymorphic dna (rapd) and inter simple sequence repeats (issr) to determine the genetic structure of the populations and the amount of variation. both species possess similar genetic structure. larger and smaller populations of both species contain similar levels of genetic diversity as determined by the number of polymorphic loci, estimated heterozygosity, and shannon\u2019s index of genetic diversity. although population diversity of chrysodracon hawaiiensis (c. hawaiiensis) is thought to have remained near pre-disturbance levels, population size continues to decline as recruitment is either absent or does not keep pace with senescence of mature plants. conservation recommendations for both species are suggested. \u00a9 2016 by the authors; licensee mdpi, basel, switzerland.", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
-                "name": "Belgium", 
-                "nameofficial": "Kingdom of Belgium"
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
             }
         }, 
         {
-            "index": 9, 
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 221, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 22, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -358,20 +530,47 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 9, 
-            "score": 21, 
+            "id": 22, 
+            "score": 42, 
             "data": {
                 "authorsCOO": [
-                    "SWEDEN"
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "current opinion in plant biology", 
-                "focalspecies": [], 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "plant development requires specific cells to be eliminated in a predictable and genetically regulated manner referred to as programmed cell death (pcd). however, the target cells do not merely die but they also undergo autolysis to degrade their cellular corpses. recent progress in understanding developmental cell elimination suggests that distinct proteins execute pcd sensu stricto and autolysis. in addition, cell death alone and cell dismantlement can fulfill different functions. hence, it appears biologically meaningful to distinguish between the modules of pcd and autolysis during plant development. \u00a9 2016 the author(s)", 
-                "focalspeciesCOO": []
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "Sweden", 
@@ -379,7 +578,96 @@
             }
         }, 
         {
-            "index": 1, 
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "BULGARIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of genetics", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "transposable elements usually comprise the most abundant nongenic fraction of eukaryotic genomes. because of their capacity to selfreplicate and to induce a wide range of mutations, transposable elements have long been considered as \u2018parasitic\u2019 or \u2018selfish\u2019. today, we recognize that the findings about genomic changes affected by transposable elements have considerably altered our view of the ways in which genomes evolve and work. numerous studies have provided evidences that mobile elements have the potential to act as agents of evolution by increasing, rearranging and diversifying the genetic repertoire of their hosts. with large-scale sequencing becoming increasingly available, more and more scientists come across transposable element sequences in their data. i will provide examples that transposable elements, although having signatures of \u2018selfish\u2019 dna, play a significant biological role in the maintainance of genome integrity and providing novel regulatoty networks. these features, along with the transpositional and mutagenic capacity to produce a raw genetic diversity, make the genome mobile fraction, a key player in species adaptation and microevolution. the last but not least, transposable elements stand as informative dna markers that may complement other conventional dna markers. altogether, transposable elements represent a promising, but still largely unexplored research niche and deserve to be included into the agenda of molecular ecologists, evolutionary geneticists, conservation biologists and plant breeders. \u00a9 2016, indian academy of sciences.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 63, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 0, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -388,8 +676,8 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 1, 
-            "score": 50, 
+            "id": 0, 
+            "score": 190, 
             "data": {
                 "authorsCOO": [
                     "ITALY", 
@@ -416,52 +704,314 @@
                 "name": "Italy", 
                 "nameofficial": "Republic of Italy"
             }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 233, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 357, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
         }
     ], 
     "links": [
         {
-            "source": 8, 
-            "target": 8, 
+            "source": 47, 
+            "target": 47, 
+            "value": 41
+        }, 
+        {
+            "source": 47, 
+            "target": 28, 
             "value": 11
         }, 
         {
-            "source": 7, 
-            "target": 8, 
+            "source": 47, 
+            "target": 2, 
+            "value": 4
+        }, 
+        {
+            "source": 47, 
+            "target": 46, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 18, 
             "value": 3
         }, 
         {
-            "source": 8, 
-            "target": 4, 
+            "source": 47, 
+            "target": 11, 
+            "value": 2
+        }, 
+        {
+            "source": 47, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 47, 
+            "target": 31, 
+            "value": 2
+        }, 
+        {
+            "source": 47, 
+            "target": 22, 
+            "value": 6
+        }, 
+        {
+            "source": 58, 
+            "target": 47, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 36, 
+            "source": 24, 
+            "target": 47, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 3, 
-            "value": 16
-        }, 
-        {
-            "source": 8, 
-            "target": 16, 
+            "source": 47, 
+            "target": 0, 
             "value": 1
         }, 
         {
-            "source": 17, 
-            "target": 8, 
-            "value": 1
+            "source": 47, 
+            "target": 15, 
+            "value": 3
         }, 
         {
-            "source": 9, 
-            "target": 8, 
-            "value": 1
-        }, 
-        {
-            "source": 8, 
-            "target": 1, 
+            "source": 5, 
+            "target": 47, 
             "value": 1
         }
     ]
@@ -470,7 +1020,7 @@
     "field": "firstauthor", 
     "nodes": [
         {
-            "index": 8, 
+            "index": 47, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -479,59 +1029,104 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 8, 
-            "score": 9, 
+            "id": 47, 
+            "score": 21, 
             "data": {
                 "authorsCOO": [
                     "POLAND", 
                     "POLAND", 
                     "POLAND"
                 ], 
-                "genetictool": [
-                    "amplified fragment length polymorphism", 
-                    "chloroplast DNA", 
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "tree genetics and genomes", 
+                "journal": "holocene", 
                 "focalspecies": [
-                    "Salix myrsinifolia"
+                    "Trichophorum cespitosum", 
+                    "Baeothryon caespitosum", 
+                    "Eriophorum vaginatum"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "abstracttext": "this study explores the history of the development of sphagnum communities in an ombrotrophic peatland \u2013 bagno kusowo \u2013 over the past 650 years, based on high-resolution plant macrofossil and testate amoebae analysis. our research provided information related to the length of peatland existence and the characteristics of its natural/pristine state before the most recent human impacts. changes in the sphagnum communities before human impact could have resulted from climate cooling during the \u2018little ice age\u2019 (lia). in this cold and unstable hydrological period, among vascular plants, eriophorum vaginatum and baeothryon caespitosum dominated in the peatland vegetation. peat-forming sphagnum communities survived the drainage conducted during the 20th century at the bagno kusowo bog. we provide three important messages through this study: (1) testate amoebae reflect similar hydrological trends in two peat cores despite considerable microhabitat variability, (2) average long-term water level 10 cm below the surface should be a target for active bog conservation and (3) sites like bagno kusowo are extremely important to preserve the remains of pristine biodiversity (including genetic diversity of plants and protists) that was completely removed from most of the raised bogs in europe due to human activities, for example, drainage. \u00a9 2016, \u00a9 the author(s) 2016.", 
                 "focalspeciesCOO": [
                     [
-                        "UNITED KINGDOM", 
+                        "FRANCE", 
                         "SWEDEN", 
                         "NORWAY", 
-                        "AUSTRIA", 
                         "GERMANY", 
                         "SWITZERLAND", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "DENMARK", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
                         "NETHERLANDS", 
-                        "FINLAND", 
-                        "ITALY", 
-                        "IRELAND", 
-                        "ICELAND", 
-                        "POLAND", 
-                        "LITHUANIA", 
-                        "SPAIN", 
                         "UNITED STATES", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "\u00c5LAND ISLANDS", 
-                        "ESTONIA", 
-                        "CZECH REPUBLIC", 
-                        "ANDORRA", 
-                        "BELARUS", 
-                        "LATVIA", 
-                        "UKRAINE", 
-                        "AUSTRALIA", 
-                        "AFGHANISTAN", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "BELGIUM", 
+                        "RUSSIAN FEDERATION", 
+                        "ICELAND", 
                         "CANADA", 
-                        "SLOVENIA"
+                        "GREENLAND", 
+                        "CHILE", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "GEORGIA", 
+                        "MYANMAR", 
+                        "GREECE", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "ALGERIA", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "POLAND", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "AZERBAIJAN", 
+                        "RUSSIAN FEDERATION", 
+                        "NETHERLANDS", 
+                        "HUNGARY", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "LUXEMBOURG", 
+                        "CANADA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "IRELAND", 
+                        "DENMARK", 
+                        "TURKEY", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "CHINA", 
+                        "ROMANIA", 
+                        "FINLAND", 
+                        "ICELAND", 
+                        "GREENLAND", 
+                        "ITALY", 
+                        "ESTONIA", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "GREECE", 
+                        "BELARUS", 
+                        "BULGARIA", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "FAROE ISLANDS"
                     ]
                 ]
             }, 
@@ -541,37 +1136,110 @@
             }
         }, 
         {
-            "index": 7, 
+            "index": 28, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -2.72184767, 
-                    53.36540813
+                    19.35499657, 
+                    46.97670384
                 ]
             }, 
             "type": "Feature", 
-            "id": 7, 
-            "score": 39, 
+            "id": 28, 
+            "score": 2, 
             "data": {
                 "authorsCOO": [
-                    "UNITED KINGDOM"
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "journal": "genome biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
-                "name": "United Kingdom", 
-                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
             }
         }, 
         {
-            "index": 4, 
+            "index": 2, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -580,43 +1248,21 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 4, 
-            "score": 48, 
+            "id": 2, 
+            "score": 67, 
             "data": {
                 "authorsCOO": [
-                    "GERMANY", 
+                    "AUSTRIA", 
                     "GERMANY"
                 ], 
-                "genetictool": [
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "forensic science international: genetics", 
-                "focalspecies": [
-                    "Entandrophragma cylindricum"
-                ], 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "during the past decade, the use of dna for forensic applications has been extensively implemented for plant and animal species, as well as in humans. tracing back the geographical origin of an individual usually requires genetic assignment analysis. these approaches are based on reference samples that are grouped into populations or other aggregates and intend to identify the most likely group of origin. often this grouping does not have a biological but rather a historical or political justification, such as \u201ccountry of origin\u201d. in this paper, we present a new nearest neighbour approach to individual assignment or classification within a given but potentially imperfect grouping of reference samples. this method, which is based on the genetic distance between individuals, functions better in many cases than commonly used methods. we demonstrate the operation of our assignment method using two data sets. one set is simulated for a large number of trees distributed in a 120\u00a0km by 120\u00a0km landscape with individual genotypes at 150 snps, and the other set comprises experimental data of 1221 individuals of the african tropical tree species entandrophragma cylindricum (sapelli) genotyped at 61 snps. judging by the level of correct self-assignment, our approach outperformed the commonly used frequency and bayesian approaches by 15% for the simulated data set and by 5\u20137% for the sapelli data set. our new approach is less sensitive to overlapping sources of genetic differentiation, such as genetic differences among closely-related species, phylogeographic lineages and isolation by distance, and thus operates better even for suboptimal grouping of individuals. \u00a9 2016 elsevier ireland ltd", 
-                "focalspeciesCOO": [
-                    [
-                        "CAMEROON", 
-                        "CENTRAL AFRICAN REPUBLIC", 
-                        "CONGO", 
-                        "C\u00d4TE D'IVOIRE", 
-                        "NIGERIA", 
-                        "LIBERIA", 
-                        "GABON", 
-                        "GUINEA", 
-                        "GHANA", 
-                        "UGANDA", 
-                        "SIERRA LEONE", 
-                        "MEXICO", 
-                        "EQUATORIAL GUINEA", 
-                        "TOGO", 
-                        "ANGOLA"
-                    ]
-                ]
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
             }, 
             "properties": {
                 "name": "Germany", 
@@ -624,7 +1270,7 @@
             }
         }, 
         {
-            "index": 36, 
+            "index": 46, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -633,21 +1279,28 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 36, 
-            "score": 2, 
+            "id": 46, 
+            "score": 9, 
             "data": {
                 "authorsCOO": [
-                    "CHINA", 
                     "PAKISTAN", 
-                    "IRAN"
+                    "SAUDI ARABIA", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "PAKISTAN", 
+                    "PAKISTAN", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA"
                 ], 
-                "genetictool": [], 
+                "genetictool": [
+                    "DNA"
+                ], 
                 "fundingorganization": "", 
-                "journal": "saudi journal of biological sciences", 
+                "journal": "current issues in molecular biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "in biology field, the ontology application relates to a large amount of genetic information and chemical information of molecular structure, which makes knowledge of ontology concepts convey much information. therefore, in mathematical notation, the dimension of vector which corresponds to the ontology concept is often very large, and thus improves the higher requirements of ontology algorithm. under this background, we consider the designing of ontology sparse vector algorithm and application in biology. in this paper, using knowledge of marginal likelihood and marginal distribution, the optimized strategy of marginal based ontology sparse vector learning algorithm is presented. finally, the new algorithm is applied to gene ontology and plant ontology to verify its efficiency. \u00a9 2016 the authors", 
+                "abstracttext": "for human food security, the preservation of 7.4 million ex-situ germplasm is a global priority. however, ex situ-conserved seeds are subject to aging, which reduces their viability and ultimately results in the loss of valuable genetic material over long periods. recent progress in seed biology and genomics has revealed new opportunities to improve the long-term storage of ex-situ seed germplasm. this review summarizes the recent improvements in seed physiology and genomics, with the intention of developing genomic tools for evaluating seed aging. several lines of seed biology research have shown promise in retrieving viability signal from various stages of seed germination. we conclude that seed aging is associated with mitochondrial alteration and programmed cell death, dna and enzyme repair, anti-oxidative genes, telomere length, and epigenetic regulation. clearly, opportunities exist for observing seed aging for developing genomic tools to increment the traditional germination test for effective conservation of ex-situ germplasm. \u00a9 2017, caister academic press. all rights reserved.", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
@@ -656,7 +1309,7 @@
             }
         }, 
         {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -665,22 +1318,29 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 136, 
+            "id": 18, 
+            "score": 248, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
@@ -688,7 +1348,7 @@
             }
         }, 
         {
-            "index": 16, 
+            "index": 11, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -697,75 +1357,38 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 16, 
-            "score": 9, 
+            "id": 11, 
+            "score": 15, 
             "data": {
                 "authorsCOO": [
-                    "ITALY", 
-                    "CZECH REPUBLIC"
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
                 ], 
                 "genetictool": [
-                    "DNA", 
-                    "RNA"
+                    "AFLP"
                 ], 
                 "fundingorganization": "", 
-                "journal": "soil biology and biochemistry", 
+                "journal": "plant systematics and evolution", 
                 "focalspecies": [
-                    "Picea abies"
+                    "Vavilovia formosa"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "cellulose is the most abundant polysaccharide in the dead plant biomass, and its degradation is an important part of global carbon cycle. \u03b2-glucosidases complete the final step of cellulose hydrolysis by converting cellobiose to glucose. genetic potential and expression of \u03b2-glucosidase genes were studied in the topsoil of a picea abies forest in two contrasting seasons. these seasons were the summer, representing the peak of plant photosynthetic activity, and late winter, after an extended period with no photosynthate input. fungal and bacterial \u03b2-glucosidase genes belonging to glycoside hydrolase families gh1 and gh3 amplified from dna and rna and amplicon pools were analyzed. transcript pool were largely corresponded to gene pools, although some abundant transcripts were not found in the gene pool. the major reservoirs of \u03b2-glucosidase genes were the fungal phylum ascomycota and basidiomycota and the bacterial phyla firmicutes, actinobacteria, proteobacteria acidobacteria and deinococcus-thermus. this indicates that a diverse microbial community utilized cellobiose. seasonality influenced both genetic diversity of \u03b2-glucosidase genes and their expression. the results indicate that a complex community of bacteria and fungi expresses \u03b2-glucosidases in forest soils. even \u03b2-glucosidase genes showing low abundance in dna may be functionally important as revealed by their high expression especially in basidiomycota. the functional diversity in the studied ecosystem clearly exhibited a seasonal pattern. \u00a9 2016 elsevier ltd", 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
                 "focalspeciesCOO": [
                     [
-                        "FRANCE", 
-                        "AUSTRALIA", 
-                        "NORWAY", 
-                        "SWEDEN", 
-                        "GERMANY", 
-                        "SWITZERLAND", 
-                        "AUSTRIA", 
-                        "RUSSIAN FEDERATION", 
-                        "CZECH REPUBLIC", 
-                        "ITALY", 
-                        "BULGARIA", 
-                        "UNITED STATES", 
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
                         "UNITED KINGDOM", 
-                        "NETHERLANDS", 
-                        "SPAIN", 
-                        "SLOVAKIA", 
-                        "LUXEMBOURG", 
-                        "BELGIUM", 
-                        "JAPAN", 
-                        "FINLAND", 
-                        "SERBIA", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "POLAND", 
-                        "CANADA", 
-                        "CHINA", 
-                        "DENMARK", 
-                        "IRELAND", 
-                        "SLOVENIA", 
-                        "NEW ZEALAND", 
-                        "LITHUANIA", 
-                        "ROMANIA", 
-                        "BELARUS", 
-                        "GREECE", 
-                        "INDIA", 
-                        "PAKISTAN", 
-                        "PORTUGAL", 
-                        "CROATIA", 
-                        "PANAMA", 
-                        "UKRAINE", 
-                        "ESTONIA", 
-                        "BHUTAN", 
-                        "MEXICO", 
-                        "ICELAND", 
-                        "KAZAKHSTAN", 
-                        "ALBANIA", 
-                        "HUNGARY", 
-                        "ANDORRA", 
-                        "ARGENTINA"
+                        "RUSSIAN FEDERATION"
                     ]
                 ]
             }, 
@@ -775,7 +1398,236 @@
             }
         }, 
         {
-            "index": 3, 
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "simple sequence repeat", 
+                    "ISSR", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the genus chrysodracon has six endemic species in the hawaii islands. chrysodracon hawaiiensis is endemic to hawaii island and was described as a distinct species in 1980. it was listed as an endangered species on the international union for the conservation of nature and natural resources (iucn) red list in 1997. this woody plant species was, at one time, common in exposed dry forests, but it became very rare due to grazing pressure and human development. the tree species chrysodracon auwahiensis (c. auwahiensis), endemic to maui and molokai, still has large adult populations in dry lands of the islands, but unfortunately no regeneration from seed has been reported in those areas for many years. the two endemic species were examined using the molecular technique of random amplified polymorphic dna (rapd) and inter simple sequence repeats (issr) to determine the genetic structure of the populations and the amount of variation. both species possess similar genetic structure. larger and smaller populations of both species contain similar levels of genetic diversity as determined by the number of polymorphic loci, estimated heterozygosity, and shannon\u2019s index of genetic diversity. although population diversity of chrysodracon hawaiiensis (c. hawaiiensis) is thought to have remained near pre-disturbance levels, population size continues to decline as recruitment is either absent or does not keep pace with senescence of mature plants. conservation recommendations for both species are suggested. \u00a9 2016 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 53, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "BULGARIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of genetics", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "transposable elements usually comprise the most abundant nongenic fraction of eukaryotic genomes. because of their capacity to selfreplicate and to induce a wide range of mutations, transposable elements have long been considered as \u2018parasitic\u2019 or \u2018selfish\u2019. today, we recognize that the findings about genomic changes affected by transposable elements have considerably altered our view of the ways in which genomes evolve and work. numerous studies have provided evidences that mobile elements have the potential to act as agents of evolution by increasing, rearranging and diversifying the genetic repertoire of their hosts. with large-scale sequencing becoming increasingly available, more and more scientists come across transposable element sequences in their data. i will provide examples that transposable elements, although having signatures of \u2018selfish\u2019 dna, play a significant biological role in the maintainance of genome integrity and providing novel regulatoty networks. these features, along with the transpositional and mutagenic capacity to produce a raw genetic diversity, make the genome mobile fraction, a key player in species adaptation and microevolution. the last but not least, transposable elements stand as informative dna markers that may complement other conventional dna markers. altogether, transposable elements represent a promising, but still largely unexplored research niche and deserve to be included into the agenda of molecular ecologists, evolutionary geneticists, conservation biologists and plant breeders. \u00a9 2016, indian academy of sciences.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -784,64 +1636,374 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 136, 
+            "id": 18, 
+            "score": 248, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
                 "nameofficial": "United States of America"
             }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 173, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
         }
     ], 
     "links": [
         {
-            "source": 8, 
-            "target": 8, 
-            "value": 8
+            "source": 47, 
+            "target": 47, 
+            "value": 25
         }, 
         {
-            "source": 7, 
-            "target": 8, 
+            "source": 47, 
+            "target": 28, 
+            "value": 5
+        }, 
+        {
+            "source": 47, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 46, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 11, 
             "value": 2
         }, 
         {
-            "source": 8, 
-            "target": 4, 
+            "source": 47, 
+            "target": 71, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 36, 
+            "source": 47, 
+            "target": 31, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 3, 
+            "source": 47, 
+            "target": 22, 
             "value": 1
         }, 
         {
-            "source": 8, 
-            "target": 16, 
+            "source": 58, 
+            "target": 47, 
             "value": 1
         }, 
         {
-            "source": 3, 
-            "target": 8, 
+            "source": 18, 
+            "target": 47, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 47, 
             "value": 2
+        }, 
+        {
+            "source": 5, 
+            "target": 47, 
+            "value": 1
         }
     ]
 },
@@ -849,7 +2011,7 @@
     "field": "lastauthor", 
     "nodes": [
         {
-            "index": 8, 
+            "index": 47, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -858,59 +2020,104 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 8, 
-            "score": 9, 
+            "id": 47, 
+            "score": 17, 
             "data": {
                 "authorsCOO": [
                     "POLAND", 
                     "POLAND", 
                     "POLAND"
                 ], 
-                "genetictool": [
-                    "amplified fragment length polymorphism", 
-                    "chloroplast DNA", 
-                    "DNA"
-                ], 
+                "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "tree genetics and genomes", 
+                "journal": "holocene", 
                 "focalspecies": [
-                    "Salix myrsinifolia"
+                    "Trichophorum cespitosum", 
+                    "Baeothryon caespitosum", 
+                    "Eriophorum vaginatum"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "gene flow in plant populations is heavily affected by species sexual systems. in order to study the effect of sexual systems on genetic structure, we examined plastid and nuclear dna of 12 dioecious (males and females) and 18 trioecious (males, females and hermaphrodites) populations of salix myrsinifolia\u2014a boreal shrub with slow range expansion. populations were located along latitudinal gradients across submarginal and marginal parts of the range. individuals of each sex morph were all hexaploid. we identified 10 chloroplast dna haplotypes and scored 205 polymorphic bands with amplified fragment length polymorphism. we found dioecious populations that differed from trioecious populations via the presence of four unique haplotypes and significant difference in nei\u2019s gene diversity index (0.119 vs. 0.116) and down-weighed marker value (1.17 vs. 1.02). the latter parameter, together with haplotype and nucleotide diversity, significantly decreased with latitude similar to the expansion front. also, we found that 89% of hermaphrodite individuals belong to one distinct in tree parsimony network haplotype. this frequency significantly decreased with latitude towards the expansion front. we suspect that the presence of hermaphrodites in trioecious populations may represent a trade-off between the possibility of producing progeny by single hermaphrodites and genetic variability loss through autogamy. s. myrsinifolia benefits from trioecious sexual systems under colonization events. this phenomenon is no longer a gain closer to the core of the species range. \u00a9 2017, the author(s).", 
+                "abstracttext": "this study explores the history of the development of sphagnum communities in an ombrotrophic peatland \u2013 bagno kusowo \u2013 over the past 650 years, based on high-resolution plant macrofossil and testate amoebae analysis. our research provided information related to the length of peatland existence and the characteristics of its natural/pristine state before the most recent human impacts. changes in the sphagnum communities before human impact could have resulted from climate cooling during the \u2018little ice age\u2019 (lia). in this cold and unstable hydrological period, among vascular plants, eriophorum vaginatum and baeothryon caespitosum dominated in the peatland vegetation. peat-forming sphagnum communities survived the drainage conducted during the 20th century at the bagno kusowo bog. we provide three important messages through this study: (1) testate amoebae reflect similar hydrological trends in two peat cores despite considerable microhabitat variability, (2) average long-term water level 10 cm below the surface should be a target for active bog conservation and (3) sites like bagno kusowo are extremely important to preserve the remains of pristine biodiversity (including genetic diversity of plants and protists) that was completely removed from most of the raised bogs in europe due to human activities, for example, drainage. \u00a9 2016, \u00a9 the author(s) 2016.", 
                 "focalspeciesCOO": [
                     [
-                        "UNITED KINGDOM", 
+                        "FRANCE", 
                         "SWEDEN", 
                         "NORWAY", 
-                        "AUSTRIA", 
                         "GERMANY", 
                         "SWITZERLAND", 
-                        "RUSSIAN FEDERATION", 
-                        "FRANCE", 
-                        "DENMARK", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
                         "NETHERLANDS", 
-                        "FINLAND", 
-                        "ITALY", 
-                        "IRELAND", 
-                        "ICELAND", 
-                        "POLAND", 
-                        "LITHUANIA", 
-                        "SPAIN", 
                         "UNITED STATES", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "\u00c5LAND ISLANDS", 
-                        "ESTONIA", 
-                        "CZECH REPUBLIC", 
-                        "ANDORRA", 
-                        "BELARUS", 
-                        "LATVIA", 
-                        "UKRAINE", 
-                        "AUSTRALIA", 
-                        "AFGHANISTAN", 
+                        "JAPAN", 
+                        "ITALY", 
+                        "BELGIUM", 
+                        "RUSSIAN FEDERATION", 
+                        "ICELAND", 
                         "CANADA", 
-                        "SLOVENIA"
+                        "GREENLAND", 
+                        "CHILE", 
+                        "IRELAND", 
+                        "FINLAND", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ESTONIA", 
+                        "BRAZIL", 
+                        "GEORGIA", 
+                        "MYANMAR", 
+                        "GREECE", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "ALGERIA", 
+                        "FAROE ISLANDS"
+                    ], 
+                    [
+                        "POLAND", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "UNITED STATES", 
+                        "AUSTRALIA", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "AZERBAIJAN", 
+                        "RUSSIAN FEDERATION", 
+                        "NETHERLANDS", 
+                        "HUNGARY", 
+                        "JAPAN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "LUXEMBOURG", 
+                        "CANADA", 
+                        "SAINT PIERRE AND MIQUELON", 
+                        "IRELAND", 
+                        "DENMARK", 
+                        "TURKEY", 
+                        "SPAIN", 
+                        "ANDORRA", 
+                        "CHINA", 
+                        "ROMANIA", 
+                        "FINLAND", 
+                        "ICELAND", 
+                        "GREENLAND", 
+                        "ITALY", 
+                        "ESTONIA", 
+                        "SLOVAKIA", 
+                        "CZECH REPUBLIC", 
+                        "GREECE", 
+                        "BELARUS", 
+                        "BULGARIA", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "FAROE ISLANDS"
                     ]
                 ]
             }, 
@@ -920,37 +2127,110 @@
             }
         }, 
         {
-            "index": 7, 
+            "index": 29, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -2.72184767, 
-                    53.36540813
+                    19.35499657, 
+                    46.97670384
                 ]
             }, 
             "type": "Feature", 
-            "id": 7, 
-            "score": 37, 
+            "id": 29, 
+            "score": 4, 
             "data": {
                 "authorsCOO": [
-                    "UNITED KINGDOM"
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "philosophical transactions of the royal society b: biological sciences", 
+                "journal": "genome biology", 
                 "focalspecies": [], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "the colonization of land by plants shaped the terrestrial biosphere, the geosphere and global climates. the nature of morphological and molecular innovation driving land plant evolution has been an enigma for over 200 years. recent phylogenetic and palaeobotanical advances jointly demonstrate that land plants evolved from freshwater algae and pinpoint key morphological innovations in plant evolution. in the haploid gametophyte phase of the plant life cycle, these include the innovation of mulitcellular forms with apical growth and multiple growth axes. in the diploid phase of the life cycle, multicellular axial sporophyteswere an early innovation priming subsequent diversification of indeterminate branched forms with leaves and roots. reverse and forward genetic approaches in newly emerging model systems are starting to identify the genetic basis of such innovations. the data place plant evo-devo research at the cusp of discovering the developmental and genetic changes driving the radiation of land plant body plans. \u00a9 2016 the author(s).", 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
                 "focalspeciesCOO": []
             }, 
             "properties": {
-                "name": "United Kingdom", 
-                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
             }
         }, 
         {
-            "index": 3, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -959,22 +2239,29 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 3, 
-            "score": 151, 
+            "id": 18, 
+            "score": 301, 
             "data": {
                 "authorsCOO": [
+                    "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES", 
                     "UNITED STATES"
                 ], 
                 "genetictool": [], 
                 "fundingorganization": "", 
-                "journal": "biomass and bioenergy", 
-                "focalspecies": [], 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "concerns over energy security and environmental sustainability have stimulated interest in development of high-yield, low-lignin trees for bioenergy. black cottonwood (populus trichocarpa) has been targeted as a potential bioenergy species due to its high productivity, but it is unclear how transgenically altered lignin biosynthesis will affect plant function. we investigated the physiology of two transgenic p. trichocarpa genotypes grown in short rotation woody cropping systems at two sites in southeastern usa: (1) mesic mountain site and (2) warmer, drier piedmont site. our results suggest that lignin is fundamental for tree growth and survival in field environments. lignin deficiency can decrease biochemical photosynthetic processes and interfere with the temperature-response of photosynthesis. significantly, hydraulic conductivity of transgenic genotypes was 15\u201325% that of wildtype trees, resulting in decreased leaf-specific whole-plant hydraulic conductance. in the piedmont, decreased hydraulic efficiency drastically reduced productivity of low-lignin genotypes by 50\u201370% relative to wildtype. transgenic trees at the mountain site recovered stem lignin concentrations to levels observed in wildtype trees, but still had severely impaired hydraulic traits, highlighting the major consequences of genetic transformation on whole-plant function. surprisingly, substantial loss of hydraulic conductivity had only minor effects on productivity at the mesic site and resulted in an alternative advantage for bioenergy systems \u2013 lower water consumption. in the hottest month (july), higher intrinsic water use efficiency resulted in total water savings of roughly 1 kg d\u22121 per transgenic tree without sacrificing productivity. decreased hydraulic conductivity could therefore be a promising trait for selection of water-efficient genotypes in populus. \u00a9 2017", 
-                "focalspeciesCOO": []
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
             }, 
             "properties": {
                 "name": "United States", 
@@ -982,7 +2269,7 @@
             }
         }, 
         {
-            "index": 16, 
+            "index": 12, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -991,75 +2278,38 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 16, 
-            "score": 11, 
+            "id": 12, 
+            "score": 15, 
             "data": {
                 "authorsCOO": [
-                    "ITALY", 
-                    "CZECH REPUBLIC"
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
                 ], 
                 "genetictool": [
-                    "DNA", 
-                    "RNA"
+                    "AFLP"
                 ], 
                 "fundingorganization": "", 
-                "journal": "soil biology and biochemistry", 
+                "journal": "plant systematics and evolution", 
                 "focalspecies": [
-                    "Picea abies"
+                    "Vavilovia formosa"
                 ], 
                 "fundingCOO": [], 
                 "year": 2017, 
-                "abstracttext": "cellulose is the most abundant polysaccharide in the dead plant biomass, and its degradation is an important part of global carbon cycle. \u03b2-glucosidases complete the final step of cellulose hydrolysis by converting cellobiose to glucose. genetic potential and expression of \u03b2-glucosidase genes were studied in the topsoil of a picea abies forest in two contrasting seasons. these seasons were the summer, representing the peak of plant photosynthetic activity, and late winter, after an extended period with no photosynthate input. fungal and bacterial \u03b2-glucosidase genes belonging to glycoside hydrolase families gh1 and gh3 amplified from dna and rna and amplicon pools were analyzed. transcript pool were largely corresponded to gene pools, although some abundant transcripts were not found in the gene pool. the major reservoirs of \u03b2-glucosidase genes were the fungal phylum ascomycota and basidiomycota and the bacterial phyla firmicutes, actinobacteria, proteobacteria acidobacteria and deinococcus-thermus. this indicates that a diverse microbial community utilized cellobiose. seasonality influenced both genetic diversity of \u03b2-glucosidase genes and their expression. the results indicate that a complex community of bacteria and fungi expresses \u03b2-glucosidases in forest soils. even \u03b2-glucosidase genes showing low abundance in dna may be functionally important as revealed by their high expression especially in basidiomycota. the functional diversity in the studied ecosystem clearly exhibited a seasonal pattern. \u00a9 2016 elsevier ltd", 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
                 "focalspeciesCOO": [
                     [
-                        "FRANCE", 
-                        "AUSTRALIA", 
-                        "NORWAY", 
-                        "SWEDEN", 
-                        "GERMANY", 
-                        "SWITZERLAND", 
-                        "AUSTRIA", 
-                        "RUSSIAN FEDERATION", 
-                        "CZECH REPUBLIC", 
-                        "ITALY", 
-                        "BULGARIA", 
-                        "UNITED STATES", 
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
                         "UNITED KINGDOM", 
-                        "NETHERLANDS", 
-                        "SPAIN", 
-                        "SLOVAKIA", 
-                        "LUXEMBOURG", 
-                        "BELGIUM", 
-                        "JAPAN", 
-                        "FINLAND", 
-                        "SERBIA", 
-                        "BOSNIA AND HERZEGOVINA", 
-                        "POLAND", 
-                        "CANADA", 
-                        "CHINA", 
-                        "DENMARK", 
-                        "IRELAND", 
-                        "SLOVENIA", 
-                        "NEW ZEALAND", 
-                        "LITHUANIA", 
-                        "ROMANIA", 
-                        "BELARUS", 
-                        "GREECE", 
-                        "INDIA", 
-                        "PAKISTAN", 
-                        "PORTUGAL", 
-                        "CROATIA", 
-                        "PANAMA", 
-                        "UKRAINE", 
-                        "ESTONIA", 
-                        "BHUTAN", 
-                        "MEXICO", 
-                        "ICELAND", 
-                        "KAZAKHSTAN", 
-                        "ALBANIA", 
-                        "HUNGARY", 
-                        "ANDORRA", 
-                        "ARGENTINA"
+                        "RUSSIAN FEDERATION"
                     ]
                 ]
             }, 
@@ -1069,7 +2319,199 @@
             }
         }, 
         {
-            "index": 1, 
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 57, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 11, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 58, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "BULGARIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of genetics", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "transposable elements usually comprise the most abundant nongenic fraction of eukaryotic genomes. because of their capacity to selfreplicate and to induce a wide range of mutations, transposable elements have long been considered as \u2018parasitic\u2019 or \u2018selfish\u2019. today, we recognize that the findings about genomic changes affected by transposable elements have considerably altered our view of the ways in which genomes evolve and work. numerous studies have provided evidences that mobile elements have the potential to act as agents of evolution by increasing, rearranging and diversifying the genetic repertoire of their hosts. with large-scale sequencing becoming increasingly available, more and more scientists come across transposable element sequences in their data. i will provide examples that transposable elements, although having signatures of \u2018selfish\u2019 dna, play a significant biological role in the maintainance of genome integrity and providing novel regulatoty networks. these features, along with the transpositional and mutagenic capacity to produce a raw genetic diversity, make the genome mobile fraction, a key player in species adaptation and microevolution. the last but not least, transposable elements stand as informative dna markers that may complement other conventional dna markers. altogether, transposable elements represent a promising, but still largely unexplored research niche and deserve to be included into the agenda of molecular ecologists, evolutionary geneticists, conservation biologists and plant breeders. \u00a9 2016, indian academy of sciences.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }
+        }, 
+        {
+            "index": 0, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -1078,8 +2520,8 @@
                 ]
             }, 
             "type": "Feature", 
-            "id": 1, 
-            "score": 20, 
+            "id": 0, 
+            "score": 64, 
             "data": {
                 "authorsCOO": [
                     "ITALY", 
@@ -1106,32 +2548,330 @@
                 "name": "Italy", 
                 "nameofficial": "Republic of Italy"
             }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 161, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
         }
     ], 
     "links": [
         {
-            "source": 8, 
-            "target": 8, 
-            "value": 8
+            "source": 47, 
+            "target": 47, 
+            "value": 18
         }, 
         {
-            "source": 8, 
-            "target": 7, 
+            "source": 29, 
+            "target": 47, 
             "value": 3
         }, 
         {
-            "source": 3, 
-            "target": 8, 
+            "source": 18, 
+            "target": 47, 
             "value": 2
         }, 
         {
-            "source": 16, 
-            "target": 8, 
+            "source": 12, 
+            "target": 47, 
+            "value": 2
+        }, 
+        {
+            "source": 32, 
+            "target": 47, 
+            "value": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 47, 
+            "value": 5
+        }, 
+        {
+            "source": 47, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 47, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 11, 
             "value": 1
         }, 
         {
             "source": 1, 
-            "target": 8, 
+            "target": 47, 
+            "value": 1
+        }, 
+        {
+            "source": 47, 
+            "target": 5, 
             "value": 1
         }
     ]
