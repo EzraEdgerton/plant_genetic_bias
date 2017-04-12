@@ -1,8 +1,11 @@
+# -*- coding: utf-8 -*-
 import os
 import sys
 import csv
 import json
 import re
+import bibtexparser
+import time
 
 
 writefilename = sys.argv[1]
@@ -44,19 +47,6 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 				nationality_terms.append(row)
 
 
-			def inner_extractor(start, sub_text):
-
-				startindex = -1
-				startindex = sub_text.find('= {', start)
-				adder = 3
-				subtractor = 1
-				if startindex == -1:
-					startindex = sub_text.find('={', start)
-					adder = 2
-					subtractor = 0
-
-				endindex = sub_text.find('},', startindex)
-				return sub_text[startindex + adder : endindex - subtractor]
 
 			def plant_inner_term_extractor(planttext):
 				text_to_search = ' ' + planttext.lower()
@@ -97,7 +87,6 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 			def country_inner_term_extractor(co_text):
 				text_to_search = co_text.lower()
 				search_result = []
-
 				for row in country_terms:
 					subsearch_result = text_to_search.find(' ' +row[0].lower() + ' ')
 					if subsearch_result != -1:
@@ -106,7 +95,8 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 
 			def get_author_countries(author_text):
-				text_to_search = author_text
+
+				text_to_search = author_text.lower()
 				auth_countries = []
 				for country in country_terms:
 					sub_text = text_to_search
@@ -135,16 +125,16 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 			def extractor(entry_text):
 
 				fields = [
-						'\ntitle', 
-						'\njournal',
-						'\nyear', 
-						'\nabstract', 
-						'\naffiliation', 
-						'\nkeywords', 
-						'\nkeywords-plus', 
-						'\nfunding-acknowledgement', 
-						'\nauthor_keywords', 
-						'\nfunding_details']
+						'title', 
+						'journal',
+						'year', 
+						'abstract', 
+						'affiliation', 
+						'keywords', 
+						'keywords-plus', 
+						'funding-acknowledgement', 
+						'author_keywords', 
+						'funding_details']
 
 				title_text = ''
 				journal_text = ''
@@ -178,10 +168,14 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 						#9
 						funding_details]
 				for i in range(0, len(fields)):
-					field_index = entry_text.find(fields[i])
-					if field_index != -1:
-						results[i] = inner_extractor(field_index, entry_text)
-				
+					#print fields[i]
+					try:
+						#print entry_text[fields[i]]
+						results[i] = entry_text[fields[i]].encode('utf-8').strip()
+						
+					except KeyError:
+						print ''
+
 				#title_text + ' ' + abstract_text + ' ' +  keywords_text + ' ' + keywords_plus_text
 				term_search_string = results[0] + ' ' + results[3] + ' ' +  results[5] + ' ' + results[6]
 				term_search_string = term_search_string.replace('{', ' ')
@@ -243,7 +237,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 					'focalspecies' : focal_species, #focal_species.encode('utf-8').strip(),
 					'focalspeciesCOO' : countries,#countries.encode('utf-8').strip(), 
 					'year' : year, 
-					'journal' : journal_text,#.encode('utf-8').strip(),
+					'journal' : journal_text.lower(),#.encode('utf-8').strip(),
 					'genetictool' : genetic_tool,#.encode('utf-8').strip(), 
 					'authorsCOO' : authors_coo,#.encode('utf-8').strip(), 
 					'fundingorganization' : funding_text,#.encode('utf-8').strip(),
@@ -251,26 +245,18 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 					'abstracttext' : abstract_text
 					})
 				return 1
-
+		start = time.clock()
 		data = []
 		for file in readfiles:
 			readfile = open(file)
-			text =  readfile.read()
-
-			text = text.lower()
-
-			index_start = text.find('@article')
-			index_end = text.find('@article', index_start + 7)
-
-			while 1:
-				print index_start
-				extractor(text[index_start: index_end])
-				index_start = index_end + 8
-				index_end = text.find('@article', index_start)
-				if index_start == 7:
-					break
+			
+			text = bibtexparser.load(readfile)
+			for article in text.entries_dict:
+				extractor(text.entries_dict[article])
 			readfile.close()
 		json.dump(data, writefile, indent=4)
 		writefile.close()
+		elapsed = (time.clock() - start)
+		print elapsed
 	
 
