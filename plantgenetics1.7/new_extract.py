@@ -38,26 +38,61 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 			tool_terms = []
 			country_terms = []
-			nationality_terms = []
+			#nationality_terms = []
 			for row in genetic_tool_reader:
-				tool_terms.append(row)
+				tool_terms.append([row[0].lower(), 0])
 			for row in country_reader:
-				country_terms.append(row)
-			for row in nationalities:
-				nationality_terms.append(row)
+				country_terms.append([row[0].lower(), 0])
+			#added search coverage for nationalities (i.e. cuban etc) not included
+			#for row in nationalities:
+			#	nationality_terms.append(row)
 
+			for term in plant_reader:
+				term = term.lower()
+				term = term.split(' ')
+				term = term[0] + ' ' + term[1]
 
+			
+			tool_terms_dict = dict(tool_terms)
+			country_terms_dict = dict(country_terms)
+			plant_terms_dict = dict(plant_reader)
 
 			def plant_inner_term_extractor(planttext):
+
 				text_to_search = ' ' + planttext.lower()
+				split_text = text_to_search.split(' ')
+				search_result = set()
+				split_len = len(split_text)
+				no_count = 0
+				#print text_to_search
+				for i in range(0, split_len - 1):
+					text_term = split_text[i].title() + ' ' + split_text[i + 1]
+					try:
+						plant_terms_dict[text_term]
+						print text_term
+						"""if len(search_result) > 0:
+							for thing in search_result:
+								if thing == text_term:
+									no_count = 0
+								else:
+									search_result.append(text_term)
+						else:"""
+						search_result.add(text_term)
+						
+					except KeyError:
+						#print ''
+						no_count = 0
+				"""text_to_search = ' ' + planttext.lower()
 				search_result = []
 				for item in plant_reader:
 					subsearch_result = text_to_search.find(' ' + item.lower() + ' ')
 					if subsearch_result != -1:
 						if item != 'species':
 							if item != '':
-								search_result.append(item)
+								search_result.append(item)"""
+				print search_result
 				return search_result
+
 
 			def get_plant_countries(genii):
 				genii_countries = []
@@ -181,9 +216,13 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 				term_search_string = term_search_string.replace('{', ' ')
 				term_search_string = term_search_string.replace('}', ' ')
 
-				term_search_string = re.sub(r'[^\w\s]',' ',term_search_string)
+				term_search_string = re.sub(r'[^\w]',' ',term_search_string)
 			
-				focal_species =  plant_inner_term_extractor(term_search_string)
+				focal_species_set =  plant_inner_term_extractor(term_search_string)
+				focal_species = []
+				for x in focal_species_set:
+					focal_species.append(x)
+
 				genetic_tool =  tool_inner_term_extractor(term_search_string)
 				countries =  get_plant_countries(focal_species)
 
@@ -211,6 +250,8 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 				funding_coo = country_inner_term_extractor(funding_coo)
 
+
+				#nasty gross fixes
 				for co in range(0, len(authors_coo)):
 					if authors_coo[co] == 'USA':
 						authors_coo[co] = 'UNITED STATES'
