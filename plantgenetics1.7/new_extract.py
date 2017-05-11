@@ -38,11 +38,13 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 
 			tool_terms = []
 			country_terms = []
+			country_code_terms = []
 			#nationality_terms = []
 			for row in genetic_tool_reader:
 				tool_terms.append([row[0].lower(), 0])
 			for row in country_reader:
-				country_terms.append([row[0].lower(), 0])
+				country_terms.append([row[0].lower(), row[1]])
+				country_code_terms.append([row[1], row[0].lower()])
 			#added search coverage for nationalities (i.e. cuban etc) not included
 			#for row in nationalities:
 			#	nationality_terms.append(row)
@@ -55,6 +57,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 			
 			tool_terms_dict = dict(tool_terms)
 			country_terms_dict = dict(country_terms)
+			country_code_terms_dict = dict(country_code_terms)
 			plant_terms_dict = dict(plant_reader)
 
 			def plant_inner_term_extractor(planttext):
@@ -69,7 +72,7 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 					text_term = split_text[i].title() + ' ' + split_text[i + 1]
 					try:
 						plant_terms_dict[text_term]
-						print text_term
+						#print text_term
 						"""if len(search_result) > 0:
 							for thing in search_result:
 								if thing == text_term:
@@ -90,20 +93,24 @@ with open('important_data/genetic_tools.csv', 'rb') as genetic_terms:
 						if item != 'species':
 							if item != '':
 								search_result.append(item)"""
-				print search_result
 				return search_result
 
 
 			def get_plant_countries(genii):
 				genii_countries = []
+				no_count = 0
 				for genus in genii:
 					genus_countries = []
-					countries = plant_reader[genus]
+					countries = plant_terms_dict[genus]
+					#print countries
 					for country in countries:
-						for row in country_terms:
-							if country == row[1]:
-								genus_countries.append(row[0])
+						try:
+							genus_countries.append(country_code_terms_dict[country])
+						except KeyError:
+							no_count = 0
+
 					genii_countries.append(genus_countries)
+				#print genii_countries
 				return genii_countries
 
 
