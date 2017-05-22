@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>PlantGen World Map</title>
+<title>Plant Genetics World Map</title>
 <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
 <style>
 
@@ -338,7 +338,7 @@ var fieldstrings = [ 'authors', 'firstauthor', 'lastauthor', 'funding']
 
 // var colors = [  'green', 'red', 'blue', 'orange']
 
-var colors = [ colorscat(0), colorscat(1), colorscat(2), colorscat(3)]
+var colors = [ colorscat(0), colorscat(1), colorscat(2), colorscat(3), colorscat(4)]
 for (var i = 0; i < fields.length; i++){
   drawFieldMap(fields[i], colors[i], fieldstrings[i])
 }
@@ -346,6 +346,7 @@ for (var i = 0; i < fields.length; i++){
 
 
 function drawFieldMap(field, color, f_name){
+   console.log(field[1].links.length)
 
   var links = field[1].links
 
@@ -1341,7 +1342,7 @@ d3.json(specfolderpath + country + ".json", function(error2, graph2){
       .style("opacity", .6)
       .style("stroke", 'black')
       .call(specforce.drag)
-      .attr('href', 'https://www.reddit.com/')
+      .attr('href', '')
       //.on('click', function(d){
        // table_rows = d3.selectAll('.' + d.properties.name.replace(' ', '_') + side_no)
 
