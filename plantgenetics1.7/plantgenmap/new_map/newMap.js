@@ -370,8 +370,11 @@ function visualize_country_data(name, color, index, specauthfield, specauthcoo )
 		file = getName(name)
 	}
 	else{
+		hidden_elements = d3.selectAll('.zhidden')
+		hidden_elements.classed('zhidden', false)
 		if(specauthfield == 'none'){
 			file = 'focalspecies2.json'
+
 		}
 		else{
 			file = specauthfield + '/' + specauthcoo + '.json'
