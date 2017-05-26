@@ -11,7 +11,7 @@ either:
 
 
 It will store the new files in .json files of the country's name in the plantgenmap folder
-in either species_all_auth, species_first_auth, or species_last_auth folders
+in either species_all_auth, species_first_auth, or species_last_auth folders	
 
 """
 
@@ -164,7 +164,7 @@ def format_and_write(data):
 		country_file = open('plantgenmap/' + directory + '/' + country_name + '.json', 'w')
 		nodes = data[d]['nodes']
 		formatted_nodes = []
-		countries_length = len(country_locations_json)
+		#countries_length = len(country_locations_json)
 		for n in nodes: 
 			formatted_nodes.append(nodes[n])
 		formatted_nodes = sorted(formatted_nodes, key=lambda node: node['index'])
