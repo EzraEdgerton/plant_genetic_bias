@@ -1,0 +1,44 @@
+[
+    {
+        "cities": [
+            {
+                "index": 0, 
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        103.55819197, 
+                        36.7145744
+                    ]
+                }, 
+                "properties": {
+                    "name": "China", 
+                    "nameofficial": "People's Republic of China"
+                }, 
+                "score": 2, 
+                "type": "Feature", 
+                "id": 0
+            }, 
+            {
+                "index": 1, 
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -3.67089492, 
+                        39.87299401
+                    ]
+                }, 
+                "properties": {
+                    "name": "Spain", 
+                    "nameofficial": "Kingdom of Spain"
+                }, 
+                "score": 1, 
+                "type": "Feature", 
+                "id": 1
+            }
+        ], 
+        "type": "FeatureCollection"
+    }, 
+    {
+        "links": []
+    }
+]

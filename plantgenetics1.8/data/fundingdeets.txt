@@ -1,0 +1,57 @@
+fundingdeets 
+
+prelimScopusConsvSearchResults:
+
+size: 1933
+funding-info: none
+
+plant_genetic_prelim
+
+size: 100
+funding-info:
+	funding-acknowledgement (on 82)
+	funding-text (on 82)
+
+plantgen_conserv_scopus20170121
+
+size:608
+funding-info:
+	funding_details (on 30 entries)
+
+scopus_prelim_dataset
+
+size: 200
+funding-info:
+	funding_details (on 80 entries)
+SampleDataset
+
+size: 14
+funding-info:
+	funding-acknowledgement
+	funding-text
+
+
+IDEAS:
+
+Search text for nationality as well (won't do much)
+
+If there is no funding text:
+	follow url to maybe get funding text
+	load that as funding text then move to next step
+
+Google Maps each value:
+	split string by ';'
+		split that string by ','
+			use the longest of that search as search term
+			google maps search term
+			get long and lat (geolocation)
+			use google to get country
+
+
+LINKS:
+
+FOR GOOGLING TERM
+http://py-googlemaps.sourceforge.net/
+
+FOR GETTING COUNTRY FROM TERM
+http://stackoverflow.com/questions/20169467/how-to-convert-from-longitude-and-latitude-to-country-or-city

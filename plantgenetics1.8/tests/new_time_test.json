@@ -1,0 +1,325 @@
+[
+    {
+        "abstracttext": "Solanum pimpinellifolium, due to its close relationship to S.\nlycopersicum, has been a genetic source for many commercially important\ntomato traits. It is a wild species found in the coastal areas of Peru\nand Ecuador. In this study, the genetic variation of S. pimpinellifolium\nwas studied using the diversity found in 10 microsatellites in 248\nplants spread throughout its entire distribution area, including\nEcuador, which has been underrepresented in previous studies. Peruvian\nand Ecuadorian accessions are genetically quite differentiated. A\npossible cause of these differences could be the non-uniform nature of\nthe coastal Ecuadorian and Peruvian climates, seeing as an important\ncorrelation between genetic differentiation and climate has been found.\nIn addition, Ecuadorian and south Peruvian accessions have a lower\ngenetic diversity and a higher homozygosity due to their higher\nautogamy, lower population size, and possible colonization bottlenecks.\nThe Galapagos Islands population is an extreme case, with no diversity, likely caused by a recent colonization from the northern continental\nEcuadorian region where genetically identical plants have been found.", 
+        "focalspecies": [
+            "Solanum pimpinellifolium"
+        ], 
+        "fundingCOO": [], 
+        "year": 2009, 
+        "genetictool": [], 
+        "fundingorganization": "BBVA", 
+        "journal": "genetic resources and crop evolution", 
+        "authorsCOO": [
+            "spain", 
+            "spain", 
+            "peru", 
+            "ecuador"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Phaedranassa schizantha (Amaryllidaceae) is an endangered species\nendemic to Ecuador and two varieties have been described: P. schizantha\nvar. schizantha and P. schizantha var. ignea. We assessed population\ngenetic structure and demographic patterns in 11 populations across the\nrange of the species using 13 microsatellite loci. Our data show that\ngenetic diversity was generally lower in the southern part of the range\nand was especially low in populations closest to cities. We found\nsignificant population differentiation (F-ST=0.14, D-EST=0.34) and\nevidence of a genetic bottleneck. Genetic variation did not show\nisolation by distance. Instead, results suggest genetic barriers around\ntwo main cities. Bayesian analysis identified two genetic groups, neither of which represents either of the two varieties previously\nrecognized. Coalescent analysis indicates a relatively recent\ncolonization pattern between the two genetic groups (<3000 generations).\nConservation efforts need to be taken to facilitate genetic exchange\nbetween the groups, especially between locations that seem to be\ngenetically isolated.", 
+        "focalspecies": [
+            "Phaedranassa schizantha"
+        ], 
+        "fundingCOO": [], 
+        "year": 2016, 
+        "genetictool": [
+            "microsatellite", 
+            "est"
+        ], 
+        "fundingorganization": "National Science Foundation (NSF)  [ DEB 0129179]; Judith Evans Parker Travel Grant; Universidad Tecnologica Indoamerica  [ 207 - 2011]", 
+        "journal": "botanical journal of the linnean society", 
+        "authorsCOO": [
+            "ecuador", 
+            "usa", 
+            "usa", 
+            "ecuador", 
+            "usa", 
+            "usa", 
+            "usa"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Clonal propagation becomes more abundant with increasing altitudes as\nenvironmental conditions worsen. To date, little attention has been paid\nto the way in which clonal propagation affects genetic diversity and the\nfine-scale spatial genetic structure (FSGS) of clonal alpine trees. An\nAFLP study was undertaken to quantify the clonal and genetic diversity\nand FSGS of the vulnerable treeline species Polylepis reticulata in\nEcuador. We successfully genotyped 32 and 75 ramets within 4mx100m\n(coarse scale) and 4mx4m (fine scale) transects of one population, respectively. Higher genotypic diversity was detected at the coarse\nscale than at the fine scale, while lower genetic diversity was detected\nfor P.reticulata than other Polylepis spp. at both scales. Significantly\nstronger FSGS was detected at the ramet level than the genet level for\nP.reticulata within a spatial distance of 3m. The studied P.reticulata\npopulation showed pronounced FSGS (Sp=0.012 at the genet level, a\nstatistic reflecting declining pairwise kinship with distance) revealed\nrestricted gene dispersal, which implies restricted seed dispersal for\nthis population, assuming pollen flow is as extensive as that described\nfor other wind-pollinated tree species. Our results revealed that clonal\ndiversity is a function of both sample size and the spatial scale of the\nsampling area. The findings highlights that clonal propagation has\naffected FSGS within a spatial distance of 3m for this species.\nResumen La propagacion clonal es mas frecuente con el aumento de la\naltitud conforme las condiciones ambientales empeoran. Hasta la fecha, pocos estudios se han enfocado en la forma en que la propagacion clonal\nafecta la diversidad genetica y la estructura genetica a escala fina\n(FSGS) de arboles andinos con propagacion clonal. Se realizo un estudio\nde AFLP para cuantificar la diversidad clonal y genetica y la FSGS de\nPolylepis reticulata, una especie vulnerable del limite boscoso en\nEcuador. Determinamos el genotipo de una poblacion con 32 ramets en\ntransectos de 4x100m (escala grande), y 75 ramets en transectos de 4x4m\n(escala fina). La diversidad genotipica fue mayor a escala grande que a\nescala fina. P.reticulata mostro menor diversidad genetica que otras\nespecies de Polylepis a ambas escalas. Se detecto mayor FSGS al nivel de\nramets que a nivel de genets para P.reticulata en una distancia espacial\nde 3m. La poblacion de P.reticulata estudiada mostro una pronunciada\nFSGS (Sp = 0.012 a nivel de genet, una estadistica reflejando una\ndisminucion en pairwise kinship con la distancia), revelando una\ndispersion genetica restringida; lo que implica la restriccion en la\ndispersion de semillas para esta poblacion, asumiendo que el flujo de\npolen sea tan grande como el descrito para otras especies de arboles\npolinizados por viento. Nuestros resultados revelan que la diversidad\nclonal esta en funcion del tamano de muestra y la escala espacial del\narea de muestreo. Los resultados resaltan que la propagacion clonal ha\nafectado la FSGS dentro los 3m de distancia para esta especie.", 
+        "focalspecies": [
+            "Polylepis australis", 
+            "Polylepis reticulata"
+        ], 
+        "fundingCOO": [
+            "china"
+        ], 
+        "year": 2015, 
+        "genetictool": [
+            "aflp"
+        ], 
+        "fundingorganization": "MSMT CzechPolar  [ LM2010009]; JAE-Doc Program; ESF; China Scholarship Council (CSC)  [ 2011618106];   [ GAAV-A601110702]", 
+        "journal": "biotropica", 
+        "authorsCOO": [
+            "germany", 
+            "germany", 
+            "czech republic", 
+            "spain", 
+            "czech republic", 
+            "ecuador", 
+            "germany"
+        ], 
+        "focalspeciesCOO": [
+            [], 
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Capsicum baccatum is one of five domesticated pepper species which, despite its morphological and ecological variability, has been\nunderexploited for germplasm improvement. Utilizing a broad spectrum of\ndomesticated and wild C. baccatum germplasm, we utilize AFLP markers to\ndescribe the species' molecular diversity and population structure in\nthe South American gene pool. Analysis of molecular variance (AMOVA)\nrevealed greater genetic diversity in the wild form of C. baccatum (C.\nbaccatum var. baccatum) than in the domesticated form of the species (C.\nbaccatum var. pendulum). Both Bayesian and distance based clustering\nanalysis, as well as principal coordinates analysis (PCA), concordantly\ndemonstrated admixture/shared ancestry between wild and cultivated C.\nbaccatum botanical varieties. Two principal genetic groups were\nidentified in the domesticated C. baccatum accessions largely based on\ntheir geographic distribution in South America. One group was\npredominated by accessions from the western territories of the species'\ndistribution (Peru, Colombia, Ecuador, Bolivia, Chile and northwestern\nArgentina) and the second by accessions from the eastern regions, Paraguay and eastern Argentina). The two genetic groups overlapped in\nthe geographic location of present-day Bolivia. The grouping pattern\nsuggested that C. baccatum was domesticated in multiple sites and that\nits evolution took two lineages followed by lineage differentiation. The\nwild accessions most closely related to the cultigens were found in the\nhighlands of Peru and Bolivia, which support the early hypothesis that\nthis region is one of the domestication sites of this species. A\nBayesian assignment analysis demonstrated that Brazilian wild forms of\nC. baccatum were genetically distant to all other accessions and made\nlittle to no contribution to the domesticated genepool. Moreover, results of clustering analysis suggested that C. baccatum likely\noriginated from present day Paraguay. Analysis of inter-specific\nrelationships across selected Capsicum species supported independent\nlineages for the two crossability groups within Capsicum, the baccatum\nspecies-complex (including C. baccatum) and the annuum species-complex\n(including C. annuum, C. chinense and C. frutescens). However, the\nresults did not support taxonomic distinction of C. baccatum var.\numbilicatum from C. baccatum var. pendulum. The present study provides\nnew insights into the domestication of C. baccatum. The results will be\nuseful for identifying accessions for crop improvement and guiding the\ndevelopment of in situ and ex situ conservation programs.", 
+        "focalspecies": [
+            "Capsicum baccatum"
+        ], 
+        "fundingCOO": [], 
+        "year": 2012, 
+        "genetictool": [
+            "aflp"
+        ], 
+        "fundingorganization": "Keygene Inc.  [ 58-3K95-8-1253]", 
+        "journal": "genetic resources and crop evolution", 
+        "authorsCOO": [
+            "usa", 
+            "usa", 
+            "usa", 
+            "usa", 
+            "usa"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "The tropical alpine flora in the northern Andes has caught the attention\nof evolutionary biologists and conservationists because of the extent of\nits diversity and its vulnerability. Although population genetics\nstudies are essential to understand how diversity arises and how it can\nbe maintained, plant populations occurring above 4100 m a.s.l. in the\nso-called super-paramo have rarely been studied at the molecular level.\nHere, we use 11 microsatellite DNA markers to examine genetic structure\nin populations of Lupinus alopecuroides, a long-lived semelparous giant\nrosette known from only 10 geographically isolated populations. Each\npopulation is located on a different mountain top, of which three are in\nColombia and seven in Ecuador. We analysed 220 individuals from all the\nten known populations. We find low genetic variation in all but one of\nthe populations. Four populations are completely monomorphic, and\nanother five show only one polymorphic locus each. On the other hand, we\nfind extremely high genetic differentiation between populations. We\ndiscuss the mechanisms that might cause this pattern, and we suggest\nthat it is related to founder effects, lack of gene flow, and autogamy.\nThe genetic relationships among the populations, and the lack of\ncorrelation between the genetic and geographic distances also point to\nthe importance of founder effects and colonization history in driving\ndifferentiation among the populations.", 
+        "focalspecies": [
+            "Lupinus alopecuroides"
+        ], 
+        "fundingCOO": [], 
+        "year": 2016, 
+        "genetictool": [
+            "microsatellite", 
+            "dna"
+        ], 
+        "fundingorganization": "Fond Mobility of Charles University in Prague", 
+        "journal": "alpine botany", 
+        "authorsCOO": [
+            "czech republic", 
+            "czech republic", 
+            "denmark", 
+            "ecuador"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Phylogenetic analyses using two fast evolving plastid markers (rps4, trnL-F) reveal the occurrence of the Austral-asiatic liverwort genus\nLobatiriccardia in the Neotropics. Two new species, Lobatiriccardia\noberwinkleri and L. verdoornioides are reported from Ecuador.\nPhylogenetic reconstructions support Lobatiriccardia and Aneura as\nmonophyletic sister groups and do not place Verdoornia as the first\nbranching Aneuracean taxon but rather sister to Aneura and\nLobatiriccardia, which is consistent with mycothallus development in\nAneuraceae. Subsequently, Aneuraceae, as treated here, include Aneura, Lobatiriccardia, Riccardia, and Verdoornia. Although high levels of\ngenetic structure can be observed among members of the Aneura pinguis\ncomplex, current species delimitations are questionable, and detailed\nanalyses of cryptic speciation and biogeographic patterns are needed to\nunderstand the evolution of Aneura, with particular attention paid to\nthe non-photosynthetic species Aneura mirabilis. Ancestral state\nreconstructions suggest an evolutionary trend of female gametangia, and\nsubsequently the sporophyte, moving from a central position on the\ndorsal side of the thallus (Verdoornia) to a marginal position between\nthallus lobes (Lobatiriccardia) to a more ventral (quasi latero-ventral)\nposition under the thallus margin (Aneura).", 
+        "focalspecies": [
+            "Aneura mirabilis"
+        ], 
+        "fundingCOO": [], 
+        "year": 2010, 
+        "genetictool": [
+            "chloroplast dna", 
+            "dna"
+        ], 
+        "fundingorganization": "German Science Foundation  [ DFG FOR 402, NE 887/1-3]; NSF  [ DEB-0531557]", 
+        "journal": "taxon", 
+        "authorsCOO": [
+            "germany", 
+            "germany", 
+            "germany", 
+            "germany", 
+            "usa", 
+            "austria"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "This paper presents an approach for assessing the effectiveness of\nprojects aimed at creating incentives for smallholder farmers to\ncontinue maintaining crop diversity under evolution on their farms in\nrelevant centers of genetic diversity a process known as on-farm\nconservation. It is applied to five projects involving native crops in\nthe High Andes of South America. Results show evidence that projects\nhave been effective at supporting farmers to maintain crop diversity\non-farm while generating positive livelihood outcomes. Implications and\nchallenges of both the approach and the results for sustainable use and\nconservation of crop biodiversity are discussed. (C) 2015 The Authors.\nPublished by Elsevier Ltd.", 
+        "focalspecies": [], 
+        "fundingCOO": [], 
+        "year": 2015, 
+        "genetictool": [], 
+        "fundingorganization": "McKnight Foundation  [ 09-1100]; CGIAR Research Program on Policies, Institutions and Markets", 
+        "journal": "world development", 
+        "authorsCOO": [
+            "italy", 
+            "italy", 
+            "italy"
+        ], 
+        "focalspeciesCOO": []
+    }, 
+    {
+        "abstracttext": "Solanum muricatum Aiton is an herbaceous perennial fruit species native\nto the Andean region of Colombia, Ecuador, and Peru. In Chile, it was\nprobably introduced in pre-Columbian times as a domesticated species and\nis presently grown in the coastal areas of the north-central regions of\nCoquimbo and Valpara so. The species has been bred, but little\ninformation is available on its genetic variability in Chile. To\ncharacterize the genetic variability in this species, fruits were\ncollected from 14 different ecotypes and seeds were sown to generate\napproximately 60 segregants from each accession. Segregants were planted\nat two different locations to characterize their fruits and fruiting\nhabits. Fruit weight ranged from 30 to 485 g, while length was 3.5 to\n16.7 cm, equatorial diameter 3.4 to 9.5 cm, pulp firmness 1.7 to 10 N, and soluble solids content 6.3 to 13.5 degrees Brix. Fruit shape ranged\nfrom flat to oblong. When analyzing the estimated variance components\nwith a mixed linear model, most of the variability between different\necotypes was in fruit shape, length, and weight, which resulted in a\ngenetic contribution of 34.6\\%, 29.3\\%, and 18.1\\% of the total\nvariability of these traits, respectively. Genetic variability was also\nfound for pulp firmness and soluble solids content. Therefore, enough\nvariability is available in seed-propagated pepinos from Chilean\necotypes to allow genetic improvement of these fruit quality traits.\nThere was also variability from genotype x environment interactions;\ntherefore, selections must be performed for specific environments or\nstable selections must be found.", 
+        "focalspecies": [
+            "Solanum muricatum"
+        ], 
+        "fundingCOO": [], 
+        "year": 2014, 
+        "genetictool": [], 
+        "fundingorganization": "", 
+        "journal": "chilean journal of agricultural research", 
+        "authorsCOO": [
+            "chile", 
+            "chile", 
+            "argentina", 
+            "chile"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Cacao (Theobroma cacao L.) is an important cash crop in tropical growing\nregions of the world and particularly for small cacao farmers. Over the\npast two decades, `CCN 51' has become one of the most planted cultivars\nin Ecuador, mainly as a result of its high productivity and disease\nresistance. Intermixing of Nacional fine flavor Ecuadorian beans with\nbeans of `CCN 51' has become common practice, reducing overall bean\nquality and decreasing value. The primary goals of this study were to\ndetermine the genetic identity, structure, and allelic richness of `CCN\n51', its maternal origin and to compare `CCN 51's' agronomic\ncharacteristics against a composite group of Nacional cultivars. To\ninvestigate the complex genetic background of this cultivar, 70 simple\nsequence repeat loci were used. The high heterozygosity observed (56 of\n70 loci) for `CCN 51' is not characteristic of traditional Nacional\ncultivars. Comparison of agronomic characteristics between `CCN 51' and\nseveral Nacional cultivars indicates significant differences in cacao\ndry bean weight, yield potential, production efficiency, percent healthy\npods, and witches' broom {[}Moniliophthora perniciosa (Stahel) Aime \\&\nPhillips-Mora] disease incidence. Additionally, physical, chemical, and\norganoleptic characteristics suggest that `CCN 51' is different from\nthose of Nacional lineage. Based on population structure analysis, the\npredominant ancestries for `CCN 51' are Iquitos (45.4\\%), Criollo\n(22.2\\%), and Amelonado (21.5\\%) genetic groups. A lesser proportion of\nits genome was accounted for by genetic groups Contamana (3.9\\%), Purns\n(2.5\\%), Maranon (2.1\\%), and Nacional (1.1\\%) admixtures. Results of\nphylogenetic analyses using the unweighted pair group method with\narithmetic mean yielding high bootstrap values strongly support the\nrelatedness of `CCN 51' with Iquitos, Criollo, and Amelonado genetic\ngroups. Moreover, seven mitochondrial simple sequence repeat loci\nrevealed that `CCN 51' maternally inherited the `IMC 67' cytotype. `CCN\n51' constitutes a valuable cacao genetic resource that is currently used\nnot only in its country of origin, but also in many other national\nbreeding and selection programs worldwide.", 
+        "focalspecies": [
+            "Theobroma cacao"
+        ], 
+        "fundingCOO": [], 
+        "year": 2014, 
+        "genetictool": [
+            "simple sequence repeat"
+        ], 
+        "fundingorganization": "MARS, Inc.  [ 58-6631-6-123]; USDA-ARS-SHRS, Miami, FL, cacao program", 
+        "journal": "journal of the american society for horticultural science", 
+        "authorsCOO": [
+            "usa", 
+            "usa", 
+            "usa", 
+            "ecuador", 
+            "ecuador"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Phaedranassa viridiflora (Amaryllidaceae) is an endemic and endangered\nplant restricted to the Northern Andes in Ecuador. It is known in three\nlocations where it is sympatric with other Phaedranassa species.\nPhaedranassa viridiflora is the only species of the genus with yellow\nflowers. We analyzed 13 microsatellite loci to elucidate the genetic\nstructure of the populations of P. viridiflora. Our results provided the\nfirst evidence of natural hybridization in the genus (between P.\nviridiflora and P. dubia in the Pululahua crater of northern Ecuador).\nThe central and southern populations did not show hybridization. Genetic\ndiversity was the highest in the Pululahua population. Central and\nsouthern populations have a higher proportion of clones than Pululahua.\nBayesian and cluster analysis suggest that the yellow flower type\nevolved at least three times along the Ecuadorean Andes. In contrast to\nother Phaedranassa species, Phaedranassa viridiflora shows lower genetic\ndiversity, which is likely related to a vegetative reproductive\nstrategy.", 
+        "focalspecies": [
+            "Phaedranassa viridiflora", 
+            "Swietenia macrophylla"
+        ], 
+        "fundingCOO": [], 
+        "year": 2013, 
+        "genetictool": [
+            "microsatellite"
+        ], 
+        "fundingorganization": "National Science Foundation (NSF)  [ DEB 0129179]", 
+        "journal": "botanical review", 
+        "authorsCOO": [
+            "usa", 
+            "usa", 
+            "usa", 
+            "usa", 
+            "ecuador"
+        ], 
+        "focalspeciesCOO": [
+            [], 
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "There is a growing call for inventories that evaluate geographic\npatterns in diversity of plant genetic resources maintained on farm and\nin species' natural populations in order to enhance their use and\nconservation. Such evaluations are relevant for useful tropical and\nsubtropical tree species, as many of these species are still\nundomesticated, or in incipient stages of domestication and local\npopulations can offer yet-unknown traits of high value to further\ndomestication. For many outcrossing species, such as most trees, inbreeding depression can be an issue, and genetic diversity is\nimportant to sustain local production. Diversity is also crucial for\nspecies to adapt to environmental changes. This paper explores the\npossibilities of incorporating molecular marker data into Geographic\nInformation Systems (GIS) to allow visualization and better\nunderstanding of spatial patterns of genetic diversity as a key input to\noptimize conservation and use of plant genetic resources, based on a\ncase study of cherimoya (Annona cherimola Mill.), a Neotropical fruit\ntree species. We present spatial analyses to (1) improve the\nunderstanding of spatial distribution of genetic diversity of cherimoya\nnatural stands and cultivated trees in Ecuador, Bolivia and Peru based\non microsatellite molecular markers (SSRs); and (2) formulate optimal\nconservation strategies by revealing priority areas for in situ\nconservation, and identifying existing diversity gaps in ex situ\ncollections. We found high levels of allelic richness, locally common\nalleles and expected heterozygosity in cherimoya's putative centre of\norigin, southern Ecuador and northern Peru, whereas levels of diversity\nin southern Peru and especially in Bolivia were significantly lower. The\napplication of GIS on a large microsatellite dataset allows a more\ndetailed prioritization of areas for in situ conservation and targeted\ncollection across the Andean distribution range of cherimoya than\nprevious studies could do, i.e. at province and department level in\nEcuador and Peru, respectively.", 
+        "focalspecies": [
+            "Annona cherimola"
+        ], 
+        "fundingCOO": [
+            "spain"
+        ], 
+        "year": 2012, 
+        "genetictool": [
+            "microsatellite", 
+            "molecular marker"
+        ], 
+        "fundingorganization": "European Commission  [ 015100]; Spanish Ministry of Education  [ AGL2010-15140]; Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria (INIA) from Spain  [ RF2009-00010]; Junta de Andalucia  [ FEDER AGR2742]; INIA-Spain", 
+        "journal": "plos one", 
+        "authorsCOO": [
+            "colombia", 
+            "colombia", 
+            "belgium", 
+            "spain", 
+            "kenya", 
+            "bolivia", 
+            "ecuador", 
+            "ecuador", 
+            "peru"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "Calandrinia galapagosa (Portulacaceae) is a threatened plant endemic to\nSan Cristobal Island, Galapagos. The species is threatened by goat\nherbivory: less than 1300 individuals remain in nine populations, three\nof which have been fenced for protection. It is not known whether these\nthree populations are genetically representative of the species at large\nor whether the three distinct color morphs exhibited by the species\nrepresent different taxonomic units. We measured the frequency of 113\npolymorphic amplified fragment length polymorphism markers in 189\nspecimens representing three different phenotypes from all nine\npopulations to relate the genetic structure of the species to both its\ngeological history and morphological variation. The analysis revealed\nhigh diversity within populations and low, but significant, differentiation between populations. In addition, no genetic\ndiversification was observed across color morphs. We conclude that (1)\nregular gene flow has historically occurred between populations, and (2)\nindividual color morphs are not separate taxa. We identify another\npopulation that should be fenced to ensure maximal protection of genetic\nvariation. Our research serves as a case study of using population\nmolecular genetics for optimizing protection strategies for rare plants\nin tropical archipelagoes affected by introduced herbivores.", 
+        "focalspecies": [], 
+        "fundingCOO": [], 
+        "year": 2011, 
+        "genetictool": [
+            "amplified fragment length polymorphism", 
+            "aflp"
+        ], 
+        "fundingorganization": "Beneficia Foundation; California Academy of Sciences; Cybec Foundation; San Francisco State University (CGLab); Frankfurt Zoological Society; Galapagos Conservation Trust; J.Q. Worthington Foundation Inc.; Keidranen Nature Conservation Fund", 
+        "journal": "biotropica", 
+        "authorsCOO": [
+            "ecuador", 
+            "ecuador", 
+            "italy"
+        ], 
+        "focalspeciesCOO": []
+    }, 
+    {
+        "abstracttext": "The history of sweet potato in the Pacific has long been an enigma.\nArchaeological, linguistic, and ethnobotanical data suggest that\nprehistoric human-mediated dispersal events contributed to the\ndistribution in Oceania of this American domesticate. According to the\n``tripartite hypothesis,{''} sweet potato was introduced into Oceania\nfrom South America in pre-Columbian times and was then later newly\nintroduced, and diffused widely across the Pacific, by Europeans via two\nhistorically documented routes from Mexico and the Caribbean. Although\nsweet potato is the most convincing example of putative pre-Columbian\nconnections between human occupants of Polynesia and South America, the\nsearch for genetic evidence of pre-Columbian dispersal of sweet potato\ninto Oceania has been inconclusive. Our study attempts to fill this gap.\nUsing complementary sets of markers (chloroplast and nuclear\nmicrosatellites) and both modern and herbarium samples, we test the\ntripartite hypothesis. Our results provide strong support for\nprehistoric transfer(s) of sweet potato from South America (Peru-Ecuador\nregion) into Polynesia. Our results also document a temporal shift in\nthe pattern of distribution of genetic variation in sweet potato in\nOceania. Later reintroductions, accompanied by recombination between\ndistinct sweet potato gene pools, have reshuffled the crop's initial\ngenetic base, obscuring primary patterns of diffusion and, at the same\ntime, giving rise to an impressive number of local variants. Moreover, our study shows that phenotypes, names, and neutral genes do not\nnecessarily share completely parallel evolutionary histories.\nMultidisciplinary approaches, thus, appear necessary for accurate\nreconstruction of the intertwined histories of plants and humans.", 
+        "focalspecies": [
+            "Ipomoea batatas"
+        ], 
+        "fundingCOO": [], 
+        "year": 2013, 
+        "genetictool": [
+            "dna"
+        ], 
+        "fundingorganization": "French Ministry of European and Foreign Affairs; SYNTHESYS Project (Synthesis of Systematic Resources); European Community Research Infrastructure Action under the Seventh Framework Program; French Ministry of Higher Education and Research", 
+        "journal": "proceedings of the national academy of sciences of the united states ofamerica", 
+        "authorsCOO": [
+            "france", 
+            "france", 
+            "france", 
+            "france", 
+            "france"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }, 
+    {
+        "abstracttext": "In general, even within a local area, many common plant species are\nfound in different types of environment. We propose that if the\nassociation of a common plant species with different types of\nenvironment is investigated, by analysing all individuals in a given\npopulation as a single entity, the results might be misleading or\nincomplete owing to intraspecific variation. To test this hypothesis, we\nused molecular markers to classify mature Castanopsis chinensis\nindividuals with a diameter at breast height = 40 cm into different\ngenetic groups and analysed the associations of these groups with\ntopographic features and habitats within a 20-ha Dinghushan forest plot, South China. Our results indicated that the different groups had\ndifferent topographical associations, and that the spatial distributions\nand genetic structures of individuals varied among the groups.\nTherefore, if significant genetic structure exists in the population of\na common species within a community, to understand the relationship\nbetween the spatial distributions of individuals in the population and\nthe environment, it is necessary to classify the individuals into\ngenetic groups and analyse the data for these groups, rather than for a\ncombined group of all individuals.", 
+        "focalspecies": [
+            "Castanopsis chinensis"
+        ], 
+        "fundingCOO": [
+            "china"
+        ], 
+        "year": 2012, 
+        "genetictool": [
+            "microsatellite"
+        ], 
+        "fundingorganization": "Chinese Academy of Sciences  [ KSCX2-EW-Z, KSCX2-EW-J-28]; Foreign Exchange Program National Founder  [ 31061160188]; National Key Technology RD Program  [ 2008BAC39B02]; National Natural Science Foundation of China  [ 31170352, 31100312]; Chinese Forest Biodiversity Monitoring Network", 
+        "journal": "oikos", 
+        "authorsCOO": [
+            "china", 
+            "china", 
+            "china"
+        ], 
+        "focalspeciesCOO": [
+            []
+        ]
+    }
+]
