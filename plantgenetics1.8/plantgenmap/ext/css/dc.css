@@ -3,9 +3,12 @@
 }
 
 .dc-chart rect.bar {
+    fill:grey;
     stroke: none;
     cursor: pointer;
 }
+
+
 
 .dc-chart rect.bar:hover {
     fill-opacity: .5;
@@ -56,6 +59,8 @@
 .dc-chart .axis path, .axis line {
     fill: none;
     stroke: #000;
+    stroke-opacity: .5;
+
     shape-rendering: crispEdges;
 }
 
@@ -82,12 +87,12 @@
 }
 
 .dc-chart .brush rect.extent {
-    fill: steelblue;
+    fill: green;
     fill-opacity: .125;
 }
 
 .dc-chart .brush .resize path {
-    fill: grey;
+    fill: #eee;
     stroke: #666;
 }
 
@@ -102,7 +107,7 @@
 
 .dc-chart g.dc-tooltip path {
     fill: none;
-    stroke: grey;
+    stroke: #e3e3e3;
     stroke-opacity: .8;
 }
 
@@ -202,10 +207,12 @@
 }
 
 .dc-chart g.row text {
-    fill: white;
+    fill: #333;
     font-size: 12px;
     cursor: pointer;
 }
+
+
 
 .dc-chart g text {
     /* Makes it so the user can't accidentally click and select text that is meant as a label only */

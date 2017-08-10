@@ -1,0 +1,125 @@
+{
+    "field": "species_last_auth", 
+    "nodes": [
+        {
+            "index": 124, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    134.57291496, 
+                    7.49856307
+                ]
+            }, 
+            "properties": {
+                "name": "Palau", 
+                "nameofficial": "Republic of Palau"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 124
+        }, 
+        {
+            "index": 216, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    144.80747791, 
+                    13.44410137
+                ]
+            }, 
+            "properties": {
+                "name": "Guam", 
+                "nameofficial": "Territory of Guam"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 216
+        }, 
+        {
+            "index": 225, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    145.6739, 
+                    15.09783636
+                ]
+            }, 
+            "properties": {
+                "name": "Northern Mariana Islands", 
+                "nameofficial": "Commonwealth of the Northern Mariana Islands"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 225
+        }, 
+        {
+            "index": 244, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 244
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 3
+        }
+    ]
+}

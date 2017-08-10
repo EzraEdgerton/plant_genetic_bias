@@ -1,0 +1,125 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 76, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    43.19590056, 
+                    32.90170182
+                ]
+            }, 
+            "properties": {
+                "name": "Iraq", 
+                "nameofficial": "Republic of Iraq"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 76
+        }, 
+        {
+            "index": 82, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    36.3757551, 
+                    31.31616588
+                ]
+            }, 
+            "properties": {
+                "name": "Jordan", 
+                "nameofficial": "Hashemite Kingdom of Jordan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 82
+        }, 
+        {
+            "index": 86, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.71798405, 
+                    29.43253341
+                ]
+            }, 
+            "properties": {
+                "name": "Kuwait", 
+                "nameofficial": "State of Kuwait"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 86
+        }, 
+        {
+            "index": 142, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 142
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }
+    ]
+}

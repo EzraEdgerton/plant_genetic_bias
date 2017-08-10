@@ -337,7 +337,7 @@
                 "name": "Cyprus", 
                 "nameofficial": "Republic of Cyprus"
             }, 
-            "score": 1, 
+            "score": 2, 
             "type": "Feature", 
             "id": 42
         }, 
@@ -16376,7 +16376,7 @@
         }, 
         {
             "source": 19, 
-            "score": 1, 
+            "score": 2, 
             "target": 19
         }, 
         {

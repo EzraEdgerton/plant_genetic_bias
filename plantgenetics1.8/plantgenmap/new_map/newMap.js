@@ -1,10 +1,20 @@
-var newMap = angular.module('newMapApp', [], function($locationProvider) {
-  $locationProvider.html5Mode(true);
-});
+var dighumApp = angular.module('dighumApp', ['ngRoute'])
 
-newMap.controller('newMapController', ['$scope', function($scope){
+dighumApp.controller('newMapController', ['$scope', '$window', function($scope, $window){
 
-d3.json('new_map/spec_country_lists.json', function(error, spec_country_lists){
+var appWindow = angular.element($window);
+
+var width2 = window.innerWidth
+	|| document.documentElement.clientWidth
+	|| document.body.clientWidth;
+
+	var height2 = window.innerHeight
+	|| document.documentElement.clientHeight
+	|| document.body.clientHeight;
+
+
+
+d3.json('/new_map/spec_country_lists.json', function(error, spec_country_lists){
 
 	var colorscat = d3.scale.category10();
 	//other colors list for funding
@@ -12,9 +22,10 @@ d3.json('new_map/spec_country_lists.json', function(error, spec_country_lists){
 
 	var colors = [colorscat(0), colorscat(1), colorscat(2), colorscat(3), colorscat(4)]
 	
-	var width  = 1200;
-    var height = 600;
-
+	//var width  = 1200;
+    //var height = 600;
+    var width = width2 - 100
+    var height = height2 - 100
     var species_label_width = 400
 
 	var labelFields = [['Authors', true, 0, 'authors'], 
@@ -26,7 +37,7 @@ d3.json('new_map/spec_country_lists.json', function(error, spec_country_lists){
 	var labels = d3.select('#labels')
                 .append('svg')
                 .attr('id', 'label_svg')
-                .attr('height', 90)
+                .attr('height', 50)
                 .attr('width', width)
 
 
@@ -35,13 +46,13 @@ d3.json('new_map/spec_country_lists.json', function(error, spec_country_lists){
                     .enter()
                     .append('svg')
                     .attr('x', function(d, i){
-                      return 160 * i
+                      return 150 * i
                     })
                     .attr('y', 20)
                     .attr('height', 30)
                     .attr('width', function(d, i){
                     	if(d[3] != 'species'){
-                    		return 160;
+                    		return 150;
                     	}
                     	else{
                     		return species_label_width
@@ -96,39 +107,6 @@ d3.json('new_map/spec_country_lists.json', function(error, spec_country_lists){
                       };
                     })//label_g
 
-var restore_button_svg = labels.append('svg')
-							.attr('x', 0)
-							.attr('y', 60)
-							.attr('height', 30)
-							.attr('width', 160)
-							.attr('id','restoreButton')
-							.classed('restore_button_active', false)
-							.classed('restore_button_inactive', true)
-							.on('click', function(d){
-								hidden_elements = d3.selectAll('.zhidden')
-								hidden_elements.classed('zhidden', false)
-								restor_b = d3.select(this)
-								restor_b.classed('restore_button_active', false)
-								restor_b.classed('restore_button_inactive', true)
-							})
-var restore_button_rect = restore_button_svg.append('rect')
-							.attr('x', 0)
-							.attr('y', 0)
-							.attr('id', 'restoreRect')
-							.style('rx', 10)
-							.style('ry', 10)
-							.style('height', 22)
-							.style('width', 150)
-							.style('fill', 'grey')
-							.style('opacity', .7)
-var restore_text = restore_button_svg.append('text')
-			.style('font-family', 'Helvetica')
-            .style('font-size', 20)
-            .attr('x', 25)
-            .attr('y', 18)
-            .style('opacity', 7)
-            .text('Restore')
-
 
 
 $scope.updateData = function(field){
@@ -136,6 +114,17 @@ $scope.updateData = function(field){
 	field_vis.classed('hidden', function (d, i) {
     return !d3.select(this).classed("hidden")})
 }
+
+function hexToRgb(hex) {
+    var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    return result ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16)
+    } : null;
+}
+
+
                  
 var rect = label_g.append('rect')
                         .attr('x', 0)
@@ -146,7 +135,7 @@ var rect = label_g.append('rect')
                         .style('rx', 4)
                         .style('ry', 4)
                         .attr('height', 22)
-                        .attr('width', 150)
+                        .attr('width', 142)
                         .style('opacity', .7)
                         .style('fill', function(d, i){
                           return colors[i]
@@ -206,15 +195,21 @@ $scope.select_spec_country = function(){
 	visualize_country_data('focalspecies', colorscat(3), 3, $scope.spec_auth, $scope.spec_selected_country)
 
 }
+
+
 spec_color	= hexToRgb(colors[labelFields.length - 1])
 
 spec_options = d3.select('#spec_options')
 spec_options
 	.style('background-color','rgba(' + spec_color.r + ',' + spec_color.g + ',' + spec_color.b + ', .7)')
 	.style('border-radius', '4px')
-	var projection = d3.geo.mercator()
+	/*var projection = d3.geo.mercator()
                 .translate([600, 400])
-                .scale(width + 100);
+                .scale(width + 100);*/
+
+    var projection = d3.geo.mercator()
+                .translate([width/2, height/2])
+                .scale(width - 17);
 
     var path = d3.geo.path().projection(projection);
 
@@ -236,6 +231,8 @@ spec_options
 	    .append("g")
 
 
+
+
     function redraw() {
     	svg.attr("transform", function(){ return "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")"});
 	}
@@ -243,9 +240,10 @@ spec_options
 	queue()
     .defer(d3.json, "data/world-50m.json")
     .defer(d3.tsv, "data/world-country-names.tsv")
+    .defer(d3.json, "authors2.json")
     .await(ready);
 
-    function ready(error, world, names){
+    function ready(error, world, names, species){
     	var countries = topojson.object(world, world.objects.countries).geometries,
       	neighbors = topojson.neighbors(world, countries),
       	i = -1,
@@ -295,10 +293,10 @@ spec_options
 
 
 function getName(name){
-	if (name == 'authors'){return 'authors.json'};
-	if (name == 'firstauthor'){return 'firstauthor.json'};
-	if (name == 'lastauthor'){return 'lastauthor.json'};
-	if (name == 'focalspecies'){return 'focalspecies.json'};
+	if (name == 'authors'){return 'authors2.json'};
+	if (name == 'firstauthor'){return 'firstauthor2.json'};
+	if (name == 'lastauthor'){return 'lastauthor2.json'};
+	if (name == 'focalspecies'){return 'focalspecies2.json'};
 	return 'none'
 	
 }
@@ -422,7 +420,7 @@ function visualize_country_data(name, color, index, specauthfield, specauthcoo )
 				if(species_boo){
 					return d.score/300
 				}
-			      return d.score / 8
+			      return d.score / 40
 			      
 		    })
 		    .style('stroke', color)
@@ -512,6 +510,87 @@ path1.on("mousemove", function(d,i) {
 
 	})//get_file
 	}//visualize country_data
+
+
+var restore_button_svg = d3.select('#map1').append('svg')
+							.attr('x', 0)
+							.attr('y', 0)
+							.style('position', 'absolute')
+							.attr('height', 30)
+							.attr('width', 150)
+							.attr('id','restoreButton')
+							.classed('restore_button_active', false)
+							.classed('restore_button_inactive', true)
+							.on('click', function(d){
+								hidden_elements = d3.selectAll('.zhidden')
+								hidden_elements.classed('zhidden', false)
+								restor_b = d3.select(this)
+								restor_b.classed('restore_button_active', false)
+								restor_b.classed('restore_button_inactive', true)
+							})
+var restore_button_rect = restore_button_svg.append('rect')
+							.attr('x', 0)
+							.attr('y', 0)
+							.attr('id', 'restoreRect')
+							.style('rx', 10)
+							.style('ry', 10)
+							.style('height', 22)
+							.style('width', 150)
+							.style('fill', 'grey')
+							.style('opacity', .7)
+var restore_text = restore_button_svg.append('text')
+			.style('font-family', 'Helvetica')
+            .style('font-size', 20)
+            .attr('x', 25)
+            .attr('y', 18)
+            //.attr('-219')
+            .style('opacity', 7)
+            .text('Restore')
+
+
 })//get spec_country_lists
+
+
+
+
+
+var resizeThings = function(){
+	console.log('resize');
+	width2 = window.innerWidth
+	|| document.documentElement.clientWidth
+	|| document.body.clientWidth;
+
+	height2 = window.innerHeight
+	|| document.documentElement.clientHeight
+	|| document.body.clientHeight;
+	//redrawlabels
+	//$scope.redrawLabels()
+	//redrawmap
+	//$scope.redrawMap()
+	d3.select('#map').attr('width', width2).attr('height', height2 - 100)
+	d3.select('#map1').attr('width', width2 - 34).attr('height', height2 - 250)
+}
+
+appWindow.bind('resize', resizeThings)
+
+resizeThings()
+
+/*appWindow.bind('resize', function () {
+	console.log('resize');
+	width2 = window.innerWidth
+	|| document.documentElement.clientWidth
+	|| document.body.clientWidth;
+
+	height2 = window.innerHeight
+	|| document.documentElement.clientHeight
+	|| document.body.clientHeight;
+	//redrawlabels
+	//$scope.redrawLabels()
+	//redrawmap
+	//$scope.redrawMap()
+	d3.select('#map').attr('width', width2).attr('height', height2)
+	d3.select('#map1').attr('width', width2 - 34).attr('height', height2)
+
+});*/
 
 }]);//controller

@@ -1,0 +1,29 @@
+{
+    "field": "species_all_auth", 
+    "nodes": [
+        {
+            "index": 66, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.96707712, 
+                    15.72598421
+                ]
+            }, 
+            "properties": {
+                "name": "Guatemala", 
+                "nameofficial": "Republic of Guatemala"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 66
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }
+    ]
+}

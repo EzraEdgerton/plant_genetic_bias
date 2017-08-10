@@ -1,0 +1,167 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 9
+        }, 
+        {
+            "index": 154, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    80.83772497, 
+                    7.61264985
+                ]
+            }, 
+            "properties": {
+                "name": "Sri Lanka", 
+                "nameofficial": "Democratic Socialist Republic of Sri  Lanka"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 154
+        }, 
+        {
+            "index": 176, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    166.95916, 
+                    -15.37256614
+                ]
+            }, 
+            "properties": {
+                "name": "Vanuatu", 
+                "nameofficial": "Republic of Vanuatu"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 176
+        }, 
+        {
+            "index": 228, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    165.5878376, 
+                    -21.2610402
+                ]
+            }, 
+            "properties": {
+                "name": "New Caledonia", 
+                "nameofficial": "Territory of New Caledonia And Dependencies"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 228
+        }, 
+        {
+            "index": 244, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 244
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }
+    ]
+}

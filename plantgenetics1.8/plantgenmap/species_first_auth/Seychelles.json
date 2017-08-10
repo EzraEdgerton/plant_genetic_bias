@@ -1,0 +1,167 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 69, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.72692293, 
+                    4.47957059
+                ]
+            }, 
+            "properties": {
+                "name": "Guyana", 
+                "nameofficial": "Republic of Guyana"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 69
+        }, 
+        {
+            "index": 97, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    46.97898228, 
+                    -19.79858543
+                ]
+            }, 
+            "properties": {
+                "name": "Madagascar", 
+                "nameofficial": "Republic of Madagascar"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 97
+        }, 
+        {
+            "index": 117, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 117
+        }, 
+        {
+            "index": 145, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    55.49061371, 
+                    -4.68053204
+                ]
+            }, 
+            "properties": {
+                "name": "Seychelles", 
+                "nameofficial": "Republic of Seychelles"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 145
+        }, 
+        {
+            "index": 147, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.83323559, 
+                    1.33873261
+                ]
+            }, 
+            "properties": {
+                "name": "Singapore", 
+                "nameofficial": "Republic of Singapore"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 147
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }
+    ]
+}

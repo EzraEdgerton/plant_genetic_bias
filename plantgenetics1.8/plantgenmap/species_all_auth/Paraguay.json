@@ -1,0 +1,214 @@
+{
+    "field": "species_all_auth", 
+    "nodes": [
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 7
+        }, 
+        {
+            "index": 23, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.331526, 
+                    -11.80965046
+                ]
+            }, 
+            "properties": {
+                "name": "Brazil", 
+                "nameofficial": "Federative Republic of Brazil"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 23
+        }, 
+        {
+            "index": 69, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.72692293, 
+                    4.47957059
+                ]
+            }, 
+            "properties": {
+                "name": "Guyana", 
+                "nameofficial": "Republic of Guyana"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 69
+        }, 
+        {
+            "index": 127, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.29551057, 
+                    -23.38564782
+                ]
+            }, 
+            "properties": {
+                "name": "Paraguay", 
+                "nameofficial": "Republic of Paraguay"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 127
+        }, 
+        {
+            "index": 128, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 128
+        }, 
+        {
+            "index": 210, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -52.97746057, 
+                    4.01114381
+                ]
+            }, 
+            "properties": {
+                "name": "French Guiana", 
+                "nameofficial": "French Guiana"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 210
+        }
+    ], 
+    "links": [
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 5, 
+            "score": 1, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }
+    ]
+}

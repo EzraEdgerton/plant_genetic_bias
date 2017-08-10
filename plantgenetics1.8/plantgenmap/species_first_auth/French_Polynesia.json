@@ -1,0 +1,88 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 181, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -159.777669, 
+                    -21.23673066
+                ]
+            }, 
+            "properties": {
+                "name": "Cook Islands", 
+                "nameofficial": "Cook Islands"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 181
+        }, 
+        {
+            "index": 230, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -149.406839, 
+                    -17.66243898
+                ]
+            }, 
+            "properties": {
+                "name": "French Polynesia", 
+                "nameofficial": "Territory of French Polynesia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 230
+        }, 
+        {
+            "index": 232, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -128.3242373, 
+                    -24.37673925
+                ]
+            }, 
+            "properties": {
+                "name": "Pitcairn", 
+                "nameofficial": "Pitcairn Group of Islands"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 232
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }
+    ]
+}

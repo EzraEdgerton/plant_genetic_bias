@@ -14,7 +14,7 @@
                 "name": "France", 
                 "nameofficial": "French Republic"
             }, 
-            "score": 1, 
+            "score": 2, 
             "type": "Feature", 
             "id": 58
         }
@@ -22,7 +22,7 @@
     "links": [
         {
             "source": 0, 
-            "score": 1, 
+            "score": 2, 
             "target": 0
         }
     ]

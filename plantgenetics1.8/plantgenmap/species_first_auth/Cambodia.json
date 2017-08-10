@@ -1,0 +1,256 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 9
+        }, 
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    104.84814273, 
+                    12.83288883
+                ]
+            }, 
+            "properties": {
+                "name": "Cambodia", 
+                "nameofficial": "Kingdom of Cambodia"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 28
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 35
+        }, 
+        {
+            "index": 41, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.00064743, 
+                    21.54513189
+                ]
+            }, 
+            "properties": {
+                "name": "Cuba", 
+                "nameofficial": "Republic of Cuba"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 41
+        }, 
+        {
+            "index": 88, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.61611347, 
+                    17.76075593
+                ]
+            }, 
+            "properties": {
+                "name": "Laos", 
+                "nameofficial": "Lao People'S Democratic Republic"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 88
+        }, 
+        {
+            "index": 162, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 162
+        }, 
+        {
+            "index": 177, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    107.14012804, 
+                    17.19931699
+                ]
+            }, 
+            "properties": {
+                "name": "Vietnam", 
+                "nameofficial": "Socialist Republic of Viet Nam"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 177
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 5, 
+            "score": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 5, 
+            "score": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 6, 
+            "score": 4, 
+            "target": 1
+        }, 
+        {
+            "source": 5, 
+            "score": 4, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 6, 
+            "score": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 6
+        }
+    ]
+}

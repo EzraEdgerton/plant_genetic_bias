@@ -1,0 +1,204 @@
+{
+    "field": "species_last_auth", 
+    "nodes": [
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.87170014, 
+                    41.00017358
+                ]
+            }, 
+            "properties": {
+                "name": "Albania", 
+                "nameofficial": "Republic of Albania"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 2
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.485832, 
+                    42.70160678
+                ]
+            }, 
+            "properties": {
+                "name": "Bulgaria", 
+                "nameofficial": "Republic of Bulgaria"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 25
+        }, 
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 30
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 62
+        }, 
+        {
+            "index": 64, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 64
+        }, 
+        {
+            "index": 144, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.29725084, 
+                    44.06736041
+                ]
+            }, 
+            "properties": {
+                "name": "Serbia", 
+                "nameofficial": "Republic of Serbia"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 144
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 4, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "score": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 5
+        }
+    ]
+}
