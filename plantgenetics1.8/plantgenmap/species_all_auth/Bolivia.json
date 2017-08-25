@@ -2,7 +2,7 @@
     "field": "species_all_auth", 
     "nodes": [
         {
-            "index": 1, 
+            "index": 0, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -19,7 +19,7 @@
             "id": 1
         }, 
         {
-            "index": 3, 
+            "index": 1, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -36,7 +36,7 @@
             "id": 3
         }, 
         {
-            "index": 7, 
+            "index": 2, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -53,7 +53,7 @@
             "id": 7
         }, 
         {
-            "index": 9, 
+            "index": 3, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -70,7 +70,7 @@
             "id": 9
         }, 
         {
-            "index": 10, 
+            "index": 4, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -87,7 +87,7 @@
             "id": 10
         }, 
         {
-            "index": 17, 
+            "index": 5, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -104,7 +104,7 @@
             "id": 17
         }, 
         {
-            "index": 18, 
+            "index": 6, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -121,7 +121,7 @@
             "id": 18
         }, 
         {
-            "index": 23, 
+            "index": 7, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -138,7 +138,7 @@
             "id": 23
         }, 
         {
-            "index": 30, 
+            "index": 8, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -155,7 +155,7 @@
             "id": 30
         }, 
         {
-            "index": 34, 
+            "index": 9, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -172,7 +172,7 @@
             "id": 34
         }, 
         {
-            "index": 35, 
+            "index": 10, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -189,7 +189,7 @@
             "id": 35
         }, 
         {
-            "index": 36, 
+            "index": 11, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -206,7 +206,7 @@
             "id": 36
         }, 
         {
-            "index": 39, 
+            "index": 12, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -223,7 +223,7 @@
             "id": 39
         }, 
         {
-            "index": 45, 
+            "index": 13, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -240,7 +240,7 @@
             "id": 45
         }, 
         {
-            "index": 48, 
+            "index": 14, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -257,7 +257,7 @@
             "id": 48
         }, 
         {
-            "index": 49, 
+            "index": 15, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -274,7 +274,7 @@
             "id": 49
         }, 
         {
-            "index": 50, 
+            "index": 16, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -291,7 +291,7 @@
             "id": 50
         }, 
         {
-            "index": 51, 
+            "index": 17, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -308,7 +308,7 @@
             "id": 51
         }, 
         {
-            "index": 54, 
+            "index": 18, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -325,7 +325,7 @@
             "id": 54
         }, 
         {
-            "index": 55, 
+            "index": 19, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -342,7 +342,7 @@
             "id": 55
         }, 
         {
-            "index": 58, 
+            "index": 20, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -359,7 +359,7 @@
             "id": 58
         }, 
         {
-            "index": 62, 
+            "index": 21, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -376,7 +376,7 @@
             "id": 62
         }, 
         {
-            "index": 66, 
+            "index": 22, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -393,7 +393,7 @@
             "id": 66
         }, 
         {
-            "index": 70, 
+            "index": 23, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -410,7 +410,7 @@
             "id": 70
         }, 
         {
-            "index": 71, 
+            "index": 24, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -427,7 +427,7 @@
             "id": 71
         }, 
         {
-            "index": 74, 
+            "index": 25, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -444,7 +444,7 @@
             "id": 74
         }, 
         {
-            "index": 75, 
+            "index": 26, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -461,7 +461,7 @@
             "id": 75
         }, 
         {
-            "index": 79, 
+            "index": 27, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -478,7 +478,7 @@
             "id": 79
         }, 
         {
-            "index": 80, 
+            "index": 28, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -495,7 +495,7 @@
             "id": 80
         }, 
         {
-            "index": 81, 
+            "index": 29, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -512,7 +512,7 @@
             "id": 81
         }, 
         {
-            "index": 97, 
+            "index": 30, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -529,7 +529,7 @@
             "id": 97
         }, 
         {
-            "index": 106, 
+            "index": 31, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -546,7 +546,7 @@
             "id": 106
         }, 
         {
-            "index": 116, 
+            "index": 32, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -563,7 +563,7 @@
             "id": 116
         }, 
         {
-            "index": 117, 
+            "index": 33, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -580,7 +580,7 @@
             "id": 117
         }, 
         {
-            "index": 118, 
+            "index": 34, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -597,7 +597,7 @@
             "id": 118
         }, 
         {
-            "index": 125, 
+            "index": 35, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -614,7 +614,7 @@
             "id": 125
         }, 
         {
-            "index": 127, 
+            "index": 36, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -631,7 +631,7 @@
             "id": 127
         }, 
         {
-            "index": 128, 
+            "index": 37, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -648,7 +648,7 @@
             "id": 128
         }, 
         {
-            "index": 131, 
+            "index": 38, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -665,7 +665,7 @@
             "id": 131
         }, 
         {
-            "index": 145, 
+            "index": 39, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -682,7 +682,7 @@
             "id": 145
         }, 
         {
-            "index": 152, 
+            "index": 40, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -699,7 +699,7 @@
             "id": 152
         }, 
         {
-            "index": 153, 
+            "index": 41, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -716,7 +716,7 @@
             "id": 153
         }, 
         {
-            "index": 154, 
+            "index": 42, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -733,7 +733,7 @@
             "id": 154
         }, 
         {
-            "index": 158, 
+            "index": 43, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -750,7 +750,7 @@
             "id": 158
         }, 
         {
-            "index": 168, 
+            "index": 44, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -767,7 +767,7 @@
             "id": 168
         }, 
         {
-            "index": 186, 
+            "index": 45, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -784,7 +784,7 @@
             "id": 186
         }, 
         {
-            "index": 200, 
+            "index": 46, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -801,7 +801,7 @@
             "id": 200
         }, 
         {
-            "index": 201, 
+            "index": 47, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -818,7 +818,7 @@
             "id": 201
         }, 
         {
-            "index": 235, 
+            "index": 48, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
@@ -835,7 +835,7 @@
             "id": 235
         }, 
         {
-            "index": 244, 
+            "index": 49, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [

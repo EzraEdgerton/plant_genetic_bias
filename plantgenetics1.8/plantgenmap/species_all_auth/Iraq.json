@@ -2,7 +2,7 @@
     "field": "species_all_auth", 
     "nodes": [
         {
-            "index": 58, 
+            "index": 0, 
             "geometry": {
                 "type": "Point", 
                 "coordinates": [

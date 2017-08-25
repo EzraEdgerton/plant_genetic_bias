@@ -162,7 +162,7 @@ def format_and_write(data):
 		#countries_length = len(country_locations_json)
 		for n in nodes: 
 			formatted_nodes.append(nodes[n])
-		formatted_nodes = sorted(formatted_nodes, key=lambda node: node['index'])
+		formatted_nodes = sorted(formatted_nodes, key=lambda node: node['id'])
 
 		formatted_links = []
 		links = data[d]['links']
@@ -170,8 +170,11 @@ def format_and_write(data):
 		for l in links:
 			link_indexes = l.split(';')
 			
-			source = contains(formatted_nodes, lambda n: n['index'] == int(link_indexes[0]))
-			target = contains(formatted_nodes, lambda n: n['index'] == int(link_indexes[1]))
+			source = contains(formatted_nodes, lambda n: n['id'] == int(link_indexes[0]))
+			target = contains(formatted_nodes, lambda n: n['id'] == int(link_indexes[1]))
+
+			formatted_nodes[source]['index'] = source
+			formatted_nodes[target]['index'] = target
 
 			formatted_links.append({'source' : source,
 									'target' : target,
